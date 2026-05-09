@@ -1,0 +1,235 @@
+﻿proyecto_id,nombre_proyecto,empresa_id,empresa,cliente_sector,lider_proyecto_id,fecha_inicio,fecha_fin_estimada,estado,presupuesto_mxn,costo_real_mxn,desviacion_presupuesto_pct,num_recursos,metodologia,satisfaccion_cliente
+PRY0001,Plataforma de Analytics BI,E01,Accenture Monterrey,Telecomunicaciones,EMP00001,2024-11-08,2025-12-03,En Planeación,8894179.76,9299398.85,4.56,4,Agile/Scrum,3.8
+PRY0002,Migración a la Nube AWS,E01,Accenture Monterrey,Gobierno y Sector Público,EMP00001,2023-11-25,2025-03-25,En Curso,8999460.13,11196037.63,24.41,16,Agile/Scrum,4.3
+PRY0003,Modernización de Infraestructura,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2023-05-31,2024-04-30,Completado,11102497.67,10516551.85,-5.28,12,Agile/Scrum,4.8
+PRY0004,Portal Omnicanal Cliente,E01,Accenture Monterrey,Manufactura Automotriz,EMP00001,2024-12-15,2026-03-30,En Planeación,14236128.41,15142931.07,6.37,16,Híbrida,3.8
+PRY0005,Automatización RPA,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2024-01-25,2025-02-10,En Curso,6196750.33,7623203.58,23.02,7,Híbrida,4.7
+PRY0006,Plataforma de Analytics BI,E01,Accenture Monterrey,Gobierno y Sector Público,EMP00001,2024-09-18,2024-12-15,En Planeación,4282798.37,3949120.09,-7.79,7,Agile/Scrum,4.5
+PRY0007,Implementación SAP S/4HANA,E01,Accenture Monterrey,Energía y Utilities,EMP00001,2024-03-13,2024-05-12,Completado,14787453.04,17060914.23,15.37,22,Waterfall,4.1
+PRY0008,Modernización de Infraestructura,E01,Accenture Monterrey,Manufactura Automotriz,EMP00001,2024-12-10,2025-08-01,En Curso,8346560.59,10390121.26,24.48,6,Agile/Scrum,4.6
+PRY0009,Ciberseguridad Zero Trust,E01,Accenture Monterrey,Energía y Utilities,EMP00001,2023-10-19,2024-08-19,Completado,9436081.33,8665034.41,-8.17,14,SAFe,3.6
+PRY0010,Data Lake Empresarial,E01,Accenture Monterrey,Retail y E-commerce,EMP00001,2024-01-09,2025-03-16,En Curso,4579018.94,5195449.41,13.46,8,Agile/Scrum,4.9
+PRY0011,Modernización de Infraestructura,E01,Accenture Monterrey,Energía y Utilities,EMP00001,2023-12-21,2024-04-24,Completado,2756877.37,3172146.6,15.06,13,Híbrida,3.7
+PRY0012,Nearshoring Center of Excellence,E01,Accenture Monterrey,Banca y Finanzas,EMP00001,2024-06-30,2024-11-06,En Curso,12060046.13,12301878.73,2.01,10,Agile/Scrum,3.9
+PRY0013,DevOps Pipeline CI/CD,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2024-05-20,2025-05-02,En Curso,10996957.51,13038906.0,18.57,12,Agile/Scrum,3.3
+PRY0014,Migración a la Nube AWS,E01,Accenture Monterrey,Logística y Cadena de Suministro,EMP00001,2023-01-31,2024-02-19,Completado,12153014.72,13047520.64,7.36,19,Agile/Scrum,5.0
+PRY0015,API Gateway Microservicios,E01,Accenture Monterrey,Retail y E-commerce,EMP00001,2023-09-03,2024-01-14,Completado,10828419.01,11017388.2,1.75,17,SAFe,3.7
+PRY0016,DevOps Pipeline CI/CD,E01,Accenture Monterrey,Telecomunicaciones,EMP00001,2024-07-26,2025-03-17,En Curso,2737616.36,2591112.89,-5.35,10,Agile/Scrum,3.0
+PRY0017,DevOps Pipeline CI/CD,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2024-12-09,2025-07-01,En Planeación,2184447.99,2729677.47,24.96,5,Agile/Scrum,5.0
+PRY0018,Dashboard KPI Ejecutivo,E01,Accenture Monterrey,Banca y Finanzas,EMP00001,2024-03-09,2025-02-03,En Curso,10862803.19,11584340.36,6.64,4,Agile/Scrum,4.3
+PRY0019,DevOps Pipeline CI/CD,E01,Accenture Monterrey,Logística y Cadena de Suministro,EMP00001,2023-09-07,2024-04-03,Completado,7271063.94,8948024.0,23.06,15,Agile/Scrum,4.5
+PRY0020,Ciberseguridad Zero Trust,E01,Accenture Monterrey,Retail y E-commerce,EMP00001,2024-10-27,2025-04-03,En Planeación,829295.3,760793.22,-8.26,16,Agile/Scrum,3.9
+PRY0021,Transformación Digital ERP,E01,Accenture Monterrey,Telecomunicaciones,EMP00001,2023-01-13,2024-06-17,Completado,5922391.54,6261262.33,5.72,13,Agile/Scrum,3.2
+PRY0022,Data Lake Empresarial,E01,Accenture Monterrey,Manufactura Automotriz,EMP00001,2024-11-15,2025-02-05,En Planeación,8709182.41,9016265.33,3.53,7,Agile/Scrum,3.4
+PRY0023,Transformación Digital ERP,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2024-03-10,2024-06-17,Completado,1835016.12,2245357.72,22.36,22,Híbrida,5.0
+PRY0024,Ciberseguridad Zero Trust,E01,Accenture Monterrey,Logística y Cadena de Suministro,EMP00001,2024-10-30,2026-04-09,En Curso,13858858.53,13674108.49,-1.33,8,Agile/Scrum,3.9
+PRY0025,Automatización RPA,E01,Accenture Monterrey,Logística y Cadena de Suministro,EMP00001,2023-02-17,2024-04-29,Completado,11008403.04,13519252.28,22.81,15,Híbrida,4.1
+PRY0026,API Gateway Microservicios,E01,Accenture Monterrey,Retail y E-commerce,EMP00001,2024-10-11,2025-11-10,En Curso,3574385.97,3930145.25,9.95,20,SAFe,3.5
+PRY0027,Plataforma de Analytics BI,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2023-10-31,2025-02-04,En Curso,9653569.0,11091653.35,14.9,8,Agile/Scrum,4.3
+PRY0028,Chatbot IA Servicio al Cliente,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2024-05-27,2025-10-30,En Curso,3677246.95,4229349.43,15.01,22,Híbrida,4.5
+PRY0029,Transformación Digital ERP,E01,Accenture Monterrey,Banca y Finanzas,EMP00001,2024-12-30,2025-12-06,En Planeación,10466599.93,9681471.2,-7.5,20,Híbrida,3.9
+PRY0030,Integración Sistemas Legados,E01,Accenture Monterrey,Energía y Utilities,EMP00001,2024-12-01,2026-04-09,En Curso,7099805.64,7379572.1,3.94,21,Agile/Scrum,3.6
+PRY0031,API Gateway Microservicios,E01,Accenture Monterrey,Energía y Utilities,EMP00001,2023-06-21,2024-11-16,Completado,5312208.26,4945976.02,-6.89,17,Waterfall,3.5
+PRY0032,Nearshoring Center of Excellence,E01,Accenture Monterrey,Retail y E-commerce,EMP00001,2023-05-21,2024-09-06,Completado,3160222.05,3754212.15,18.8,20,Kanban,4.6
+PRY0033,Nearshoring Center of Excellence,E01,Accenture Monterrey,Gobierno y Sector Público,EMP00001,2024-08-08,2025-10-17,En Planeación,6200690.9,7129909.48,14.99,19,Agile/Scrum,3.0
+PRY0034,Automatización RPA,E01,Accenture Monterrey,Banca y Finanzas,EMP00001,2023-09-27,2023-12-29,Completado,13277074.9,13159649.11,-0.88,8,Kanban,3.5
+PRY0035,Plataforma de Analytics BI,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2024-03-25,2025-01-21,En Curso,7712605.86,8967714.5,16.27,19,Agile/Scrum,4.0
+PRY0036,Integración Sistemas Legados,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2024-06-14,2024-10-28,En Curso,10998935.49,10478443.06,-4.73,11,Híbrida,4.0
+PRY0037,Ciberseguridad Zero Trust,E01,Accenture Monterrey,Energía y Utilities,EMP00001,2024-10-25,2025-03-13,En Planeación,7871457.42,7768678.53,-1.31,11,Agile/Scrum,3.4
+PRY0038,Chatbot IA Servicio al Cliente,E01,Accenture Monterrey,Logística y Cadena de Suministro,EMP00001,2024-07-11,2025-01-02,En Planeación,3229602.52,3930897.13,21.71,11,Híbrida,3.4
+PRY0039,Plataforma de Analytics BI,E01,Accenture Monterrey,Logística y Cadena de Suministro,EMP00001,2024-07-27,2025-04-28,En Curso,6448252.84,7545415.81,17.01,16,SAFe,4.2
+PRY0040,Implementación SAP S/4HANA,E01,Accenture Monterrey,Manufactura Automotriz,EMP00001,2024-11-02,2025-04-16,En Planeación,7907772.29,7774598.62,-1.68,13,Kanban,5.0
+PRY0041,Modernización de Infraestructura,E01,Accenture Monterrey,Banca y Finanzas,EMP00001,2023-01-06,2023-07-24,Completado,13615225.28,14021177.83,2.98,13,SAFe,3.0
+PRY0042,Integración Sistemas Legados,E01,Accenture Monterrey,Gobierno y Sector Público,EMP00001,2024-08-11,2026-01-07,En Planeación,7247842.65,7456660.14,2.88,8,Agile/Scrum,4.5
+PRY0043,Integración Sistemas Legados,E01,Accenture Monterrey,Gobierno y Sector Público,EMP00001,2024-01-15,2024-07-21,Completado,9986099.26,11809406.5,18.26,4,Híbrida,3.2
+PRY0044,Ciberseguridad Zero Trust,E01,Accenture Monterrey,Salud y Farmacéutico,EMP00001,2023-04-11,2023-07-24,Completado,10624793.41,10619836.54,-0.05,17,Agile/Scrum,3.9
+PRY0045,Modernización de Infraestructura,E01,Accenture Monterrey,Retail y E-commerce,EMP00001,2023-05-15,2024-09-27,Completado,13435086.01,13942341.76,3.78,24,Agile/Scrum,3.5
+PRY0046,Automatización RPA,E01,Accenture Monterrey,Telecomunicaciones,EMP00001,2024-10-15,2025-01-09,En Curso,14810628.11,15344615.33,3.61,20,Agile/Scrum,3.5
+PRY0047,Implementación SAP S/4HANA,E01,Accenture Monterrey,Energía y Utilities,EMP00001,2023-04-09,2024-05-17,Completado,7785153.79,7152045.56,-8.13,18,Waterfall,3.7
+PRY0048,Dashboard KPI Ejecutivo,E01,Accenture Monterrey,Logística y Cadena de Suministro,EMP00001,2023-05-28,2023-11-01,Completado,6847648.71,7976886.02,16.49,8,Agile/Scrum,5.0
+PRY0049,Chatbot IA Servicio al Cliente,E01,Accenture Monterrey,Banca y Finanzas,EMP00001,2023-08-12,2023-11-08,Completado,14883668.87,17370577.34,16.71,16,Híbrida,4.0
+PRY0050,Chatbot IA Servicio al Cliente,E01,Accenture Monterrey,Telecomunicaciones,EMP00001,2023-06-25,2024-02-29,Completado,8768843.54,8155885.38,-6.99,9,SAFe,3.5
+PRY0051,Integración Sistemas Legados,E01,Accenture Monterrey,Gobierno y Sector Público,EMP00001,2023-09-13,2023-11-13,Completado,4634553.38,4936873.3,6.52,9,Agile/Scrum,3.8
+PRY0052,API Gateway Microservicios,E01,Accenture Monterrey,Gobierno y Sector Público,EMP00001,2024-11-23,2025-03-07,En Planeación,14085104.99,16453814.46,16.82,16,Waterfall,4.6
+PRY0053,Implementación SAP S/4HANA,E02,Tata Consultancy Services,Energía y Utilities,EMP01779,2024-02-08,2025-06-08,En Curso,8619572.74,10392956.49,20.57,22,Agile/Scrum,3.1
+PRY0054,Portal Omnicanal Cliente,E02,Tata Consultancy Services,Retail y E-commerce,EMP01779,2023-06-21,2024-08-14,Completado,1744219.88,1741480.64,-0.16,10,SAFe,4.1
+PRY0055,Ciberseguridad Zero Trust,E02,Tata Consultancy Services,Banca y Finanzas,EMP01779,2024-11-28,2025-02-09,En Curso,11097355.56,12319188.64,11.01,16,SAFe,3.3
+PRY0056,API Gateway Microservicios,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2023-10-14,2024-04-30,Completado,14514995.65,13069684.21,-9.96,14,Kanban,4.2
+PRY0057,Ciberseguridad Zero Trust,E02,Tata Consultancy Services,Banca y Finanzas,EMP01779,2023-11-14,2024-01-17,Completado,10609969.23,12932809.37,21.89,20,Agile/Scrum,3.4
+PRY0058,Plataforma de Analytics BI,E02,Tata Consultancy Services,Salud y Farmacéutico,EMP01779,2024-05-23,2025-01-17,En Curso,4767511.84,5634501.75,18.19,7,Agile/Scrum,3.2
+PRY0059,API Gateway Microservicios,E02,Tata Consultancy Services,Logística y Cadena de Suministro,EMP01779,2024-07-05,2024-11-27,En Planeación,3078894.01,3460387.07,12.39,10,Agile/Scrum,4.9
+PRY0060,Ciberseguridad Zero Trust,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2023-12-31,2025-03-31,En Curso,10092234.84,11703538.39,15.97,5,SAFe,4.7
+PRY0061,Plataforma de Analytics BI,E02,Tata Consultancy Services,Salud y Farmacéutico,EMP01779,2023-03-12,2024-01-27,Completado,12883035.46,11865786.68,-7.9,23,Agile/Scrum,3.7
+PRY0062,Portal Omnicanal Cliente,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2023-09-07,2024-01-18,Completado,4236430.31,5156850.09,21.73,22,Agile/Scrum,3.7
+PRY0063,Integración Sistemas Legados,E02,Tata Consultancy Services,Manufactura Automotriz,EMP01779,2024-04-29,2024-11-19,Completado,7169129.56,6961686.58,-2.89,13,SAFe,4.9
+PRY0064,Implementación SAP S/4HANA,E02,Tata Consultancy Services,Logística y Cadena de Suministro,EMP01779,2024-08-30,2025-12-12,En Planeación,11982176.38,11394641.48,-4.9,13,Kanban,4.4
+PRY0065,Chatbot IA Servicio al Cliente,E02,Tata Consultancy Services,Logística y Cadena de Suministro,EMP01779,2024-08-19,2025-09-29,En Curso,11674444.81,13213175.22,13.18,10,SAFe,3.1
+PRY0066,Dashboard KPI Ejecutivo,E02,Tata Consultancy Services,Banca y Finanzas,EMP01779,2023-12-05,2024-05-12,Completado,14668577.88,15626379.57,6.53,14,SAFe,3.3
+PRY0067,Automatización RPA,E02,Tata Consultancy Services,Telecomunicaciones,EMP01779,2024-11-19,2025-02-18,En Planeación,13080543.21,12262260.63,-6.26,18,SAFe,3.3
+PRY0068,Dashboard KPI Ejecutivo,E02,Tata Consultancy Services,Manufactura Automotriz,EMP01779,2023-06-25,2024-07-08,Completado,6588567.28,7625688.39,15.74,12,Agile/Scrum,4.9
+PRY0069,Plataforma de Analytics BI,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2024-05-31,2025-10-01,En Curso,1645438.44,2005671.54,21.89,19,Agile/Scrum,4.5
+PRY0070,Transformación Digital ERP,E02,Tata Consultancy Services,Banca y Finanzas,EMP01779,2024-07-24,2025-08-06,En Curso,6761268.23,6888957.84,1.89,22,SAFe,3.9
+PRY0071,Migración a la Nube AWS,E02,Tata Consultancy Services,Banca y Finanzas,EMP01779,2024-12-10,2026-04-21,En Curso,8475083.8,9362030.1,10.47,15,Waterfall,3.7
+PRY0072,DevOps Pipeline CI/CD,E02,Tata Consultancy Services,Energía y Utilities,EMP01779,2024-10-17,2026-01-21,En Curso,10541228.53,11814450.62,12.08,5,Híbrida,4.6
+PRY0073,Modernización de Infraestructura,E02,Tata Consultancy Services,Retail y E-commerce,EMP01779,2024-12-25,2026-06-06,En Planeación,11150996.14,10298138.16,-7.65,7,Agile/Scrum,4.7
+PRY0074,Transformación Digital ERP,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2023-03-09,2023-07-30,Completado,4402935.1,5127438.62,16.46,5,SAFe,4.3
+PRY0075,Data Lake Empresarial,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2023-04-17,2023-09-02,Completado,5495714.03,5065229.17,-7.83,9,Agile/Scrum,3.5
+PRY0076,API Gateway Microservicios,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2024-12-01,2026-03-07,En Curso,14295029.76,15839761.59,10.81,16,Agile/Scrum,4.0
+PRY0077,Automatización RPA,E02,Tata Consultancy Services,Manufactura Automotriz,EMP01779,2023-08-18,2024-03-22,Completado,8723924.81,9446026.52,8.28,5,Agile/Scrum,4.6
+PRY0078,Dashboard KPI Ejecutivo,E02,Tata Consultancy Services,Banca y Finanzas,EMP01779,2023-01-18,2024-06-22,Completado,13283606.55,13719937.18,3.28,21,SAFe,3.5
+PRY0079,Ciberseguridad Zero Trust,E02,Tata Consultancy Services,Energía y Utilities,EMP01779,2024-10-21,2026-03-02,En Curso,803358.79,831595.31,3.51,10,SAFe,3.8
+PRY0080,Chatbot IA Servicio al Cliente,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2023-03-17,2024-01-29,Completado,8528489.79,10613046.75,24.44,6,Híbrida,3.1
+PRY0081,Dashboard KPI Ejecutivo,E02,Tata Consultancy Services,Manufactura Automotriz,EMP01779,2023-04-21,2024-02-09,Completado,8525650.88,10297880.51,20.79,14,Agile/Scrum,4.4
+PRY0082,API Gateway Microservicios,E02,Tata Consultancy Services,Telecomunicaciones,EMP01779,2024-05-31,2025-01-18,En Curso,8623292.04,9931532.1,15.17,18,Waterfall,4.0
+PRY0083,Dashboard KPI Ejecutivo,E02,Tata Consultancy Services,Gobierno y Sector Público,EMP01779,2024-12-11,2026-02-13,En Curso,3233211.46,3117109.29,-3.59,19,Agile/Scrum,4.2
+PRY0084,Implementación SAP S/4HANA,E02,Tata Consultancy Services,Manufactura Automotriz,EMP01779,2023-08-21,2024-08-01,Completado,1088105.98,1187053.49,9.09,8,SAFe,3.1
+PRY0085,Nearshoring Center of Excellence,E02,Tata Consultancy Services,Retail y E-commerce,EMP01779,2023-02-01,2023-09-18,Completado,8980553.93,8824231.83,-1.74,16,Agile/Scrum,4.9
+PRY0086,Plataforma de Analytics BI,E02,Tata Consultancy Services,Manufactura Automotriz,EMP01779,2023-07-03,2023-09-05,Completado,12586381.97,11738009.01,-6.74,11,SAFe,3.2
+PRY0087,Chatbot IA Servicio al Cliente,E02,Tata Consultancy Services,Salud y Farmacéutico,EMP01779,2024-03-20,2025-08-01,En Curso,6502007.57,7568559.38,16.4,12,Agile/Scrum,4.9
+PRY0088,Dashboard KPI Ejecutivo,E03,Neoris,Salud y Farmacéutico,EMP03045,2023-11-12,2024-04-27,Completado,5609325.08,5711076.06,1.81,12,Agile/Scrum,4.1
+PRY0089,Integración Sistemas Legados,E03,Neoris,Gobierno y Sector Público,EMP03045,2024-01-06,2025-02-03,En Curso,11171069.36,13120512.18,17.45,15,Híbrida,4.1
+PRY0090,Dashboard KPI Ejecutivo,E03,Neoris,Manufactura Automotriz,EMP03045,2024-06-05,2025-08-17,En Curso,12922838.48,14477570.88,12.03,12,Agile/Scrum,4.3
+PRY0091,Modernización de Infraestructura,E03,Neoris,Manufactura Automotriz,EMP03045,2024-12-25,2025-06-20,En Curso,8667884.87,8520016.17,-1.71,16,Kanban,3.2
+PRY0092,Nearshoring Center of Excellence,E03,Neoris,Banca y Finanzas,EMP03045,2024-08-05,2025-01-31,En Planeación,6020038.61,6242568.98,3.7,23,SAFe,3.0
+PRY0093,DevOps Pipeline CI/CD,E03,Neoris,Energía y Utilities,EMP03045,2023-08-12,2024-06-09,Completado,5901061.58,6610198.43,12.02,22,Waterfall,5.0
+PRY0094,Modernización de Infraestructura,E03,Neoris,Banca y Finanzas,EMP03045,2023-10-09,2024-11-02,Completado,2796358.73,2826796.75,1.09,13,SAFe,4.2
+PRY0095,Implementación SAP S/4HANA,E03,Neoris,Salud y Farmacéutico,EMP03045,2024-11-30,2025-02-20,En Curso,11673046.48,14091562.65,20.72,13,Híbrida,3.3
+PRY0096,Nearshoring Center of Excellence,E03,Neoris,Retail y E-commerce,EMP03045,2023-09-26,2025-01-21,En Curso,5226683.12,5546280.79,6.11,17,Agile/Scrum,3.7
+PRY0097,Portal Omnicanal Cliente,E03,Neoris,Retail y E-commerce,EMP03045,2024-05-02,2025-06-08,En Curso,2335158.32,2849688.11,22.03,24,Agile/Scrum,3.7
+PRY0098,DevOps Pipeline CI/CD,E03,Neoris,Logística y Cadena de Suministro,EMP03045,2023-08-17,2024-05-28,Completado,8126821.31,7334088.54,-9.75,22,SAFe,4.5
+PRY0099,Data Lake Empresarial,E03,Neoris,Telecomunicaciones,EMP03045,2023-03-25,2024-07-24,Completado,10779611.13,13079295.96,21.33,11,Híbrida,4.9
+PRY0100,Portal Omnicanal Cliente,E03,Neoris,Retail y E-commerce,EMP03045,2024-09-28,2025-02-23,En Planeación,11040854.28,12080115.57,9.41,19,SAFe,3.4
+PRY0101,Portal Omnicanal Cliente,E03,Neoris,Energía y Utilities,EMP03045,2024-03-26,2024-12-28,Completado,13094688.55,16049607.74,22.57,16,Agile/Scrum,3.2
+PRY0102,Migración a la Nube AWS,E03,Neoris,Banca y Finanzas,EMP03045,2023-04-05,2023-07-07,Completado,13631206.94,16236001.29,19.11,12,Waterfall,4.1
+PRY0103,API Gateway Microservicios,E03,Neoris,Retail y E-commerce,EMP03045,2023-06-01,2023-09-25,Completado,6255848.8,7793066.0,24.57,11,Agile/Scrum,3.0
+PRY0104,Modernización de Infraestructura,E03,Neoris,Banca y Finanzas,EMP03045,2024-06-03,2025-06-12,En Curso,7721362.91,8022899.22,3.91,9,SAFe,4.8
+PRY0105,Modernización de Infraestructura,E03,Neoris,Manufactura Automotriz,EMP03045,2024-01-25,2024-11-16,Completado,2114342.17,2244252.51,6.14,17,Híbrida,3.1
+PRY0106,DevOps Pipeline CI/CD,E03,Neoris,Energía y Utilities,EMP03045,2024-02-12,2024-08-23,Completado,12774290.41,15353628.34,20.19,8,Híbrida,3.1
+PRY0107,Integración Sistemas Legados,E03,Neoris,Salud y Farmacéutico,EMP03045,2024-10-07,2026-01-04,En Planeación,13714722.7,16326829.59,19.05,11,Waterfall,4.3
+PRY0108,Data Lake Empresarial,E03,Neoris,Banca y Finanzas,EMP03045,2023-06-19,2024-01-07,Completado,14105708.25,14190579.5,0.6,15,Agile/Scrum,3.3
+PRY0109,Modernización de Infraestructura,E03,Neoris,Manufactura Automotriz,EMP03045,2023-01-21,2023-10-11,Completado,1404480.16,1377348.01,-1.93,5,SAFe,3.5
+PRY0110,Nearshoring Center of Excellence,E03,Neoris,Energía y Utilities,EMP03045,2023-12-23,2024-07-02,Completado,14307560.48,13774153.81,-3.73,10,SAFe,3.0
+PRY0111,Implementación SAP S/4HANA,E03,Neoris,Telecomunicaciones,EMP03045,2023-01-21,2023-07-27,Completado,9874060.92,11787903.56,19.38,8,Waterfall,3.4
+PRY0112,Modernización de Infraestructura,E03,Neoris,Logística y Cadena de Suministro,EMP03045,2024-12-01,2026-05-07,En Planeación,3429576.32,3961120.63,15.5,6,SAFe,4.4
+PRY0113,Data Lake Empresarial,E03,Neoris,Retail y E-commerce,EMP03045,2024-05-31,2025-02-16,En Curso,13151086.19,14586163.7,10.91,21,SAFe,3.5
+PRY0114,Portal Omnicanal Cliente,E04,Infosys Monterrey,Telecomunicaciones,EMP03985,2024-12-17,2026-02-03,En Curso,13764405.18,13941552.15,1.29,15,Híbrida,4.0
+PRY0115,Portal Omnicanal Cliente,E04,Infosys Monterrey,Retail y E-commerce,EMP03985,2024-05-23,2025-10-17,En Curso,13594703.7,14280820.52,5.05,12,SAFe,4.5
+PRY0116,Chatbot IA Servicio al Cliente,E04,Infosys Monterrey,Energía y Utilities,EMP03985,2023-09-16,2024-02-02,Completado,14705199.67,14163771.26,-3.68,7,Waterfall,4.8
+PRY0117,Chatbot IA Servicio al Cliente,E04,Infosys Monterrey,Energía y Utilities,EMP03985,2023-07-19,2023-11-17,Completado,14173638.95,17492962.17,23.42,24,SAFe,3.7
+PRY0118,Transformación Digital ERP,E04,Infosys Monterrey,Telecomunicaciones,EMP03985,2023-03-01,2024-02-11,Completado,2522380.64,2298801.99,-8.86,8,Agile/Scrum,3.4
+PRY0119,Chatbot IA Servicio al Cliente,E04,Infosys Monterrey,Energía y Utilities,EMP03985,2023-01-09,2023-08-06,Completado,6920581.76,7543536.4,9.0,6,SAFe,3.9
+PRY0120,Data Lake Empresarial,E04,Infosys Monterrey,Salud y Farmacéutico,EMP03985,2023-07-25,2024-05-28,Completado,14453332.39,16971879.2,17.43,5,Agile/Scrum,4.6
+PRY0121,Implementación SAP S/4HANA,E04,Infosys Monterrey,Gobierno y Sector Público,EMP03985,2024-01-09,2025-01-30,En Curso,7495175.9,7966990.38,6.29,23,Agile/Scrum,4.7
+PRY0122,Nearshoring Center of Excellence,E04,Infosys Monterrey,Manufactura Automotriz,EMP03985,2023-02-12,2023-12-08,Completado,13198053.59,12626231.36,-4.33,7,Híbrida,4.1
+PRY0123,Transformación Digital ERP,E04,Infosys Monterrey,Logística y Cadena de Suministro,EMP03985,2023-09-06,2024-06-28,Completado,11886164.56,14837328.73,24.83,23,Kanban,3.8
+PRY0124,Nearshoring Center of Excellence,E04,Infosys Monterrey,Logística y Cadena de Suministro,EMP03985,2023-11-21,2024-06-19,Completado,7552657.64,7712706.97,2.12,7,Agile/Scrum,3.4
+PRY0125,Plataforma de Analytics BI,E04,Infosys Monterrey,Retail y E-commerce,EMP03985,2024-05-15,2024-11-19,Completado,5905742.01,6494472.39,9.97,20,SAFe,3.8
+PRY0126,Ciberseguridad Zero Trust,E04,Infosys Monterrey,Logística y Cadena de Suministro,EMP03985,2024-07-12,2024-12-28,En Planeación,1360927.43,1697192.97,24.71,13,Kanban,3.2
+PRY0127,Portal Omnicanal Cliente,E04,Infosys Monterrey,Energía y Utilities,EMP03985,2023-06-03,2023-08-22,Completado,1097997.55,1168081.72,6.38,6,Agile/Scrum,3.0
+PRY0128,Migración a la Nube AWS,E04,Infosys Monterrey,Manufactura Automotriz,EMP03985,2024-08-27,2025-10-28,En Curso,2826782.48,2953907.8,4.5,16,SAFe,4.5
+PRY0129,Ciberseguridad Zero Trust,E04,Infosys Monterrey,Telecomunicaciones,EMP03985,2024-04-30,2025-06-12,En Curso,11905400.57,14637834.12,22.95,12,Agile/Scrum,3.0
+PRY0130,Migración a la Nube AWS,E04,Infosys Monterrey,Salud y Farmacéutico,EMP03985,2024-11-11,2026-04-26,En Planeación,11674346.01,12952210.33,10.95,19,Híbrida,3.8
+PRY0131,Chatbot IA Servicio al Cliente,E04,Infosys Monterrey,Energía y Utilities,EMP03985,2023-02-01,2023-09-14,Completado,1075361.04,1326080.28,23.31,17,Waterfall,4.9
+PRY0132,Modernización de Infraestructura,E04,Infosys Monterrey,Manufactura Automotriz,EMP03985,2023-05-26,2024-09-05,Completado,4681828.53,5073066.7,8.36,24,Waterfall,3.0
+PRY0133,Migración a la Nube AWS,E04,Infosys Monterrey,Retail y E-commerce,EMP03985,2023-09-24,2025-02-12,En Curso,10261992.21,12731322.37,24.06,6,Waterfall,4.1
+PRY0134,Automatización RPA,E04,Infosys Monterrey,Telecomunicaciones,EMP03985,2023-08-05,2024-05-13,Completado,5095217.69,4826571.99,-5.27,9,Híbrida,3.8
+PRY0135,Portal Omnicanal Cliente,E04,Infosys Monterrey,Gobierno y Sector Público,EMP03985,2023-11-23,2024-06-09,Completado,1367837.72,1638636.87,19.8,20,SAFe,4.8
+PRY0136,Modernización de Infraestructura,E04,Infosys Monterrey,Telecomunicaciones,EMP03985,2024-09-25,2025-11-21,En Curso,5708075.39,5936025.33,3.99,22,Agile/Scrum,4.1
+PRY0137,Nearshoring Center of Excellence,E04,Infosys Monterrey,Gobierno y Sector Público,EMP03985,2023-03-26,2024-07-15,Completado,11684020.6,13923879.21,19.17,6,SAFe,4.1
+PRY0138,Transformación Digital ERP,E04,Infosys Monterrey,Banca y Finanzas,EMP03985,2024-09-03,2025-11-24,En Planeación,13464840.52,16513304.8,22.64,22,Híbrida,5.0
+PRY0139,Automatización RPA,E05,Globant Monterrey,Logística y Cadena de Suministro,EMP04823,2023-07-20,2024-04-06,Completado,4574751.95,4250660.81,-7.08,5,Agile/Scrum,4.8
+PRY0140,Dashboard KPI Ejecutivo,E05,Globant Monterrey,Logística y Cadena de Suministro,EMP04823,2024-03-18,2025-08-16,En Curso,1677444.01,2012792.34,19.99,14,SAFe,4.9
+PRY0141,Data Lake Empresarial,E05,Globant Monterrey,Energía y Utilities,EMP04823,2024-02-17,2024-07-28,Completado,7950513.05,7213706.49,-9.27,23,SAFe,3.7
+PRY0142,Automatización RPA,E05,Globant Monterrey,Gobierno y Sector Público,EMP04823,2023-06-03,2024-03-30,Completado,4976316.92,5249072.03,5.48,8,Waterfall,3.1
+PRY0143,Portal Omnicanal Cliente,E05,Globant Monterrey,Retail y E-commerce,EMP04823,2024-01-14,2025-05-07,En Curso,12369792.71,11597431.64,-6.24,21,Waterfall,4.2
+PRY0144,Plataforma de Analytics BI,E05,Globant Monterrey,Salud y Farmacéutico,EMP04823,2024-01-14,2024-04-15,Completado,11767178.11,14139683.96,20.16,15,Híbrida,3.3
+PRY0145,Portal Omnicanal Cliente,E05,Globant Monterrey,Salud y Farmacéutico,EMP04823,2024-01-07,2024-07-18,Completado,13787220.17,13746290.62,-0.3,22,Kanban,3.7
+PRY0146,Nearshoring Center of Excellence,E05,Globant Monterrey,Telecomunicaciones,EMP04823,2023-08-06,2024-03-05,Completado,6480934.92,6548233.15,1.04,24,SAFe,4.2
+PRY0147,Modernización de Infraestructura,E05,Globant Monterrey,Banca y Finanzas,EMP04823,2023-09-20,2024-05-29,Completado,14306194.51,16193159.96,13.19,18,Waterfall,4.1
+PRY0148,Implementación SAP S/4HANA,E05,Globant Monterrey,Banca y Finanzas,EMP04823,2023-03-22,2023-06-27,Completado,1333530.09,1513594.29,13.5,16,Agile/Scrum,4.8
+PRY0149,Automatización RPA,E05,Globant Monterrey,Retail y E-commerce,EMP04823,2023-12-23,2024-03-16,Completado,5023177.6,6030911.08,20.06,4,Híbrida,4.3
+PRY0150,Nearshoring Center of Excellence,E05,Globant Monterrey,Retail y E-commerce,EMP04823,2023-02-23,2024-06-23,Completado,13724427.57,14490219.7,5.58,5,Híbrida,4.4
+PRY0151,Migración a la Nube AWS,E05,Globant Monterrey,Telecomunicaciones,EMP04823,2023-06-28,2024-05-22,Completado,12259884.32,11316163.61,-7.7,23,Agile/Scrum,3.7
+PRY0152,API Gateway Microservicios,E05,Globant Monterrey,Logística y Cadena de Suministro,EMP04823,2023-08-30,2024-01-30,Completado,13351312.1,12900188.62,-3.38,12,Agile/Scrum,3.0
+PRY0153,Automatización RPA,E05,Globant Monterrey,Banca y Finanzas,EMP04823,2024-05-28,2025-08-01,En Curso,3776622.04,4670552.01,23.67,13,Híbrida,3.6
+PRY0154,Integración Sistemas Legados,E05,Globant Monterrey,Banca y Finanzas,EMP04823,2023-01-21,2023-10-27,Completado,6124431.79,7133538.17,16.48,16,SAFe,3.1
+PRY0155,Implementación SAP S/4HANA,E05,Globant Monterrey,Manufactura Automotriz,EMP04823,2024-08-20,2025-01-04,En Curso,6023749.84,5741513.39,-4.69,15,Waterfall,3.2
+PRY0156,Plataforma de Analytics BI,E05,Globant Monterrey,Gobierno y Sector Público,EMP04823,2023-12-07,2024-06-29,Completado,11912134.32,12189296.91,2.33,6,Agile/Scrum,4.0
+PRY0157,Nearshoring Center of Excellence,E05,Globant Monterrey,Salud y Farmacéutico,EMP04823,2024-02-26,2024-08-25,Completado,12111591.59,11761800.23,-2.89,20,Waterfall,3.8
+PRY0158,DevOps Pipeline CI/CD,E06,BairesDev,Retail y E-commerce,EMP05528,2024-09-17,2026-01-24,En Curso,9259819.78,10308591.58,11.33,15,Waterfall,4.5
+PRY0159,Migración a la Nube AWS,E06,BairesDev,Banca y Finanzas,EMP05528,2023-06-17,2024-02-12,Completado,9762132.06,9539348.64,-2.28,22,Waterfall,4.1
+PRY0160,Integración Sistemas Legados,E06,BairesDev,Energía y Utilities,EMP05528,2023-07-15,2023-11-22,Completado,7680820.54,8189718.62,6.63,17,Waterfall,3.8
+PRY0161,Nearshoring Center of Excellence,E06,BairesDev,Energía y Utilities,EMP05528,2024-09-17,2025-09-25,En Planeación,2726221.53,3015994.47,10.63,18,Waterfall,4.9
+PRY0162,Dashboard KPI Ejecutivo,E06,BairesDev,Logística y Cadena de Suministro,EMP05528,2023-12-24,2024-06-14,Completado,12305295.81,13602978.86,10.55,14,SAFe,4.6
+PRY0163,Automatización RPA,E06,BairesDev,Telecomunicaciones,EMP05528,2023-04-09,2024-08-04,Completado,12241900.13,11805174.82,-3.57,23,Agile/Scrum,3.9
+PRY0164,Modernización de Infraestructura,E06,BairesDev,Retail y E-commerce,EMP05528,2024-05-16,2024-09-05,Completado,912062.41,953796.22,4.58,18,Agile/Scrum,3.0
+PRY0165,Data Lake Empresarial,E06,BairesDev,Gobierno y Sector Público,EMP05528,2023-07-24,2024-08-11,Completado,8374107.87,8559805.93,2.22,5,Agile/Scrum,4.1
+PRY0166,Integración Sistemas Legados,E06,BairesDev,Logística y Cadena de Suministro,EMP05528,2024-03-01,2025-01-02,En Curso,2290247.73,2854534.98,24.64,12,Híbrida,4.6
+PRY0167,DevOps Pipeline CI/CD,E06,BairesDev,Manufactura Automotriz,EMP05528,2023-06-25,2024-11-21,Completado,6397406.5,5974054.52,-6.62,5,SAFe,4.6
+PRY0168,Chatbot IA Servicio al Cliente,E06,BairesDev,Energía y Utilities,EMP05528,2024-01-27,2024-10-09,Completado,10728394.11,12986873.33,21.05,15,SAFe,4.1
+PRY0169,API Gateway Microservicios,E06,BairesDev,Retail y E-commerce,EMP05528,2023-01-30,2023-07-25,Completado,13080534.57,13519888.96,3.36,7,Waterfall,4.6
+PRY0170,Implementación SAP S/4HANA,E06,BairesDev,Energía y Utilities,EMP05528,2024-01-27,2024-05-21,Completado,8881436.46,8054571.98,-9.31,5,SAFe,4.4
+PRY0171,Portal Omnicanal Cliente,E06,BairesDev,Gobierno y Sector Público,EMP05528,2024-08-13,2025-06-10,En Curso,12085853.16,11325622.45,-6.29,20,Agile/Scrum,4.1
+PRY0172,Plataforma de Analytics BI,E06,BairesDev,Telecomunicaciones,EMP05528,2023-04-02,2024-05-12,Completado,8152232.42,8757841.39,7.43,21,Agile/Scrum,4.5
+PRY0173,Transformación Digital ERP,E06,BairesDev,Banca y Finanzas,EMP05528,2024-04-14,2024-07-07,Completado,10512900.86,10502384.07,-0.1,8,SAFe,3.7
+PRY0174,Portal Omnicanal Cliente,E06,BairesDev,Telecomunicaciones,EMP05528,2024-11-07,2026-04-18,En Planeación,4659561.33,4286024.87,-8.02,13,Agile/Scrum,4.1
+PRY0175,Nearshoring Center of Excellence,E07,Hexaware Technologies,Banca y Finanzas,EMP06031,2023-07-19,2024-06-26,Completado,9943664.37,11541986.97,16.07,7,Kanban,4.5
+PRY0176,Transformación Digital ERP,E07,Hexaware Technologies,Salud y Farmacéutico,EMP06031,2024-07-22,2025-12-18,En Planeación,13864596.3,15540171.13,12.09,13,Agile/Scrum,4.6
+PRY0177,Transformación Digital ERP,E07,Hexaware Technologies,Manufactura Automotriz,EMP06031,2023-09-12,2024-08-02,Completado,11734683.31,12612753.27,7.48,9,SAFe,3.3
+PRY0178,API Gateway Microservicios,E07,Hexaware Technologies,Manufactura Automotriz,EMP06031,2023-10-24,2024-12-02,Completado,9145721.72,10564754.14,15.52,5,Agile/Scrum,3.3
+PRY0179,Implementación SAP S/4HANA,E07,Hexaware Technologies,Logística y Cadena de Suministro,EMP06031,2024-08-06,2025-10-05,En Planeación,7693360.05,8569681.13,11.39,23,SAFe,4.8
+PRY0180,Chatbot IA Servicio al Cliente,E07,Hexaware Technologies,Banca y Finanzas,EMP06031,2023-01-03,2024-06-12,Completado,1327205.07,1349400.62,1.67,8,SAFe,4.2
+PRY0181,Ciberseguridad Zero Trust,E07,Hexaware Technologies,Energía y Utilities,EMP06031,2023-10-16,2024-02-14,Completado,6587146.6,7680101.64,16.59,22,Agile/Scrum,3.3
+PRY0182,Ciberseguridad Zero Trust,E07,Hexaware Technologies,Telecomunicaciones,EMP06031,2023-03-28,2023-09-23,Completado,8246358.49,9584254.61,16.22,14,Agile/Scrum,4.0
+PRY0183,Nearshoring Center of Excellence,E07,Hexaware Technologies,Manufactura Automotriz,EMP06031,2023-11-08,2025-04-10,En Curso,12381354.95,13102892.13,5.83,9,Waterfall,4.5
+PRY0184,Integración Sistemas Legados,E07,Hexaware Technologies,Manufactura Automotriz,EMP06031,2024-07-06,2025-11-20,En Curso,7587662.36,7604790.72,0.23,7,SAFe,3.8
+PRY0185,DevOps Pipeline CI/CD,E07,Hexaware Technologies,Retail y E-commerce,EMP06031,2024-11-18,2025-06-13,En Curso,2333959.03,2503517.17,7.26,23,Agile/Scrum,3.9
+PRY0186,Transformación Digital ERP,E07,Hexaware Technologies,Manufactura Automotriz,EMP06031,2024-02-12,2024-04-29,Completado,10996325.84,12475840.53,13.45,7,Agile/Scrum,3.8
+PRY0187,Transformación Digital ERP,E07,Hexaware Technologies,Telecomunicaciones,EMP06031,2024-07-08,2025-02-05,En Planeación,2111434.7,2565478.52,21.5,24,Agile/Scrum,3.6
+PRY0188,Integración Sistemas Legados,E07,Hexaware Technologies,Telecomunicaciones,EMP06031,2023-01-10,2023-10-29,Completado,11498670.01,11467562.09,-0.27,13,Agile/Scrum,3.3
+PRY0189,Data Lake Empresarial,E07,Hexaware Technologies,Telecomunicaciones,EMP06031,2023-05-19,2024-02-07,Completado,9617577.48,11474866.69,19.31,14,Híbrida,4.1
+PRY0190,Dashboard KPI Ejecutivo,E07,Hexaware Technologies,Logística y Cadena de Suministro,EMP06031,2024-01-05,2024-03-05,Completado,1625844.46,1888354.58,16.15,7,Híbrida,4.6
+PRY0191,Migración a la Nube AWS,E07,Hexaware Technologies,Logística y Cadena de Suministro,EMP06031,2023-02-22,2023-08-30,Completado,5816136.63,6931900.39,19.18,11,Híbrida,4.7
+PRY0192,Migración a la Nube AWS,E08,AZKA IT Consulting,Gobierno y Sector Público,EMP06500,2023-11-25,2024-04-20,Completado,3612224.77,4262736.9,18.01,8,Waterfall,3.8
+PRY0193,Portal Omnicanal Cliente,E08,AZKA IT Consulting,Retail y E-commerce,EMP06500,2023-08-26,2024-12-25,Completado,13259283.96,14834957.56,11.88,16,Agile/Scrum,3.3
+PRY0194,Data Lake Empresarial,E08,AZKA IT Consulting,Telecomunicaciones,EMP06500,2023-05-27,2024-02-09,Completado,8967658.53,9769016.52,8.94,16,SAFe,4.1
+PRY0195,Ciberseguridad Zero Trust,E08,AZKA IT Consulting,Telecomunicaciones,EMP06500,2023-08-22,2024-12-07,Completado,6440323.11,6789613.43,5.42,15,Híbrida,3.6
+PRY0196,DevOps Pipeline CI/CD,E08,AZKA IT Consulting,Telecomunicaciones,EMP06500,2024-06-01,2025-05-23,En Curso,9182493.54,10707698.98,16.61,13,Híbrida,3.8
+PRY0197,Plataforma de Analytics BI,E08,AZKA IT Consulting,Manufactura Automotriz,EMP06500,2024-11-05,2025-04-08,En Planeación,9119089.38,8977597.19,-1.55,9,Agile/Scrum,3.9
+PRY0198,Transformación Digital ERP,E08,AZKA IT Consulting,Energía y Utilities,EMP06500,2024-09-14,2025-05-05,En Planeación,3792756.6,3422110.18,-9.77,23,Agile/Scrum,3.3
+PRY0199,Migración a la Nube AWS,E08,AZKA IT Consulting,Retail y E-commerce,EMP06500,2024-06-03,2024-09-12,En Curso,13081663.74,13798224.23,5.48,11,Kanban,3.9
+PRY0200,Dashboard KPI Ejecutivo,E08,AZKA IT Consulting,Telecomunicaciones,EMP06500,2023-05-13,2024-04-25,Completado,3983225.51,4541360.42,14.01,5,Waterfall,3.4
+PRY0201,Integración Sistemas Legados,E08,AZKA IT Consulting,Logística y Cadena de Suministro,EMP06500,2024-12-18,2025-08-03,En Curso,11317922.9,11359464.11,0.37,24,SAFe,3.1
+PRY0202,Nearshoring Center of Excellence,E08,AZKA IT Consulting,Energía y Utilities,EMP06500,2023-11-10,2025-01-06,En Curso,13816274.64,14441797.87,4.53,24,Waterfall,4.7
+PRY0203,Integración Sistemas Legados,E09,Deintec,Banca y Finanzas,EMP06896,2023-09-03,2024-10-08,Completado,5439655.7,6436885.47,18.33,4,Waterfall,4.6
+PRY0204,DevOps Pipeline CI/CD,E09,Deintec,Banca y Finanzas,EMP06896,2023-05-27,2024-02-25,Completado,14648885.95,13783386.65,-5.91,7,SAFe,3.9
+PRY0205,Integración Sistemas Legados,E09,Deintec,Logística y Cadena de Suministro,EMP06896,2024-09-11,2025-09-20,En Curso,11400666.3,11837671.79,3.83,10,SAFe,3.9
+PRY0206,Chatbot IA Servicio al Cliente,E09,Deintec,Gobierno y Sector Público,EMP06896,2024-08-14,2025-03-25,En Planeación,4719585.52,4809347.51,1.9,10,Waterfall,4.2
+PRY0207,Plataforma de Analytics BI,E09,Deintec,Retail y E-commerce,EMP06896,2024-03-14,2025-03-24,En Curso,10561287.69,11820684.13,11.92,11,Híbrida,3.5
+PRY0208,Integración Sistemas Legados,E09,Deintec,Salud y Farmacéutico,EMP06896,2024-08-19,2025-09-15,En Curso,12261634.79,13954450.57,13.81,24,SAFe,3.4
+PRY0209,Dashboard KPI Ejecutivo,E09,Deintec,Manufactura Automotriz,EMP06896,2024-10-05,2026-01-21,En Curso,2561257.44,2385487.16,-6.86,15,Agile/Scrum,4.9
+PRY0210,Nearshoring Center of Excellence,E09,Deintec,Gobierno y Sector Público,EMP06896,2023-06-22,2024-09-27,Completado,4004987.47,3898596.36,-2.66,10,Agile/Scrum,4.8
+PRY0211,Portal Omnicanal Cliente,E09,Deintec,Logística y Cadena de Suministro,EMP06896,2023-11-15,2024-02-18,Completado,1865174.99,2228228.32,19.46,22,Híbrida,4.4
+PRY0212,Ciberseguridad Zero Trust,E09,Deintec,Energía y Utilities,EMP06896,2023-11-24,2024-07-12,Completado,5646102.11,6907227.28,22.34,21,SAFe,3.7
+PRY0213,Integración Sistemas Legados,E10,Axsis Tecnología,Gobierno y Sector Público,EMP07249,2024-04-21,2024-10-14,Completado,14457412.1,16471216.1,13.93,6,Agile/Scrum,3.9
+PRY0214,Chatbot IA Servicio al Cliente,E10,Axsis Tecnología,Retail y E-commerce,EMP07249,2023-06-20,2024-10-26,Completado,9517101.09,10210714.09,7.29,24,Waterfall,4.2
+PRY0215,API Gateway Microservicios,E10,Axsis Tecnología,Salud y Farmacéutico,EMP07249,2024-04-02,2025-03-07,En Curso,5093578.66,4681916.85,-8.08,20,Waterfall,3.3
+PRY0216,Automatización RPA,E10,Axsis Tecnología,Energía y Utilities,EMP07249,2023-10-17,2025-04-07,En Curso,833571.96,791412.12,-5.06,23,Híbrida,4.4
+PRY0217,Implementación SAP S/4HANA,E10,Axsis Tecnología,Gobierno y Sector Público,EMP07249,2023-12-28,2025-02-03,En Curso,4539130.61,4697327.74,3.49,19,Agile/Scrum,4.8
+PRY0218,Portal Omnicanal Cliente,E10,Axsis Tecnología,Banca y Finanzas,EMP07249,2024-06-13,2025-10-18,En Planeación,6160982.47,7629394.4,23.83,24,Kanban,3.4
+PRY0219,API Gateway Microservicios,E10,Axsis Tecnología,Energía y Utilities,EMP07249,2024-04-06,2024-06-22,Completado,5011461.18,6183085.15,23.38,14,Híbrida,4.1
+PRY0220,Integración Sistemas Legados,E10,Axsis Tecnología,Logística y Cadena de Suministro,EMP07249,2024-06-22,2024-12-09,En Planeación,12347188.4,12727140.35,3.08,10,Agile/Scrum,4.4
+PRY0221,DevOps Pipeline CI/CD,E10,Axsis Tecnología,Banca y Finanzas,EMP07249,2024-06-11,2025-11-13,En Planeación,14972648.08,13482452.37,-9.95,7,Kanban,4.4
+PRY0222,Portal Omnicanal Cliente,E10,Axsis Tecnología,Energía y Utilities,EMP07249,2023-03-14,2023-11-18,Completado,10835774.54,12044327.05,11.15,21,SAFe,4.3
+PRY0223,Dashboard KPI Ejecutivo,E10,Axsis Tecnología,Telecomunicaciones,EMP07249,2024-02-20,2024-10-20,Completado,6429955.16,6073511.94,-5.54,10,SAFe,4.6
+PRY0224,Portal Omnicanal Cliente,E11,Skye Group,Gobierno y Sector Público,EMP07487,2024-04-06,2024-07-11,Completado,10154601.71,9661413.99,-4.86,15,Agile/Scrum,3.0
+PRY0225,Dashboard KPI Ejecutivo,E11,Skye Group,Energía y Utilities,EMP07487,2024-08-15,2025-04-04,En Curso,12974927.02,14050100.94,8.29,21,Híbrida,4.6
+PRY0226,Nearshoring Center of Excellence,E11,Skye Group,Banca y Finanzas,EMP07487,2023-11-02,2024-09-09,Completado,10199814.7,10631607.13,4.23,16,SAFe,3.8
+PRY0227,Ciberseguridad Zero Trust,E11,Skye Group,Salud y Farmacéutico,EMP07487,2023-10-03,2024-09-17,Completado,13848666.63,14048523.07,1.44,19,Agile/Scrum,3.7
+PRY0228,Dashboard KPI Ejecutivo,E11,Skye Group,Logística y Cadena de Suministro,EMP07487,2023-04-24,2023-08-19,Completado,842088.5,965127.04,14.61,14,Agile/Scrum,4.7
+PRY0229,Chatbot IA Servicio al Cliente,E11,Skye Group,Logística y Cadena de Suministro,EMP07487,2024-01-28,2025-05-24,En Curso,1551465.47,1538317.31,-0.85,9,Kanban,4.5
+PRY0230,Data Lake Empresarial,E12,TI Monterrey,Logística y Cadena de Suministro,EMP07728,2024-02-13,2024-06-12,Completado,14188185.94,12930120.5,-8.87,20,Agile/Scrum,3.7
+PRY0231,Integración Sistemas Legados,E12,TI Monterrey,Telecomunicaciones,EMP07728,2023-08-07,2024-11-27,Completado,4299279.41,5275255.47,22.7,17,Waterfall,4.2
+PRY0232,Modernización de Infraestructura,E12,TI Monterrey,Retail y E-commerce,EMP07728,2024-01-12,2024-10-18,Completado,3014360.73,3735603.06,23.93,16,Waterfall,4.0
+PRY0233,Integración Sistemas Legados,E12,TI Monterrey,Banca y Finanzas,EMP07728,2024-06-06,2024-12-14,En Curso,13645876.35,15534802.8,13.84,19,Híbrida,3.1
+PRY0234,API Gateway Microservicios,E12,TI Monterrey,Telecomunicaciones,EMP07728,2023-09-13,2023-11-24,Completado,3293419.72,3119570.35,-5.28,4,Agile/Scrum,4.2

@@ -1,0 +1,13 @@
+﻿empresa_id,nombre,tipo,empleados_base,fundacion
+E01,Accenture Monterrey,Consultoría Global,1800,2008
+E02,Tata Consultancy Services,Outsourcing Global,1200,2010
+E03,Neoris,Consultoría Regional,950,2000
+E04,Infosys Monterrey,Outsourcing Global,820,2015
+E05,Globant Monterrey,Software Factory,680,2018
+E06,BairesDev,Software Factory,510,2019
+E07,Hexaware Technologies,Outsourcing Global,440,2016
+E08,AZKA IT Consulting,Consultoría Local,320,2012
+E09,Deintec,Consultoría Local,280,2008
+E10,Axsis Tecnología,Desarrollo de Software,210,1999
+E11,Skye Group,Consultoría Regional,190,2011
+E12,TI Monterrey,Consultoría Local,150,2004

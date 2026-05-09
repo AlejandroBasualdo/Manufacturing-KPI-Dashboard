@@ -1,0 +1,1318 @@
+﻿encuesta_id,empleado_id,empresa_id,empresa,rol,nivel,anio,satisfaccion_general,satisfaccion_salario,satisfaccion_ambiente,satisfaccion_crecimiento,satisfaccion_liderazgo,intencion_salida,razon_posible_salida
+ENC000001,EMP05539,E06,BairesDev,Software Developer,Senior,2023,4.9,4.6,5.0,5.0,5.0,Tal vez,Startup propia
+ENC000002,EMP05539,E06,BairesDev,Software Developer,Senior,2024,4.0,3.9,4.0,3.5,4.3,Tal vez,Mejor salario
+ENC000003,EMP01678,E01,Accenture Monterrey,Frontend Developer,Junior,2023,3.5,3.4,3.7,4.2,3.3,No,Crecimiento profesional
+ENC000004,EMP01965,E02,Tata Consultancy Services,Software Developer,Junior,2023,3.6,3.2,3.7,3.2,3.5,No,Startup propia
+ENC000005,EMP01965,E02,Tata Consultancy Services,Software Developer,Junior,2024,4.4,4.2,4.7,4.1,4.6,No,Mejor salario
+ENC000006,EMP03026,E02,Tata Consultancy Services,Full Stack Developer,Junior,2023,3.9,4.0,4.1,4.3,3.7,Tal vez,Mejor salario
+ENC000007,EMP03026,E02,Tata Consultancy Services,Full Stack Developer,Junior,2024,3.3,2.4,3.4,3.0,3.1,No,Trabajo remoto
+ENC000008,EMP06259,E07,Hexaware Technologies,Cybersecurity Analyst,Mid,2023,3.3,3.3,3.2,3.3,3.4,Sí,Mejor salario
+ENC000009,EMP06259,E07,Hexaware Technologies,Cybersecurity Analyst,Mid,2024,3.3,3.4,3.5,2.7,3.4,Tal vez,Mejor salario
+ENC000010,EMP06305,E07,Hexaware Technologies,Cybersecurity Analyst,Junior,2024,4.2,4.7,4.4,4.1,4.0,No,Crecimiento profesional
+ENC000011,EMP02437,E02,Tata Consultancy Services,Software Developer,Senior,2024,5.0,4.7,5.0,4.6,5.0,No,Mejor salario
+ENC000012,EMP04527,E04,Infosys Monterrey,Software Developer,Mid,2023,3.9,3.6,4.0,3.8,3.9,Tal vez,Crecimiento profesional
+ENC000013,EMP04527,E04,Infosys Monterrey,Software Developer,Mid,2024,3.9,3.6,4.1,3.8,3.8,Sí,Crecimiento profesional
+ENC000014,EMP02465,E02,Tata Consultancy Services,Full Stack Developer,Mid,2023,4.1,4.4,4.4,4.3,4.2,No,Crecimiento profesional
+ENC000015,EMP02465,E02,Tata Consultancy Services,Full Stack Developer,Mid,2024,4.9,5.0,5.0,5.0,5.0,No,Startup propia
+ENC000016,EMP03535,E03,Neoris,Software Developer,Mid,2023,4.3,4.4,4.5,4.1,4.4,No,Mejor salario
+ENC000017,EMP02522,E02,Tata Consultancy Services,Scrum Master,Mid,2023,4.6,4.7,4.7,4.7,4.8,No,Mejor salario
+ENC000018,EMP02522,E02,Tata Consultancy Services,Scrum Master,Mid,2024,4.8,4.7,5.0,4.7,4.7,Sí,Crecimiento profesional
+ENC000019,EMP06514,E08,AZKA IT Consulting,Data Analyst,Senior,2024,4.0,3.6,4.6,3.7,4.1,Tal vez,Cambio de ciudad
+ENC000020,EMP06705,E08,AZKA IT Consulting,Project Manager,Mid,2024,4.5,4.3,4.5,4.2,4.2,Tal vez,Crecimiento profesional
+ENC000021,EMP05912,E06,BairesDev,Software Developer,Junior,2023,3.7,3.4,3.6,4.2,3.2,No,Mejor salario
+ENC000022,EMP05912,E06,BairesDev,Software Developer,Junior,2024,3.5,3.4,3.7,3.3,3.6,Sí,Mejor salario
+ENC000023,EMP00316,E01,Accenture Monterrey,Project Manager,Mid,2023,4.8,4.8,4.9,4.2,4.9,No,Crecimiento profesional
+ENC000024,EMP00316,E01,Accenture Monterrey,Project Manager,Mid,2024,4.6,5.0,4.7,4.6,4.6,Tal vez,Cambio de ciudad
+ENC000025,EMP04343,E04,Infosys Monterrey,Project Manager,Mid,2023,3.6,3.4,3.7,3.2,3.5,Tal vez,Mejor salario
+ENC000026,EMP04343,E04,Infosys Monterrey,Project Manager,Mid,2024,4.0,3.8,3.8,3.8,4.3,No,Mejor salario
+ENC000027,EMP04782,E04,Infosys Monterrey,Full Stack Developer,Junior,2023,3.3,3.6,3.3,3.0,3.5,No,Crecimiento profesional
+ENC000028,EMP04782,E04,Infosys Monterrey,Full Stack Developer,Junior,2024,3.8,3.4,4.2,4.1,3.7,No,Startup propia
+ENC000029,EMP00555,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,3.6,3.5,3.5,3.9,3.6,No,Mejor salario
+ENC000030,EMP01079,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.4,4.3,4.7,4.0,4.8,Sí,Crecimiento profesional
+ENC000031,EMP01079,E01,Accenture Monterrey,Scrum Master,Mid,2024,4.2,4.4,4.2,3.9,4.1,No,Mejor salario
+ENC000032,EMP04553,E04,Infosys Monterrey,Frontend Developer,Senior,2023,4.3,4.5,4.3,4.1,4.1,Tal vez,Crecimiento profesional
+ENC000033,EMP00534,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2023,3.7,3.4,4.0,3.3,3.6,Tal vez,Startup propia
+ENC000034,EMP04565,E04,Infosys Monterrey,Cybersecurity Analyst,Mid,2024,4.5,4.8,4.5,4.7,4.4,No,Mejor salario
+ENC000035,EMP07287,E10,Axsis Tecnología,Software Developer,Junior,2023,4.5,4.3,4.8,3.9,4.4,No,Mejor salario
+ENC000036,EMP07287,E10,Axsis Tecnología,Software Developer,Junior,2024,3.5,4.1,3.6,3.0,3.5,Tal vez,Mejor salario
+ENC000037,EMP02267,E02,Tata Consultancy Services,Project Manager,Senior,2023,4.5,4.8,4.2,4.1,4.0,No,Mejor salario
+ENC000038,EMP02267,E02,Tata Consultancy Services,Project Manager,Senior,2024,4.9,4.5,4.9,4.6,4.7,Sí,N/A
+ENC000039,EMP06755,E08,AZKA IT Consulting,Cloud Architect,Mid,2023,4.3,4.0,4.6,4.2,4.4,Tal vez,Crecimiento profesional
+ENC000040,EMP06755,E08,AZKA IT Consulting,Cloud Architect,Mid,2024,4.6,4.5,4.8,4.1,4.5,No,Mejor salario
+ENC000041,EMP03018,E02,Tata Consultancy Services,Project Manager,Mid,2024,3.6,3.4,3.7,3.4,3.8,Tal vez,Crecimiento profesional
+ENC000042,EMP00335,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.1,4.1,4.5,4.1,4.2,No,Cambio de ciudad
+ENC000043,EMP00335,E01,Accenture Monterrey,Scrum Master,Mid,2024,3.2,2.9,3.4,3.0,3.7,No,Cambio de ciudad
+ENC000044,EMP06595,E08,AZKA IT Consulting,Cybersecurity Analyst,Senior,2023,3.6,3.3,3.8,3.5,3.5,Sí,Mejor salario
+ENC000045,EMP06595,E08,AZKA IT Consulting,Cybersecurity Analyst,Senior,2024,4.6,4.8,4.9,4.5,4.7,Tal vez,Crecimiento profesional
+ENC000046,EMP07337,E10,Axsis Tecnología,Backend Developer,Junior,2023,3.9,3.3,3.7,4.1,4.1,No,Mejor salario
+ENC000047,EMP01282,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2023,3.9,3.9,4.1,3.2,3.9,No,Mejor salario
+ENC000048,EMP01282,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2024,3.0,2.6,3.0,2.9,2.8,No,Mejor salario
+ENC000049,EMP01173,E01,Accenture Monterrey,Data Analyst,Junior,2023,4.0,3.6,4.1,3.5,4.1,Sí,Mejor salario
+ENC000050,EMP01173,E01,Accenture Monterrey,Data Analyst,Junior,2024,4.5,4.6,4.6,3.7,4.4,Tal vez,Trabajo remoto
+ENC000051,EMP01722,E01,Accenture Monterrey,Backend Developer,Senior,2023,4.1,3.8,4.4,4.1,4.5,No,Cambio de ciudad
+ENC000052,EMP01722,E01,Accenture Monterrey,Backend Developer,Senior,2024,3.9,3.7,4.2,3.9,4.2,Sí,Mejor salario
+ENC000053,EMP00966,E01,Accenture Monterrey,Software Developer,Senior,2023,4.6,4.0,4.4,4.3,4.4,No,Crecimiento profesional
+ENC000054,EMP06653,E08,AZKA IT Consulting,Cybersecurity Analyst,Junior,2023,4.2,4.2,4.1,4.3,4.1,No,Crecimiento profesional
+ENC000055,EMP04746,E04,Infosys Monterrey,Scrum Master,Senior,2024,3.5,3.6,3.5,3.1,3.6,Tal vez,N/A
+ENC000056,EMP02878,E02,Tata Consultancy Services,Software Developer,Senior,2023,4.0,4.1,4.0,4.4,4.1,No,Startup propia
+ENC000057,EMP04246,E04,Infosys Monterrey,Full Stack Developer,Senior,2023,4.9,4.6,4.9,4.7,4.8,Tal vez,Crecimiento profesional
+ENC000058,EMP04246,E04,Infosys Monterrey,Full Stack Developer,Senior,2024,4.5,4.3,4.6,4.6,4.4,No,Trabajo remoto
+ENC000059,EMP05892,E06,BairesDev,Software Developer,Mid,2024,4.1,4.0,4.5,4.2,4.3,Sí,Mejor salario
+ENC000060,EMP06660,E08,AZKA IT Consulting,Cloud Architect,Mid,2023,3.7,3.7,3.9,4.0,3.8,No,Trabajo remoto
+ENC000061,EMP06660,E08,AZKA IT Consulting,Cloud Architect,Mid,2024,3.9,3.6,4.2,3.5,3.7,No,Crecimiento profesional
+ENC000062,EMP06600,E08,AZKA IT Consulting,Data Analyst,Senior,2023,4.8,4.1,4.9,5.0,4.8,Tal vez,Mejor salario
+ENC000063,EMP06830,E08,AZKA IT Consulting,Cloud Architect,Senior,2023,5.0,4.4,5.0,5.0,5.0,No,Crecimiento profesional
+ENC000064,EMP06830,E08,AZKA IT Consulting,Cloud Architect,Senior,2024,4.5,5.0,4.3,4.2,4.4,Tal vez,Crecimiento profesional
+ENC000065,EMP04889,E05,Globant Monterrey,Software Developer,Junior,2023,3.3,3.2,3.3,3.3,3.3,No,Trabajo remoto
+ENC000066,EMP06083,E07,Hexaware Technologies,Backend Developer,Mid,2023,4.3,4.7,4.1,4.2,4.3,Tal vez,Mejor salario
+ENC000067,EMP06083,E07,Hexaware Technologies,Backend Developer,Mid,2024,4.3,4.5,4.8,3.5,4.2,No,Trabajo remoto
+ENC000068,EMP00541,E01,Accenture Monterrey,Full Stack Developer,Mid,2023,4.9,4.3,4.8,4.9,5.0,No,Mejor salario
+ENC000069,EMP00541,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,3.6,3.4,3.6,2.7,3.6,No,Mejor salario
+ENC000070,EMP02834,E02,Tata Consultancy Services,Frontend Developer,Junior,2024,4.0,3.7,4.0,4.1,3.8,No,Crecimiento profesional
+ENC000071,EMP06730,E08,AZKA IT Consulting,Full Stack Developer,Mid,2023,3.6,3.1,3.7,4.0,4.1,No,Mejor salario
+ENC000072,EMP06730,E08,AZKA IT Consulting,Full Stack Developer,Mid,2024,4.4,4.6,4.3,4.7,4.2,No,Mejor salario
+ENC000073,EMP05974,E06,BairesDev,Project Manager,Mid,2023,3.4,3.5,3.4,3.7,3.6,Tal vez,Mejor salario
+ENC000074,EMP05974,E06,BairesDev,Project Manager,Mid,2024,3.0,2.9,3.3,2.4,3.3,Sí,Trabajo remoto
+ENC000075,EMP06241,E07,Hexaware Technologies,Cloud Architect,Senior,2023,4.8,4.9,4.8,5.0,4.8,No,Mejor salario
+ENC000076,EMP06241,E07,Hexaware Technologies,Cloud Architect,Senior,2024,3.9,4.1,3.9,3.3,3.5,Tal vez,N/A
+ENC000077,EMP03246,E03,Neoris,Data Analyst,Junior,2023,4.7,4.5,4.5,4.9,4.7,No,Mejor salario
+ENC000078,EMP03246,E03,Neoris,Data Analyst,Junior,2024,4.3,4.4,4.3,4.4,4.7,No,Mejor salario
+ENC000079,EMP06467,E07,Hexaware Technologies,Cloud Architect,Mid,2023,3.5,4.1,3.6,3.4,3.4,No,Crecimiento profesional
+ENC000080,EMP00697,E01,Accenture Monterrey,Software Developer,Mid,2023,3.5,3.7,3.0,2.7,3.3,No,Startup propia
+ENC000081,EMP00697,E01,Accenture Monterrey,Software Developer,Mid,2024,4.8,4.5,4.9,4.7,4.8,No,Mejor salario
+ENC000082,EMP05517,E05,Globant Monterrey,Cloud Architect,Mid,2023,3.5,3.0,3.9,3.6,3.7,Tal vez,Mejor salario
+ENC000083,EMP05517,E05,Globant Monterrey,Cloud Architect,Mid,2024,3.4,2.5,3.7,3.3,3.7,No,Mejor salario
+ENC000084,EMP01407,E01,Accenture Monterrey,Full Stack Developer,Mid,2023,4.8,4.8,4.6,4.4,4.7,Sí,Trabajo remoto
+ENC000085,EMP01407,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,3.5,3.0,3.6,3.6,3.6,Tal vez,Cambio de ciudad
+ENC000086,EMP05953,E06,BairesDev,Backend Developer,Mid,2023,3.7,3.5,3.6,4.3,3.5,No,Mejor salario
+ENC000087,EMP05953,E06,BairesDev,Backend Developer,Mid,2024,3.7,3.2,4.2,3.9,3.2,Sí,N/A
+ENC000088,EMP02648,E02,Tata Consultancy Services,Data Analyst,Mid,2024,4.1,3.9,3.9,3.7,3.9,No,Crecimiento profesional
+ENC000089,EMP07693,E11,Skye Group,Frontend Developer,Senior,2023,4.7,5.0,4.9,4.3,5.0,Sí,Crecimiento profesional
+ENC000090,EMP07693,E11,Skye Group,Frontend Developer,Senior,2024,3.7,2.8,3.8,3.6,3.4,No,Trabajo remoto
+ENC000091,EMP06054,E07,Hexaware Technologies,Backend Developer,Mid,2023,3.4,3.2,3.3,3.5,3.3,Sí,Trabajo remoto
+ENC000092,EMP06054,E07,Hexaware Technologies,Backend Developer,Mid,2024,4.6,4.5,4.5,4.6,4.6,Tal vez,Crecimiento profesional
+ENC000093,EMP06925,E09,Deintec,Data Analyst,Mid,2023,4.0,3.3,4.2,4.5,4.3,Tal vez,Trabajo remoto
+ENC000094,EMP06925,E09,Deintec,Data Analyst,Mid,2024,3.9,3.9,4.0,3.9,4.0,Tal vez,Trabajo remoto
+ENC000095,EMP00734,E01,Accenture Monterrey,Full Stack Developer,Senior,2023,3.6,3.2,4.1,3.6,3.4,No,Mejor salario
+ENC000096,EMP00734,E01,Accenture Monterrey,Full Stack Developer,Senior,2024,3.8,3.5,3.8,3.8,3.5,No,Mejor salario
+ENC000097,EMP04937,E05,Globant Monterrey,Cloud Architect,Mid,2023,4.2,4.1,4.2,4.8,4.1,No,Crecimiento profesional
+ENC000098,EMP04937,E05,Globant Monterrey,Cloud Architect,Mid,2024,4.1,4.0,4.3,3.4,4.5,Tal vez,Crecimiento profesional
+ENC000099,EMP00252,E01,Accenture Monterrey,Cybersecurity Analyst,Mid,2023,3.4,3.7,3.7,3.9,3.6,Tal vez,Startup propia
+ENC000100,EMP00319,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,3.9,3.4,4.3,3.4,3.9,No,Crecimiento profesional
+ENC000101,EMP06057,E07,Hexaware Technologies,Cybersecurity Analyst,Junior,2024,3.6,3.8,3.9,3.1,3.6,Tal vez,Crecimiento profesional
+ENC000102,EMP04694,E04,Infosys Monterrey,Data Analyst,Junior,2023,4.3,4.2,4.2,4.4,4.5,Sí,Mejor salario
+ENC000103,EMP03480,E03,Neoris,Data Analyst,Mid,2023,4.5,4.3,4.8,4.5,4.3,No,Trabajo remoto
+ENC000104,EMP03480,E03,Neoris,Data Analyst,Mid,2024,3.9,3.2,4.1,4.1,4.1,Tal vez,N/A
+ENC000105,EMP07739,E12,TI Monterrey,Full Stack Developer,Junior,2023,4.5,3.6,4.6,5.0,4.4,No,Cambio de ciudad
+ENC000106,EMP07739,E12,TI Monterrey,Full Stack Developer,Junior,2024,3.8,3.7,3.6,4.3,3.6,No,Mejor salario
+ENC000107,EMP00749,E01,Accenture Monterrey,Cybersecurity Analyst,Mid,2023,4.6,4.6,4.6,4.4,4.9,Tal vez,Crecimiento profesional
+ENC000108,EMP00749,E01,Accenture Monterrey,Cybersecurity Analyst,Mid,2024,4.5,4.3,4.8,4.2,4.7,No,Mejor salario
+ENC000109,EMP03485,E03,Neoris,Full Stack Developer,Junior,2023,3.6,2.9,3.7,3.6,3.9,No,Crecimiento profesional
+ENC000110,EMP03485,E03,Neoris,Full Stack Developer,Junior,2024,3.9,3.5,4.1,3.4,4.0,No,N/A
+ENC000111,EMP02514,E02,Tata Consultancy Services,Full Stack Developer,Junior,2023,4.3,4.3,4.3,3.9,4.2,No,Trabajo remoto
+ENC000112,EMP05046,E05,Globant Monterrey,Data Analyst,Senior,2023,3.9,3.4,4.0,3.5,3.7,No,Trabajo remoto
+ENC000113,EMP05046,E05,Globant Monterrey,Data Analyst,Senior,2024,4.0,3.6,4.1,4.0,4.2,Tal vez,Trabajo remoto
+ENC000114,EMP07790,E12,TI Monterrey,Backend Developer,Junior,2023,3.6,3.9,3.6,3.3,4.0,Sí,Crecimiento profesional
+ENC000115,EMP07790,E12,TI Monterrey,Backend Developer,Junior,2024,4.0,3.7,4.2,3.6,3.9,No,Crecimiento profesional
+ENC000116,EMP01673,E01,Accenture Monterrey,Backend Developer,Mid,2023,3.6,3.9,3.4,3.3,3.3,No,Trabajo remoto
+ENC000117,EMP02253,E02,Tata Consultancy Services,Full Stack Developer,Junior,2023,3.5,3.5,3.5,3.2,3.5,No,Mejor salario
+ENC000118,EMP02253,E02,Tata Consultancy Services,Full Stack Developer,Junior,2024,3.7,2.9,3.6,3.7,3.6,No,Mejor salario
+ENC000119,EMP01863,E02,Tata Consultancy Services,Backend Developer,Mid,2023,4.0,3.7,3.9,3.4,4.1,Tal vez,Crecimiento profesional
+ENC000120,EMP07474,E10,Axsis Tecnología,Data Analyst,Mid,2024,3.8,3.2,4.2,3.2,4.0,Sí,Mejor salario
+ENC000121,EMP07887,E12,TI Monterrey,Backend Developer,Mid,2023,4.1,3.5,4.3,4.0,4.3,No,Startup propia
+ENC000122,EMP00473,E01,Accenture Monterrey,Software Developer,Mid,2023,4.4,4.5,4.1,4.8,4.5,No,Trabajo remoto
+ENC000123,EMP04375,E04,Infosys Monterrey,Backend Developer,Mid,2023,4.3,3.9,4.2,4.6,3.9,No,Trabajo remoto
+ENC000124,EMP04375,E04,Infosys Monterrey,Backend Developer,Mid,2024,4.3,3.9,4.4,4.2,4.0,No,Mejor salario
+ENC000125,EMP04380,E04,Infosys Monterrey,Backend Developer,Senior,2023,3.9,3.8,3.9,3.7,3.8,No,Trabajo remoto
+ENC000126,EMP04380,E04,Infosys Monterrey,Backend Developer,Senior,2024,3.9,3.7,3.9,3.7,3.5,Tal vez,Mejor salario
+ENC000127,EMP06200,E07,Hexaware Technologies,Backend Developer,Junior,2023,2.9,2.8,3.1,2.7,2.9,No,Startup propia
+ENC000128,EMP06200,E07,Hexaware Technologies,Backend Developer,Junior,2024,3.2,3.1,3.2,3.2,3.0,No,Trabajo remoto
+ENC000129,EMP04710,E04,Infosys Monterrey,Data Analyst,Junior,2024,4.0,3.7,3.8,4.3,4.1,Sí,Startup propia
+ENC000130,EMP02488,E02,Tata Consultancy Services,Scrum Master,Mid,2023,3.9,3.7,4.2,3.8,4.0,Sí,Mejor salario
+ENC000131,EMP02488,E02,Tata Consultancy Services,Scrum Master,Mid,2024,3.6,3.6,3.9,4.1,3.6,No,N/A
+ENC000132,EMP04369,E04,Infosys Monterrey,Software Developer,Mid,2023,4.1,4.0,4.2,3.4,4.4,Tal vez,Trabajo remoto
+ENC000133,EMP04369,E04,Infosys Monterrey,Software Developer,Mid,2024,4.0,3.8,4.2,3.7,4.0,No,Crecimiento profesional
+ENC000134,EMP01727,E01,Accenture Monterrey,Software Developer,Junior,2024,3.2,3.0,3.4,3.4,3.2,Tal vez,Trabajo remoto
+ENC000135,EMP07677,E11,Skye Group,Cloud Architect,Mid,2023,4.2,4.5,4.1,4.3,4.0,Tal vez,N/A
+ENC000136,EMP07677,E11,Skye Group,Cloud Architect,Mid,2024,3.6,3.6,3.6,3.1,3.9,No,Mejor salario
+ENC000137,EMP01502,E01,Accenture Monterrey,Data Analyst,Senior,2024,3.6,3.6,3.9,3.6,3.4,Tal vez,Crecimiento profesional
+ENC000138,EMP00024,E01,Accenture Monterrey,Backend Developer,Junior,2023,4.5,4.3,4.8,4.4,4.3,No,Mejor salario
+ENC000139,EMP00024,E01,Accenture Monterrey,Backend Developer,Junior,2024,3.7,3.3,3.8,3.3,3.6,Tal vez,Trabajo remoto
+ENC000140,EMP05428,E05,Globant Monterrey,Full Stack Developer,Senior,2023,3.9,3.3,4.1,3.7,3.8,No,Trabajo remoto
+ENC000141,EMP05483,E05,Globant Monterrey,Data Analyst,Mid,2023,3.9,3.7,3.8,4.1,3.9,Sí,Trabajo remoto
+ENC000142,EMP03289,E03,Neoris,Cybersecurity Analyst,Junior,2023,3.9,3.6,4.3,3.3,3.5,Sí,Crecimiento profesional
+ENC000143,EMP05891,E06,BairesDev,Cybersecurity Analyst,Junior,2024,4.5,4.2,5.0,4.5,4.3,No,Mejor salario
+ENC000144,EMP01026,E01,Accenture Monterrey,Data Analyst,Mid,2023,4.7,4.6,4.5,4.6,5.0,No,Startup propia
+ENC000145,EMP01026,E01,Accenture Monterrey,Data Analyst,Mid,2024,3.8,3.8,3.8,4.1,3.9,Sí,Crecimiento profesional
+ENC000146,EMP05398,E05,Globant Monterrey,Data Analyst,Junior,2023,4.5,4.5,4.5,4.3,4.2,No,Trabajo remoto
+ENC000147,EMP05398,E05,Globant Monterrey,Data Analyst,Junior,2024,4.5,4.9,4.3,4.5,4.7,Tal vez,Cambio de ciudad
+ENC000148,EMP06966,E09,Deintec,Frontend Developer,Senior,2024,4.1,3.9,3.9,4.7,4.2,No,Cambio de ciudad
+ENC000149,EMP01895,E02,Tata Consultancy Services,Frontend Developer,Mid,2023,4.2,4.3,4.3,4.0,4.1,No,Crecimiento profesional
+ENC000150,EMP05395,E05,Globant Monterrey,Software Developer,Mid,2023,4.1,4.3,4.6,4.1,4.0,No,Crecimiento profesional
+ENC000151,EMP03329,E03,Neoris,Full Stack Developer,Mid,2023,3.4,3.0,3.7,3.5,3.8,No,Cambio de ciudad
+ENC000152,EMP03329,E03,Neoris,Full Stack Developer,Mid,2024,3.4,3.6,3.2,2.7,3.5,Tal vez,N/A
+ENC000153,EMP04946,E05,Globant Monterrey,Backend Developer,Senior,2023,4.0,4.2,3.8,3.8,4.0,No,Mejor salario
+ENC000154,EMP04946,E05,Globant Monterrey,Backend Developer,Senior,2024,4.7,4.3,4.4,4.3,4.6,No,Trabajo remoto
+ENC000155,EMP04678,E04,Infosys Monterrey,Frontend Developer,Junior,2023,3.4,2.9,3.4,2.9,3.8,Sí,Mejor salario
+ENC000156,EMP01756,E01,Accenture Monterrey,Software Developer,Senior,2024,4.8,4.9,5.0,4.6,5.0,No,Crecimiento profesional
+ENC000157,EMP00971,E01,Accenture Monterrey,Data Analyst,Junior,2023,4.6,4.8,4.5,4.4,4.5,No,Mejor salario
+ENC000158,EMP01481,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,3.9,3.8,4.0,3.7,4.5,No,Crecimiento profesional
+ENC000159,EMP00066,E01,Accenture Monterrey,Frontend Developer,Senior,2024,3.9,3.8,4.0,4.3,4.1,No,Crecimiento profesional
+ENC000160,EMP05719,E06,BairesDev,Data Analyst,Mid,2023,3.1,3.0,3.0,3.2,3.3,No,Crecimiento profesional
+ENC000161,EMP05753,E06,BairesDev,Software Developer,Mid,2023,4.6,4.4,4.5,4.6,4.6,No,Mejor salario
+ENC000162,EMP01028,E01,Accenture Monterrey,Scrum Master,Mid,2023,3.5,3.5,3.4,3.7,3.6,No,Crecimiento profesional
+ENC000163,EMP01028,E01,Accenture Monterrey,Scrum Master,Mid,2024,3.9,3.8,3.9,3.5,4.0,No,Startup propia
+ENC000164,EMP06510,E08,AZKA IT Consulting,DevOps Engineer,Senior,2023,4.4,4.4,4.5,4.5,4.4,Tal vez,Mejor salario
+ENC000165,EMP05703,E06,BairesDev,Backend Developer,Mid,2023,4.6,3.6,5.0,4.7,4.7,Sí,Trabajo remoto
+ENC000166,EMP05703,E06,BairesDev,Backend Developer,Mid,2024,4.0,3.6,3.8,3.7,3.4,No,Trabajo remoto
+ENC000167,EMP02307,E02,Tata Consultancy Services,Data Analyst,Junior,2023,3.5,3.7,3.5,4.1,3.7,Tal vez,Crecimiento profesional
+ENC000168,EMP02307,E02,Tata Consultancy Services,Data Analyst,Junior,2024,3.9,3.3,4.1,3.8,3.8,Sí,Crecimiento profesional
+ENC000169,EMP03876,E03,Neoris,Software Developer,Senior,2023,4.4,4.3,4.2,4.3,4.8,Tal vez,N/A
+ENC000170,EMP03876,E03,Neoris,Software Developer,Senior,2024,5.0,4.9,5.0,4.5,5.0,Tal vez,Trabajo remoto
+ENC000171,EMP07655,E11,Skye Group,DevOps Engineer,Mid,2023,3.5,3.2,3.4,3.4,3.5,No,N/A
+ENC000172,EMP07655,E11,Skye Group,DevOps Engineer,Mid,2024,4.1,4.1,4.3,3.9,4.1,No,Mejor salario
+ENC000173,EMP07525,E11,Skye Group,Backend Developer,Mid,2023,4.3,4.3,4.4,4.1,4.1,No,Trabajo remoto
+ENC000174,EMP07525,E11,Skye Group,Backend Developer,Mid,2024,4.1,4.0,3.9,3.6,3.7,Tal vez,Cambio de ciudad
+ENC000175,EMP03044,E02,Tata Consultancy Services,Frontend Developer,Junior,2023,4.4,4.0,4.6,4.0,4.0,Tal vez,Trabajo remoto
+ENC000176,EMP01198,E01,Accenture Monterrey,Backend Developer,Junior,2023,4.3,4.2,4.5,4.4,4.3,No,Trabajo remoto
+ENC000177,EMP06505,E08,AZKA IT Consulting,Scrum Master,Mid,2023,4.6,3.8,4.7,4.5,4.4,No,Crecimiento profesional
+ENC000178,EMP02532,E02,Tata Consultancy Services,Frontend Developer,Mid,2023,4.5,4.1,4.7,4.6,4.7,No,Mejor salario
+ENC000179,EMP02532,E02,Tata Consultancy Services,Frontend Developer,Mid,2024,5.0,5.0,5.0,5.0,4.7,No,Startup propia
+ENC000180,EMP00995,E01,Accenture Monterrey,Backend Developer,Mid,2023,3.5,3.4,4.1,3.4,3.7,No,Crecimiento profesional
+ENC000181,EMP00995,E01,Accenture Monterrey,Backend Developer,Mid,2024,4.1,4.3,4.2,4.3,3.9,No,Mejor salario
+ENC000182,EMP03280,E03,Neoris,Full Stack Developer,Mid,2023,4.0,4.1,4.3,3.9,4.0,Tal vez,Mejor salario
+ENC000183,EMP03280,E03,Neoris,Full Stack Developer,Mid,2024,4.8,4.3,5.0,4.7,4.8,Sí,Cambio de ciudad
+ENC000184,EMP06048,E07,Hexaware Technologies,Software Developer,Mid,2023,2.8,2.9,2.8,2.6,3.3,No,Crecimiento profesional
+ENC000185,EMP06048,E07,Hexaware Technologies,Software Developer,Mid,2024,4.6,4.8,4.7,4.7,4.7,Tal vez,Startup propia
+ENC000186,EMP01545,E01,Accenture Monterrey,Software Developer,Mid,2024,3.4,3.6,3.1,2.9,3.2,No,Crecimiento profesional
+ENC000187,EMP03933,E03,Neoris,Backend Developer,Mid,2023,3.5,4.1,3.7,3.4,3.5,No,Mejor salario
+ENC000188,EMP01871,E02,Tata Consultancy Services,Software Developer,Junior,2023,3.4,2.6,3.4,3.2,3.8,Sí,Crecimiento profesional
+ENC000189,EMP01871,E02,Tata Consultancy Services,Software Developer,Junior,2024,3.7,3.9,3.9,4.2,4.0,Tal vez,Crecimiento profesional
+ENC000190,EMP02967,E02,Tata Consultancy Services,Backend Developer,Junior,2023,4.2,4.0,4.3,3.8,4.3,No,Mejor salario
+ENC000191,EMP02967,E02,Tata Consultancy Services,Backend Developer,Junior,2024,3.2,3.1,2.9,3.1,3.6,Tal vez,Mejor salario
+ENC000192,EMP04815,E04,Infosys Monterrey,Backend Developer,Junior,2023,3.7,3.4,3.5,3.5,3.8,Tal vez,Mejor salario
+ENC000193,EMP00743,E01,Accenture Monterrey,Frontend Developer,Mid,2023,3.5,3.3,3.7,3.2,3.5,No,Crecimiento profesional
+ENC000194,EMP00743,E01,Accenture Monterrey,Frontend Developer,Mid,2024,3.4,3.4,3.3,3.3,3.5,No,Crecimiento profesional
+ENC000195,EMP07304,E10,Axsis Tecnología,Cloud Architect,Senior,2023,3.9,4.1,3.9,4.1,3.9,No,Mejor salario
+ENC000196,EMP07304,E10,Axsis Tecnología,Cloud Architect,Senior,2024,3.8,3.8,3.7,3.6,3.8,No,Trabajo remoto
+ENC000197,EMP00683,E01,Accenture Monterrey,Data Analyst,Senior,2023,3.9,3.7,3.9,3.7,3.9,No,Crecimiento profesional
+ENC000198,EMP00683,E01,Accenture Monterrey,Data Analyst,Senior,2024,4.1,3.3,4.2,3.7,4.2,No,Trabajo remoto
+ENC000199,EMP06782,E08,AZKA IT Consulting,Frontend Developer,Junior,2023,4.6,4.5,5.0,4.4,4.3,Tal vez,Mejor salario
+ENC000200,EMP06782,E08,AZKA IT Consulting,Frontend Developer,Junior,2024,3.8,3.6,3.8,3.1,4.0,No,N/A
+ENC000201,EMP03334,E03,Neoris,Data Analyst,Mid,2023,4.5,4.0,4.6,4.7,4.2,Sí,Crecimiento profesional
+ENC000202,EMP03334,E03,Neoris,Data Analyst,Mid,2024,4.9,4.6,5.0,5.0,4.9,Sí,Mejor salario
+ENC000203,EMP04395,E04,Infosys Monterrey,DevOps Engineer,Mid,2023,3.9,4.2,4.4,3.9,3.8,Tal vez,Trabajo remoto
+ENC000204,EMP04395,E04,Infosys Monterrey,DevOps Engineer,Mid,2024,3.3,3.3,3.2,2.7,3.2,Tal vez,Crecimiento profesional
+ENC000205,EMP00223,E01,Accenture Monterrey,DevOps Engineer,Mid,2023,4.7,4.2,5.0,5.0,4.7,No,Startup propia
+ENC000206,EMP00223,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,3.9,4.5,4.0,3.5,3.8,No,Crecimiento profesional
+ENC000207,EMP01056,E01,Accenture Monterrey,Backend Developer,Junior,2023,3.9,4.0,3.7,3.8,4.0,No,Startup propia
+ENC000208,EMP01056,E01,Accenture Monterrey,Backend Developer,Junior,2024,3.7,3.5,4.0,3.7,3.6,Tal vez,N/A
+ENC000209,EMP07371,E10,Axsis Tecnología,Full Stack Developer,Mid,2023,4.7,4.6,5.0,4.6,4.8,Tal vez,Mejor salario
+ENC000210,EMP07520,E11,Skye Group,Software Developer,Junior,2023,4.6,4.5,4.4,4.8,4.8,Tal vez,Mejor salario
+ENC000211,EMP05684,E06,BairesDev,DevOps Engineer,Mid,2023,4.1,4.1,4.1,3.7,4.3,No,Mejor salario
+ENC000212,EMP05684,E06,BairesDev,DevOps Engineer,Mid,2024,5.0,4.2,5.0,4.6,4.3,Tal vez,Cambio de ciudad
+ENC000213,EMP06140,E07,Hexaware Technologies,Software Developer,Senior,2023,4.8,5.0,4.8,4.5,4.5,Tal vez,Startup propia
+ENC000214,EMP06140,E07,Hexaware Technologies,Software Developer,Senior,2024,4.8,4.5,4.7,5.0,4.9,No,Crecimiento profesional
+ENC000215,EMP03768,E03,Neoris,Project Manager,Senior,2023,4.1,3.8,3.9,3.5,4.0,Sí,Startup propia
+ENC000216,EMP03768,E03,Neoris,Project Manager,Senior,2024,5.0,5.0,4.7,4.4,4.9,Sí,Crecimiento profesional
+ENC000217,EMP00102,E01,Accenture Monterrey,Frontend Developer,Junior,2023,4.5,4.3,4.4,4.3,4.5,No,Mejor salario
+ENC000218,EMP00102,E01,Accenture Monterrey,Frontend Developer,Junior,2024,3.5,2.9,3.6,3.5,3.1,No,Startup propia
+ENC000219,EMP00264,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,4.1,4.1,4.4,4.4,4.2,No,Crecimiento profesional
+ENC000220,EMP07695,E11,Skye Group,Data Analyst,Mid,2023,4.7,4.4,4.9,4.7,4.9,No,Trabajo remoto
+ENC000221,EMP07695,E11,Skye Group,Data Analyst,Mid,2024,4.8,4.3,5.0,5.0,4.3,Tal vez,Mejor salario
+ENC000222,EMP07731,E12,TI Monterrey,DevOps Engineer,Mid,2023,3.8,3.2,4.1,4.3,3.7,No,Trabajo remoto
+ENC000223,EMP04415,E04,Infosys Monterrey,Full Stack Developer,Junior,2024,4.8,5.0,4.8,4.7,4.5,Tal vez,N/A
+ENC000224,EMP01702,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2023,4.2,4.2,4.2,4.2,4.0,No,Trabajo remoto
+ENC000225,EMP04765,E04,Infosys Monterrey,Scrum Master,Mid,2023,3.8,3.5,4.1,3.4,4.4,No,Trabajo remoto
+ENC000226,EMP04765,E04,Infosys Monterrey,Scrum Master,Mid,2024,4.9,4.6,4.9,4.9,5.0,Sí,Mejor salario
+ENC000227,EMP07305,E10,Axsis Tecnología,Full Stack Developer,Mid,2023,4.7,4.3,4.8,4.9,4.8,No,N/A
+ENC000228,EMP07305,E10,Axsis Tecnología,Full Stack Developer,Mid,2024,4.1,3.7,4.2,3.7,3.9,Tal vez,Crecimiento profesional
+ENC000229,EMP00626,E01,Accenture Monterrey,Scrum Master,Senior,2024,3.7,3.8,3.9,3.3,3.6,Sí,Crecimiento profesional
+ENC000230,EMP01769,E01,Accenture Monterrey,Software Developer,Junior,2023,2.9,2.6,2.9,2.9,3.0,No,Cambio de ciudad
+ENC000231,EMP01769,E01,Accenture Monterrey,Software Developer,Junior,2024,4.1,3.7,4.0,4.0,4.0,Tal vez,Crecimiento profesional
+ENC000232,EMP07293,E10,Axsis Tecnología,Frontend Developer,Mid,2023,4.0,3.9,4.0,3.9,4.3,No,Mejor salario
+ENC000233,EMP07435,E10,Axsis Tecnología,Software Developer,Mid,2023,3.2,2.8,3.6,3.3,3.5,No,Cambio de ciudad
+ENC000234,EMP03321,E03,Neoris,Backend Developer,Mid,2023,3.8,3.9,4.3,3.9,3.2,Tal vez,Mejor salario
+ENC000235,EMP00394,E01,Accenture Monterrey,Frontend Developer,Junior,2023,3.3,2.9,3.3,3.8,3.1,No,Trabajo remoto
+ENC000236,EMP00394,E01,Accenture Monterrey,Frontend Developer,Junior,2024,4.3,4.1,4.3,4.2,4.3,No,Mejor salario
+ENC000237,EMP07811,E12,TI Monterrey,Data Analyst,Mid,2023,3.4,3.3,3.4,3.8,3.7,Sí,Startup propia
+ENC000238,EMP07811,E12,TI Monterrey,Data Analyst,Mid,2024,3.6,3.2,3.6,3.3,3.9,No,Crecimiento profesional
+ENC000239,EMP04295,E04,Infosys Monterrey,Data Analyst,Senior,2023,4.0,3.6,4.0,3.4,4.4,No,Mejor salario
+ENC000240,EMP01731,E01,Accenture Monterrey,Data Analyst,Mid,2023,4.3,4.5,4.6,4.3,4.6,Tal vez,Trabajo remoto
+ENC000241,EMP01731,E01,Accenture Monterrey,Data Analyst,Mid,2024,3.9,3.8,3.8,3.9,4.0,Tal vez,Mejor salario
+ENC000242,EMP06883,E08,AZKA IT Consulting,Project Manager,Mid,2023,3.8,3.3,3.9,4.1,3.3,No,Trabajo remoto
+ENC000243,EMP06883,E08,AZKA IT Consulting,Project Manager,Mid,2024,4.4,4.0,4.5,4.3,4.4,No,N/A
+ENC000244,EMP01894,E02,Tata Consultancy Services,Data Analyst,Mid,2023,3.8,3.2,3.7,3.3,3.7,Sí,Cambio de ciudad
+ENC000245,EMP01894,E02,Tata Consultancy Services,Data Analyst,Mid,2024,4.6,3.9,4.6,4.6,4.5,No,Trabajo remoto
+ENC000246,EMP02133,E02,Tata Consultancy Services,Software Developer,Junior,2024,3.3,3.2,3.3,3.4,3.2,Tal vez,Crecimiento profesional
+ENC000247,EMP00454,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2024,4.3,3.8,4.4,3.8,4.4,Tal vez,Mejor salario
+ENC000248,EMP00240,E01,Accenture Monterrey,Data Analyst,Junior,2023,3.3,3.2,3.4,2.9,3.5,No,Mejor salario
+ENC000249,EMP00240,E01,Accenture Monterrey,Data Analyst,Junior,2024,4.5,4.5,4.5,4.4,4.8,Tal vez,Mejor salario
+ENC000250,EMP04535,E04,Infosys Monterrey,Software Developer,Mid,2023,3.5,3.3,3.8,3.1,3.0,No,Mejor salario
+ENC000251,EMP04535,E04,Infosys Monterrey,Software Developer,Mid,2024,4.1,3.6,4.2,4.2,4.3,No,Crecimiento profesional
+ENC000252,EMP00133,E01,Accenture Monterrey,Full Stack Developer,Mid,2023,4.4,4.2,4.9,4.4,5.0,No,N/A
+ENC000253,EMP00133,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,3.5,3.8,3.7,3.1,3.9,Tal vez,Mejor salario
+ENC000254,EMP06287,E07,Hexaware Technologies,Software Developer,Junior,2023,4.0,4.0,4.0,3.5,3.7,No,Mejor salario
+ENC000255,EMP02800,E02,Tata Consultancy Services,Cybersecurity Analyst,Junior,2023,3.7,3.4,3.8,3.6,3.6,Sí,Mejor salario
+ENC000256,EMP02800,E02,Tata Consultancy Services,Cybersecurity Analyst,Junior,2024,3.3,3.0,3.5,3.3,3.3,Tal vez,Mejor salario
+ENC000257,EMP01516,E01,Accenture Monterrey,Backend Developer,Mid,2023,3.7,3.4,4.0,3.4,3.6,Tal vez,Trabajo remoto
+ENC000258,EMP01516,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.6,3.5,3.7,3.8,3.5,No,Trabajo remoto
+ENC000259,EMP00038,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.1,4.2,4.2,4.2,4.1,No,Crecimiento profesional
+ENC000260,EMP00038,E01,Accenture Monterrey,Scrum Master,Mid,2024,3.9,3.0,4.2,3.4,3.6,No,Mejor salario
+ENC000261,EMP06202,E07,Hexaware Technologies,Full Stack Developer,Junior,2023,3.4,2.9,3.8,3.2,3.6,Sí,Trabajo remoto
+ENC000262,EMP06202,E07,Hexaware Technologies,Full Stack Developer,Junior,2024,3.1,3.1,3.2,3.1,2.9,No,Cambio de ciudad
+ENC000263,EMP03766,E03,Neoris,Backend Developer,Senior,2023,4.9,4.6,5.0,4.9,4.9,No,Mejor salario
+ENC000264,EMP03766,E03,Neoris,Backend Developer,Senior,2024,4.9,4.1,5.0,4.4,4.8,Tal vez,Mejor salario
+ENC000265,EMP03435,E03,Neoris,Backend Developer,Senior,2023,4.9,4.9,5.0,4.8,5.0,No,Startup propia
+ENC000266,EMP03435,E03,Neoris,Backend Developer,Senior,2024,4.5,4.5,4.6,4.3,4.7,No,Crecimiento profesional
+ENC000267,EMP04739,E04,Infosys Monterrey,DevOps Engineer,Mid,2023,4.9,4.8,4.9,5.0,5.0,No,Startup propia
+ENC000268,EMP01906,E02,Tata Consultancy Services,Software Developer,Senior,2023,4.2,4.3,4.1,3.9,4.0,No,Mejor salario
+ENC000269,EMP01906,E02,Tata Consultancy Services,Software Developer,Senior,2024,4.2,3.6,4.0,4.1,3.9,No,Cambio de ciudad
+ENC000270,EMP01916,E02,Tata Consultancy Services,Full Stack Developer,Mid,2023,4.4,4.1,4.2,4.0,4.3,Tal vez,Mejor salario
+ENC000271,EMP01916,E02,Tata Consultancy Services,Full Stack Developer,Mid,2024,3.5,3.4,3.5,3.9,3.5,Tal vez,Trabajo remoto
+ENC000272,EMP03711,E03,Neoris,Software Developer,Junior,2023,4.6,4.8,4.3,4.4,4.4,Tal vez,Crecimiento profesional
+ENC000273,EMP03711,E03,Neoris,Software Developer,Junior,2024,4.3,4.4,4.4,4.6,4.4,Tal vez,Crecimiento profesional
+ENC000274,EMP00857,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,4.1,4.5,4.1,4.0,4.1,Sí,Mejor salario
+ENC000275,EMP05026,E05,Globant Monterrey,Backend Developer,Mid,2023,4.6,4.4,4.8,4.7,4.3,Tal vez,Mejor salario
+ENC000276,EMP05026,E05,Globant Monterrey,Backend Developer,Mid,2024,4.8,4.2,4.7,4.8,5.0,Tal vez,N/A
+ENC000277,EMP02192,E02,Tata Consultancy Services,Full Stack Developer,Senior,2024,3.6,3.4,3.8,3.0,4.1,Sí,Trabajo remoto
+ENC000278,EMP00510,E01,Accenture Monterrey,Cloud Architect,Mid,2023,4.6,4.4,5.0,4.9,4.4,No,Mejor salario
+ENC000279,EMP00510,E01,Accenture Monterrey,Cloud Architect,Mid,2024,4.3,4.5,4.2,3.8,4.5,No,Mejor salario
+ENC000280,EMP06827,E08,AZKA IT Consulting,Full Stack Developer,Junior,2023,3.4,3.2,3.4,3.3,3.4,No,Startup propia
+ENC000281,EMP06827,E08,AZKA IT Consulting,Full Stack Developer,Junior,2024,4.2,3.8,4.4,4.6,4.1,No,Mejor salario
+ENC000282,EMP03888,E03,Neoris,Project Manager,Mid,2023,3.9,3.6,3.9,3.6,4.2,No,N/A
+ENC000283,EMP03888,E03,Neoris,Project Manager,Mid,2024,4.6,4.7,5.0,4.8,4.7,No,Cambio de ciudad
+ENC000284,EMP02112,E02,Tata Consultancy Services,Project Manager,Mid,2023,4.4,4.4,4.3,4.1,4.5,Sí,Mejor salario
+ENC000285,EMP02112,E02,Tata Consultancy Services,Project Manager,Mid,2024,4.2,3.8,4.1,3.9,3.9,Tal vez,Cambio de ciudad
+ENC000286,EMP02606,E02,Tata Consultancy Services,Data Analyst,Mid,2023,4.1,4.2,3.9,3.7,4.1,No,Crecimiento profesional
+ENC000287,EMP02209,E02,Tata Consultancy Services,DevOps Engineer,Senior,2024,5.0,5.0,4.8,5.0,4.9,Tal vez,Trabajo remoto
+ENC000288,EMP02700,E02,Tata Consultancy Services,Data Analyst,Mid,2024,3.8,3.6,3.6,3.3,3.2,Tal vez,Crecimiento profesional
+ENC000289,EMP06738,E08,AZKA IT Consulting,Project Manager,Senior,2023,4.9,4.7,4.9,4.8,4.9,No,Mejor salario
+ENC000290,EMP06738,E08,AZKA IT Consulting,Project Manager,Senior,2024,5.0,4.4,5.0,5.0,4.8,Tal vez,Crecimiento profesional
+ENC000291,EMP00096,E01,Accenture Monterrey,Frontend Developer,Senior,2023,4.7,4.8,4.7,4.3,4.6,Sí,Cambio de ciudad
+ENC000292,EMP00096,E01,Accenture Monterrey,Frontend Developer,Senior,2024,3.7,3.4,3.9,3.6,3.9,Sí,Trabajo remoto
+ENC000293,EMP03430,E03,Neoris,Frontend Developer,Mid,2023,3.9,3.6,3.9,3.7,4.2,Tal vez,Mejor salario
+ENC000294,EMP03430,E03,Neoris,Frontend Developer,Mid,2024,3.9,3.7,3.4,3.9,3.9,No,Crecimiento profesional
+ENC000295,EMP03833,E03,Neoris,Project Manager,Senior,2023,5.0,4.3,5.0,5.0,5.0,Sí,Cambio de ciudad
+ENC000296,EMP03833,E03,Neoris,Project Manager,Senior,2024,4.8,4.3,5.0,4.5,5.0,Tal vez,N/A
+ENC000297,EMP06187,E07,Hexaware Technologies,Full Stack Developer,Mid,2023,3.7,4.0,3.6,3.9,3.5,No,Trabajo remoto
+ENC000298,EMP06187,E07,Hexaware Technologies,Full Stack Developer,Mid,2024,3.7,3.1,4.0,4.0,3.4,Tal vez,Crecimiento profesional
+ENC000299,EMP02639,E02,Tata Consultancy Services,Project Manager,Mid,2024,4.1,4.0,4.1,4.3,4.2,Tal vez,N/A
+ENC000300,EMP06758,E08,AZKA IT Consulting,Data Analyst,Mid,2023,4.5,4.4,4.5,4.0,4.5,No,Mejor salario
+ENC000301,EMP06758,E08,AZKA IT Consulting,Data Analyst,Mid,2024,3.7,3.5,3.8,3.5,4.0,Sí,Trabajo remoto
+ENC000302,EMP02674,E02,Tata Consultancy Services,DevOps Engineer,Senior,2023,4.3,3.9,4.5,4.5,4.6,Sí,Mejor salario
+ENC000303,EMP03758,E03,Neoris,Software Developer,Junior,2023,4.0,3.9,3.9,4.1,3.9,No,Mejor salario
+ENC000304,EMP03758,E03,Neoris,Software Developer,Junior,2024,3.8,4.0,3.7,3.7,4.2,No,Mejor salario
+ENC000305,EMP06762,E08,AZKA IT Consulting,Data Analyst,Mid,2024,4.0,3.9,4.1,3.7,3.8,Sí,Trabajo remoto
+ENC000306,EMP05236,E05,Globant Monterrey,Backend Developer,Senior,2023,5.0,4.9,5.0,5.0,5.0,Sí,Trabajo remoto
+ENC000307,EMP05236,E05,Globant Monterrey,Backend Developer,Senior,2024,3.9,3.2,4.1,3.9,4.2,Tal vez,Mejor salario
+ENC000308,EMP06901,E09,Deintec,Cybersecurity Analyst,Junior,2023,4.6,4.3,4.7,4.3,4.4,No,Trabajo remoto
+ENC000309,EMP06901,E09,Deintec,Cybersecurity Analyst,Junior,2024,4.4,4.0,4.5,4.2,4.6,No,Trabajo remoto
+ENC000310,EMP03126,E03,Neoris,Backend Developer,Junior,2023,3.5,3.5,3.9,3.3,3.7,No,Mejor salario
+ENC000311,EMP03126,E03,Neoris,Backend Developer,Junior,2024,4.6,3.9,4.7,4.7,4.6,Tal vez,Startup propia
+ENC000312,EMP02955,E02,Tata Consultancy Services,Cloud Architect,Mid,2023,3.8,3.5,4.0,3.9,3.5,Sí,Trabajo remoto
+ENC000313,EMP04801,E04,Infosys Monterrey,Backend Developer,Mid,2023,4.0,3.2,3.8,4.5,3.7,No,N/A
+ENC000314,EMP04801,E04,Infosys Monterrey,Backend Developer,Mid,2024,3.7,3.2,3.7,3.8,3.7,Tal vez,Startup propia
+ENC000315,EMP04996,E05,Globant Monterrey,Backend Developer,Senior,2023,4.3,4.0,4.1,3.8,4.1,Tal vez,Cambio de ciudad
+ENC000316,EMP04996,E05,Globant Monterrey,Backend Developer,Senior,2024,4.4,4.5,4.3,4.9,4.4,No,Trabajo remoto
+ENC000317,EMP06852,E08,AZKA IT Consulting,Scrum Master,Mid,2023,4.5,4.2,4.4,4.0,4.7,No,Trabajo remoto
+ENC000318,EMP07601,E11,Skye Group,Frontend Developer,Senior,2023,4.7,4.3,4.6,4.3,5.0,No,N/A
+ENC000319,EMP07601,E11,Skye Group,Frontend Developer,Senior,2024,3.8,3.9,4.0,3.1,3.8,No,Trabajo remoto
+ENC000320,EMP06822,E08,AZKA IT Consulting,DevOps Engineer,Senior,2024,3.6,3.6,3.7,3.1,3.8,No,Mejor salario
+ENC000321,EMP01347,E01,Accenture Monterrey,Software Developer,Mid,2023,4.6,4.4,4.3,4.6,4.6,Sí,Cambio de ciudad
+ENC000322,EMP03039,E02,Tata Consultancy Services,Frontend Developer,Mid,2024,4.7,4.2,4.7,4.9,4.9,No,Mejor salario
+ENC000323,EMP06164,E07,Hexaware Technologies,Data Analyst,Junior,2023,3.8,3.6,3.9,3.5,3.9,No,Mejor salario
+ENC000324,EMP07320,E10,Axsis Tecnología,Full Stack Developer,Mid,2023,3.8,3.6,3.9,3.9,3.7,Sí,Mejor salario
+ENC000325,EMP07320,E10,Axsis Tecnología,Full Stack Developer,Mid,2024,3.9,3.5,3.6,4.1,4.1,Tal vez,Mejor salario
+ENC000326,EMP05921,E06,BairesDev,Cybersecurity Analyst,Mid,2023,4.4,4.2,4.4,4.0,4.1,No,Mejor salario
+ENC000327,EMP05921,E06,BairesDev,Cybersecurity Analyst,Mid,2024,4.5,4.4,4.7,4.5,4.6,No,Trabajo remoto
+ENC000328,EMP06978,E09,Deintec,Frontend Developer,Senior,2023,4.9,4.7,5.0,4.8,4.6,Tal vez,Trabajo remoto
+ENC000329,EMP06978,E09,Deintec,Frontend Developer,Senior,2024,4.9,5.0,5.0,5.0,4.5,No,Trabajo remoto
+ENC000330,EMP01204,E01,Accenture Monterrey,Project Manager,Mid,2023,3.3,3.4,3.4,2.9,3.3,Tal vez,Crecimiento profesional
+ENC000331,EMP01204,E01,Accenture Monterrey,Project Manager,Mid,2024,3.7,3.6,3.9,3.2,3.7,No,Mejor salario
+ENC000332,EMP03965,E03,Neoris,Cybersecurity Analyst,Junior,2023,4.4,3.9,4.6,4.7,4.2,Sí,Crecimiento profesional
+ENC000333,EMP03965,E03,Neoris,Cybersecurity Analyst,Junior,2024,3.7,3.4,3.8,4.3,3.4,No,Crecimiento profesional
+ENC000334,EMP01671,E01,Accenture Monterrey,Frontend Developer,Mid,2023,4.0,3.7,4.0,4.3,4.1,No,Cambio de ciudad
+ENC000335,EMP01671,E01,Accenture Monterrey,Frontend Developer,Mid,2024,3.8,3.4,3.9,3.8,3.8,No,Trabajo remoto
+ENC000336,EMP06154,E07,Hexaware Technologies,Full Stack Developer,Senior,2024,3.4,3.5,3.8,3.6,2.5,Tal vez,Startup propia
+ENC000337,EMP01510,E01,Accenture Monterrey,Project Manager,Mid,2023,4.5,4.6,4.7,4.5,4.3,Sí,Startup propia
+ENC000338,EMP00744,E01,Accenture Monterrey,Data Analyst,Senior,2023,3.8,3.4,3.8,3.7,3.9,No,Mejor salario
+ENC000339,EMP03185,E03,Neoris,Frontend Developer,Mid,2023,4.4,4.4,4.2,3.7,4.4,No,Trabajo remoto
+ENC000340,EMP03185,E03,Neoris,Frontend Developer,Mid,2024,3.7,3.2,4.0,3.9,3.3,Sí,Crecimiento profesional
+ENC000341,EMP04106,E04,Infosys Monterrey,Project Manager,Senior,2023,4.9,4.5,4.9,5.0,4.6,Sí,N/A
+ENC000342,EMP04106,E04,Infosys Monterrey,Project Manager,Senior,2024,4.2,4.1,4.2,3.5,4.4,No,Trabajo remoto
+ENC000343,EMP03140,E03,Neoris,Software Developer,Senior,2023,4.1,3.8,4.5,4.4,4.2,No,Trabajo remoto
+ENC000344,EMP03140,E03,Neoris,Software Developer,Senior,2024,4.9,4.1,4.9,4.8,4.8,No,Cambio de ciudad
+ENC000345,EMP03150,E03,Neoris,Software Developer,Mid,2023,4.2,3.7,4.2,4.2,4.2,No,Mejor salario
+ENC000346,EMP03150,E03,Neoris,Software Developer,Mid,2024,3.7,3.7,4.0,3.9,4.1,No,Startup propia
+ENC000347,EMP02821,E02,Tata Consultancy Services,Cybersecurity Analyst,Junior,2024,3.5,3.2,3.9,3.1,3.6,Tal vez,Crecimiento profesional
+ENC000348,EMP06417,E07,Hexaware Technologies,Software Developer,Senior,2023,4.4,4.0,4.5,4.1,4.3,No,Mejor salario
+ENC000349,EMP07567,E11,Skye Group,Data Analyst,Senior,2024,3.7,3.3,3.8,3.5,4.1,Sí,N/A
+ENC000350,EMP07799,E12,TI Monterrey,Full Stack Developer,Mid,2024,4.5,4.6,4.1,4.4,3.9,No,Mejor salario
+ENC000351,EMP02349,E02,Tata Consultancy Services,Backend Developer,Mid,2023,4.1,4.2,4.3,4.4,3.9,Tal vez,Trabajo remoto
+ENC000352,EMP02349,E02,Tata Consultancy Services,Backend Developer,Mid,2024,4.6,4.4,4.7,4.2,4.9,No,N/A
+ENC000353,EMP06956,E09,Deintec,Cloud Architect,Senior,2023,5.0,5.0,5.0,4.7,4.8,Tal vez,N/A
+ENC000354,EMP03705,E03,Neoris,Backend Developer,Mid,2023,4.7,4.4,4.6,4.2,4.9,No,N/A
+ENC000355,EMP04697,E04,Infosys Monterrey,Frontend Developer,Junior,2023,4.8,4.7,4.6,5.0,4.8,Tal vez,Crecimiento profesional
+ENC000356,EMP04697,E04,Infosys Monterrey,Frontend Developer,Junior,2024,4.5,4.2,4.5,4.8,4.5,No,Crecimiento profesional
+ENC000357,EMP06946,E09,Deintec,Software Developer,Mid,2024,3.5,3.3,3.4,3.8,3.6,No,Crecimiento profesional
+ENC000358,EMP00158,E01,Accenture Monterrey,Project Manager,Mid,2023,3.7,3.2,3.4,3.5,3.6,Tal vez,Startup propia
+ENC000359,EMP00158,E01,Accenture Monterrey,Project Manager,Mid,2024,3.4,3.4,3.9,3.5,3.7,Tal vez,Mejor salario
+ENC000360,EMP07338,E10,Axsis Tecnología,Software Developer,Junior,2023,3.3,3.4,3.5,2.6,3.1,No,N/A
+ENC000361,EMP06688,E08,AZKA IT Consulting,Data Analyst,Junior,2023,3.0,2.9,3.0,2.7,2.8,No,Mejor salario
+ENC000362,EMP05258,E05,Globant Monterrey,Backend Developer,Mid,2024,4.2,4.2,4.4,3.9,4.8,Tal vez,Cambio de ciudad
+ENC000363,EMP04975,E05,Globant Monterrey,Software Developer,Junior,2024,3.8,3.6,3.9,3.7,3.9,Tal vez,Trabajo remoto
+ENC000364,EMP04457,E04,Infosys Monterrey,Software Developer,Mid,2023,3.2,2.5,3.2,2.9,3.0,No,N/A
+ENC000365,EMP04457,E04,Infosys Monterrey,Software Developer,Mid,2024,4.6,4.0,5.0,4.8,4.4,No,Cambio de ciudad
+ENC000366,EMP04208,E04,Infosys Monterrey,DevOps Engineer,Mid,2024,4.6,4.0,4.9,3.7,4.2,Sí,Startup propia
+ENC000367,EMP01329,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2023,4.2,3.8,4.4,4.1,4.3,Sí,N/A
+ENC000368,EMP01329,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2024,4.4,4.0,4.3,3.9,4.5,No,Mejor salario
+ENC000369,EMP07491,E11,Skye Group,Data Analyst,Junior,2024,4.6,4.2,4.7,4.3,5.0,No,Mejor salario
+ENC000370,EMP02989,E02,Tata Consultancy Services,Software Developer,Senior,2023,5.0,5.0,4.9,5.0,5.0,No,Mejor salario
+ENC000371,EMP00684,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,4.7,4.1,5.0,4.9,4.6,Tal vez,Mejor salario
+ENC000372,EMP06537,E08,AZKA IT Consulting,Backend Developer,Mid,2024,4.4,4.0,4.7,4.5,4.2,No,N/A
+ENC000373,EMP07279,E10,Axsis Tecnología,Full Stack Developer,Junior,2023,3.2,3.1,3.3,3.2,3.1,Tal vez,N/A
+ENC000374,EMP07279,E10,Axsis Tecnología,Full Stack Developer,Junior,2024,3.4,3.0,3.3,3.3,3.2,Tal vez,Mejor salario
+ENC000375,EMP01784,E02,Tata Consultancy Services,Data Analyst,Senior,2023,4.3,4.1,4.5,4.1,4.3,Tal vez,Trabajo remoto
+ENC000376,EMP01784,E02,Tata Consultancy Services,Data Analyst,Senior,2024,5.0,4.6,5.0,4.8,5.0,No,Crecimiento profesional
+ENC000377,EMP07144,E09,Deintec,Frontend Developer,Mid,2023,3.8,3.8,3.7,3.9,3.6,No,Trabajo remoto
+ENC000378,EMP07144,E09,Deintec,Frontend Developer,Mid,2024,3.5,3.8,3.6,3.7,3.3,Tal vez,Mejor salario
+ENC000379,EMP07438,E10,Axsis Tecnología,Project Manager,Mid,2023,4.3,4.9,4.6,4.0,4.0,No,Crecimiento profesional
+ENC000380,EMP07438,E10,Axsis Tecnología,Project Manager,Mid,2024,5.0,5.0,5.0,4.9,4.8,Tal vez,Crecimiento profesional
+ENC000381,EMP04031,E04,Infosys Monterrey,Backend Developer,Junior,2023,4.0,4.3,4.2,3.8,3.8,Tal vez,Crecimiento profesional
+ENC000382,EMP04031,E04,Infosys Monterrey,Backend Developer,Junior,2024,3.7,3.6,3.7,3.2,3.8,No,Trabajo remoto
+ENC000383,EMP03414,E03,Neoris,Software Developer,Mid,2023,4.7,4.5,4.8,4.7,4.7,Sí,Mejor salario
+ENC000384,EMP03414,E03,Neoris,Software Developer,Mid,2024,4.4,4.6,4.6,4.2,4.5,No,Trabajo remoto
+ENC000385,EMP00320,E01,Accenture Monterrey,Frontend Developer,Mid,2023,4.1,3.9,4.3,4.2,4.4,No,Cambio de ciudad
+ENC000386,EMP00320,E01,Accenture Monterrey,Frontend Developer,Mid,2024,3.9,3.8,3.8,3.4,4.1,Tal vez,Mejor salario
+ENC000387,EMP02587,E02,Tata Consultancy Services,Software Developer,Mid,2023,4.5,4.6,4.4,4.1,4.0,Tal vez,Cambio de ciudad
+ENC000388,EMP02587,E02,Tata Consultancy Services,Software Developer,Mid,2024,4.5,4.2,4.8,4.1,4.3,No,Cambio de ciudad
+ENC000389,EMP02472,E02,Tata Consultancy Services,Backend Developer,Mid,2023,3.7,3.4,3.5,2.9,3.7,Tal vez,Trabajo remoto
+ENC000390,EMP02472,E02,Tata Consultancy Services,Backend Developer,Mid,2024,4.2,3.7,4.4,3.8,4.2,Tal vez,Mejor salario
+ENC000391,EMP06302,E07,Hexaware Technologies,Frontend Developer,Mid,2024,3.3,3.2,3.3,2.9,3.0,Sí,Mejor salario
+ENC000392,EMP03892,E03,Neoris,Cloud Architect,Senior,2023,4.3,4.3,4.5,3.7,4.0,Tal vez,Mejor salario
+ENC000393,EMP03892,E03,Neoris,Cloud Architect,Senior,2024,3.4,2.6,3.3,3.0,3.4,Tal vez,Mejor salario
+ENC000394,EMP03514,E03,Neoris,Software Developer,Senior,2023,4.6,4.5,4.8,5.0,4.4,No,Mejor salario
+ENC000395,EMP00801,E01,Accenture Monterrey,Software Developer,Senior,2023,3.6,3.3,3.5,3.7,3.9,No,Trabajo remoto
+ENC000396,EMP00801,E01,Accenture Monterrey,Software Developer,Senior,2024,4.7,4.5,4.9,4.5,4.5,Tal vez,Crecimiento profesional
+ENC000397,EMP03735,E03,Neoris,Software Developer,Senior,2023,5.0,4.5,5.0,4.7,5.0,Tal vez,Mejor salario
+ENC000398,EMP03735,E03,Neoris,Software Developer,Senior,2024,4.4,4.0,4.6,4.5,4.7,No,Trabajo remoto
+ENC000399,EMP06694,E08,AZKA IT Consulting,Cloud Architect,Mid,2023,3.9,4.0,4.1,3.9,3.8,No,Trabajo remoto
+ENC000400,EMP05161,E05,Globant Monterrey,Software Developer,Mid,2023,3.5,3.5,3.8,3.8,3.2,No,Mejor salario
+ENC000401,EMP07235,E09,Deintec,Software Developer,Junior,2023,3.8,3.7,3.7,3.7,4.1,Sí,Mejor salario
+ENC000402,EMP05403,E05,Globant Monterrey,Data Analyst,Junior,2023,4.0,3.6,3.9,3.6,4.0,No,Crecimiento profesional
+ENC000403,EMP05403,E05,Globant Monterrey,Data Analyst,Junior,2024,4.3,4.5,4.4,4.2,4.2,No,Trabajo remoto
+ENC000404,EMP01406,E01,Accenture Monterrey,Data Analyst,Junior,2024,4.6,4.2,4.8,4.7,4.8,No,Trabajo remoto
+ENC000405,EMP04921,E05,Globant Monterrey,Data Analyst,Junior,2024,3.5,3.7,3.5,3.8,3.5,Tal vez,Crecimiento profesional
+ENC000406,EMP04831,E05,Globant Monterrey,Project Manager,Mid,2023,4.4,4.0,4.5,4.1,4.1,Tal vez,Cambio de ciudad
+ENC000407,EMP04831,E05,Globant Monterrey,Project Manager,Mid,2024,3.5,2.9,3.8,3.3,4.0,Tal vez,Crecimiento profesional
+ENC000408,EMP06817,E08,AZKA IT Consulting,Backend Developer,Junior,2023,4.7,4.7,4.9,4.5,4.9,Tal vez,Cambio de ciudad
+ENC000409,EMP06817,E08,AZKA IT Consulting,Backend Developer,Junior,2024,3.4,3.1,3.6,3.3,3.4,No,Crecimiento profesional
+ENC000410,EMP01374,E01,Accenture Monterrey,Backend Developer,Junior,2023,3.5,3.4,3.8,3.6,3.4,Sí,Crecimiento profesional
+ENC000411,EMP01374,E01,Accenture Monterrey,Backend Developer,Junior,2024,4.1,4.0,4.2,4.0,4.0,No,Mejor salario
+ENC000412,EMP04270,E04,Infosys Monterrey,Backend Developer,Mid,2024,3.1,2.8,3.2,3.1,2.7,Tal vez,Trabajo remoto
+ENC000413,EMP05771,E06,BairesDev,Software Developer,Senior,2023,4.2,4.3,4.7,4.4,4.8,Tal vez,Mejor salario
+ENC000414,EMP05771,E06,BairesDev,Software Developer,Senior,2024,4.3,3.9,4.7,4.3,4.5,Tal vez,Cambio de ciudad
+ENC000415,EMP02520,E02,Tata Consultancy Services,Backend Developer,Junior,2023,4.6,4.4,4.9,4.3,4.9,No,Cambio de ciudad
+ENC000416,EMP02520,E02,Tata Consultancy Services,Backend Developer,Junior,2024,3.4,2.9,3.5,2.4,2.7,No,Trabajo remoto
+ENC000417,EMP05401,E05,Globant Monterrey,Software Developer,Mid,2024,4.6,3.9,4.6,4.9,4.4,No,Crecimiento profesional
+ENC000418,EMP01076,E01,Accenture Monterrey,Full Stack Developer,Senior,2023,5.0,4.7,4.8,4.6,5.0,Tal vez,Mejor salario
+ENC000419,EMP01076,E01,Accenture Monterrey,Full Stack Developer,Senior,2024,3.7,3.3,4.1,3.8,3.9,Sí,Mejor salario
+ENC000420,EMP02906,E02,Tata Consultancy Services,Frontend Developer,Mid,2023,3.6,3.4,3.8,3.1,3.9,Tal vez,Mejor salario
+ENC000421,EMP02906,E02,Tata Consultancy Services,Frontend Developer,Mid,2024,5.0,4.7,5.0,4.8,5.0,Tal vez,N/A
+ENC000422,EMP00350,E01,Accenture Monterrey,Project Manager,Mid,2023,3.2,3.1,3.6,3.5,3.3,Tal vez,Trabajo remoto
+ENC000423,EMP00350,E01,Accenture Monterrey,Project Manager,Mid,2024,4.1,3.8,4.4,3.8,4.0,Tal vez,Crecimiento profesional
+ENC000424,EMP01644,E01,Accenture Monterrey,Software Developer,Mid,2023,4.3,4.0,4.2,3.8,5.0,Tal vez,Cambio de ciudad
+ENC000425,EMP01644,E01,Accenture Monterrey,Software Developer,Mid,2024,3.3,3.4,3.6,3.4,3.6,No,Mejor salario
+ENC000426,EMP01324,E01,Accenture Monterrey,Scrum Master,Senior,2023,4.1,3.9,4.1,4.3,4.5,Tal vez,Cambio de ciudad
+ENC000427,EMP01006,E01,Accenture Monterrey,Frontend Developer,Junior,2023,3.8,3.7,3.6,3.4,3.7,No,Trabajo remoto
+ENC000428,EMP01859,E02,Tata Consultancy Services,Backend Developer,Mid,2023,4.2,3.8,4.2,4.1,4.1,No,Mejor salario
+ENC000429,EMP04305,E04,Infosys Monterrey,Backend Developer,Senior,2024,4.4,4.5,4.4,4.1,3.9,No,Trabajo remoto
+ENC000430,EMP02541,E02,Tata Consultancy Services,Full Stack Developer,Senior,2023,4.2,3.9,4.3,4.2,4.3,No,Crecimiento profesional
+ENC000431,EMP07532,E11,Skye Group,Data Analyst,Mid,2023,4.2,4.0,4.3,4.5,4.6,Tal vez,Mejor salario
+ENC000432,EMP07532,E11,Skye Group,Data Analyst,Mid,2024,4.2,3.7,4.5,3.5,3.9,Sí,Crecimiento profesional
+ENC000433,EMP03784,E03,Neoris,Full Stack Developer,Mid,2023,3.4,3.6,3.1,3.3,3.4,Tal vez,Trabajo remoto
+ENC000434,EMP03784,E03,Neoris,Full Stack Developer,Mid,2024,4.0,4.4,3.9,4.0,3.7,Sí,Trabajo remoto
+ENC000435,EMP04990,E05,Globant Monterrey,Backend Developer,Mid,2023,3.7,4.2,3.9,3.3,3.3,No,N/A
+ENC000436,EMP04990,E05,Globant Monterrey,Backend Developer,Mid,2024,4.1,3.7,4.0,3.6,4.3,No,Startup propia
+ENC000437,EMP00458,E01,Accenture Monterrey,Backend Developer,Junior,2023,3.1,3.2,3.1,3.3,3.2,Tal vez,N/A
+ENC000438,EMP00458,E01,Accenture Monterrey,Backend Developer,Junior,2024,4.2,3.9,4.3,4.2,4.0,Sí,Mejor salario
+ENC000439,EMP06521,E08,AZKA IT Consulting,Backend Developer,Junior,2023,3.0,2.8,3.2,2.7,3.4,No,Mejor salario
+ENC000440,EMP06521,E08,AZKA IT Consulting,Backend Developer,Junior,2024,3.9,3.4,4.0,3.6,3.8,No,Crecimiento profesional
+ENC000441,EMP01941,E02,Tata Consultancy Services,Data Analyst,Junior,2023,4.3,4.1,4.4,4.3,4.5,No,Mejor salario
+ENC000442,EMP01941,E02,Tata Consultancy Services,Data Analyst,Junior,2024,3.4,3.3,3.5,3.9,3.3,Tal vez,Startup propia
+ENC000443,EMP07770,E12,TI Monterrey,Scrum Master,Senior,2024,4.8,4.5,4.8,4.9,4.8,Tal vez,Crecimiento profesional
+ENC000444,EMP06522,E08,AZKA IT Consulting,Software Developer,Junior,2023,3.6,3.5,3.8,3.1,3.6,No,Mejor salario
+ENC000445,EMP06522,E08,AZKA IT Consulting,Software Developer,Junior,2024,4.1,3.9,4.0,3.8,4.4,No,Mejor salario
+ENC000446,EMP02707,E02,Tata Consultancy Services,Software Developer,Senior,2024,4.0,4.4,4.1,4.2,4.0,No,N/A
+ENC000447,EMP03946,E03,Neoris,Scrum Master,Senior,2023,4.7,4.1,4.5,5.0,5.0,Tal vez,Crecimiento profesional
+ENC000448,EMP01596,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.7,2.9,3.7,3.6,3.4,Tal vez,Crecimiento profesional
+ENC000449,EMP05860,E06,BairesDev,Software Developer,Senior,2023,5.0,4.8,4.9,5.0,5.0,Tal vez,Trabajo remoto
+ENC000450,EMP05860,E06,BairesDev,Software Developer,Senior,2024,3.8,3.6,3.7,3.6,4.0,No,Mejor salario
+ENC000451,EMP06001,E06,BairesDev,Data Analyst,Mid,2024,3.5,3.2,3.8,3.6,3.7,No,N/A
+ENC000452,EMP02593,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.5,4.5,4.6,4.1,4.4,Tal vez,Mejor salario
+ENC000453,EMP02593,E02,Tata Consultancy Services,Software Developer,Junior,2024,3.8,3.6,4.0,3.4,4.1,No,N/A
+ENC000454,EMP06090,E07,Hexaware Technologies,Software Developer,Mid,2024,3.1,2.7,3.1,2.9,3.3,No,N/A
+ENC000455,EMP05730,E06,BairesDev,Scrum Master,Mid,2023,3.8,3.5,3.9,4.4,3.7,Tal vez,Mejor salario
+ENC000456,EMP05730,E06,BairesDev,Scrum Master,Mid,2024,4.3,4.3,4.3,4.7,4.4,Sí,Crecimiento profesional
+ENC000457,EMP06175,E07,Hexaware Technologies,Software Developer,Junior,2023,3.6,3.5,3.8,3.0,3.4,No,Crecimiento profesional
+ENC000458,EMP06175,E07,Hexaware Technologies,Software Developer,Junior,2024,3.5,3.2,3.8,3.3,3.5,No,N/A
+ENC000459,EMP05690,E06,BairesDev,Cloud Architect,Senior,2023,4.1,4.1,4.0,3.8,3.9,Tal vez,N/A
+ENC000460,EMP05690,E06,BairesDev,Cloud Architect,Senior,2024,4.1,3.5,3.8,4.4,3.9,Tal vez,N/A
+ENC000461,EMP02178,E02,Tata Consultancy Services,Data Analyst,Mid,2023,4.1,4.4,4.2,3.6,4.4,Tal vez,Crecimiento profesional
+ENC000462,EMP03663,E03,Neoris,Software Developer,Senior,2023,4.7,4.3,4.5,4.8,4.3,No,Crecimiento profesional
+ENC000463,EMP03663,E03,Neoris,Software Developer,Senior,2024,4.1,3.6,4.2,4.0,4.5,Tal vez,Startup propia
+ENC000464,EMP02958,E02,Tata Consultancy Services,Frontend Developer,Mid,2023,4.3,4.1,4.2,4.5,4.6,Sí,Mejor salario
+ENC000465,EMP03144,E03,Neoris,Backend Developer,Junior,2023,3.0,2.8,3.2,3.2,3.2,No,Crecimiento profesional
+ENC000466,EMP00497,E01,Accenture Monterrey,Software Developer,Junior,2023,4.2,3.5,4.4,3.9,3.9,Tal vez,Crecimiento profesional
+ENC000467,EMP00466,E01,Accenture Monterrey,Data Analyst,Senior,2023,4.7,4.1,4.6,4.6,5.0,Tal vez,Crecimiento profesional
+ENC000468,EMP00466,E01,Accenture Monterrey,Data Analyst,Senior,2024,5.0,4.5,5.0,4.9,5.0,Tal vez,Crecimiento profesional
+ENC000469,EMP04199,E04,Infosys Monterrey,Cybersecurity Analyst,Junior,2023,4.7,4.3,5.0,4.5,4.8,No,N/A
+ENC000470,EMP04199,E04,Infosys Monterrey,Cybersecurity Analyst,Junior,2024,4.5,4.1,4.4,4.5,4.7,No,Crecimiento profesional
+ENC000471,EMP01403,E01,Accenture Monterrey,Cloud Architect,Senior,2023,4.4,4.2,4.8,4.1,4.7,No,Mejor salario
+ENC000472,EMP01403,E01,Accenture Monterrey,Cloud Architect,Senior,2024,4.3,3.8,4.7,4.2,4.3,No,Mejor salario
+ENC000473,EMP02836,E02,Tata Consultancy Services,Backend Developer,Mid,2023,4.1,4.1,4.2,4.3,4.2,Tal vez,Crecimiento profesional
+ENC000474,EMP02836,E02,Tata Consultancy Services,Backend Developer,Mid,2024,4.8,4.2,4.9,5.0,4.6,Tal vez,Cambio de ciudad
+ENC000475,EMP06475,E07,Hexaware Technologies,Software Developer,Senior,2023,4.7,4.3,4.7,5.0,5.0,No,Mejor salario
+ENC000476,EMP06475,E07,Hexaware Technologies,Software Developer,Senior,2024,4.4,4.5,4.9,3.6,4.5,Sí,Crecimiento profesional
+ENC000477,EMP01401,E01,Accenture Monterrey,Data Analyst,Junior,2023,5.0,4.6,5.0,5.0,4.7,Sí,Mejor salario
+ENC000478,EMP01401,E01,Accenture Monterrey,Data Analyst,Junior,2024,4.1,4.3,4.5,4.0,4.2,No,Trabajo remoto
+ENC000479,EMP02113,E02,Tata Consultancy Services,Full Stack Developer,Senior,2023,4.8,4.3,5.0,4.8,5.0,No,Cambio de ciudad
+ENC000480,EMP02277,E02,Tata Consultancy Services,Cybersecurity Analyst,Mid,2023,4.1,3.9,4.0,3.9,3.6,Sí,Crecimiento profesional
+ENC000481,EMP02277,E02,Tata Consultancy Services,Cybersecurity Analyst,Mid,2024,3.3,3.1,3.3,3.2,3.1,No,N/A
+ENC000482,EMP04002,E04,Infosys Monterrey,Full Stack Developer,Mid,2023,4.0,4.1,4.3,3.3,3.9,No,Cambio de ciudad
+ENC000483,EMP04002,E04,Infosys Monterrey,Full Stack Developer,Mid,2024,4.6,4.1,4.7,5.0,4.7,Tal vez,Mejor salario
+ENC000484,EMP07559,E11,Skye Group,Frontend Developer,Senior,2024,5.0,4.8,5.0,5.0,5.0,No,Mejor salario
+ENC000485,EMP05088,E05,Globant Monterrey,Data Analyst,Mid,2023,4.8,4.5,5.0,4.7,5.0,No,Crecimiento profesional
+ENC000486,EMP05088,E05,Globant Monterrey,Data Analyst,Mid,2024,3.6,3.1,3.8,3.9,3.7,Sí,Mejor salario
+ENC000487,EMP02230,E02,Tata Consultancy Services,Backend Developer,Mid,2023,4.7,4.5,4.7,4.1,4.6,No,Crecimiento profesional
+ENC000488,EMP07161,E09,Deintec,Software Developer,Junior,2023,4.2,3.9,4.5,3.9,4.0,Sí,Crecimiento profesional
+ENC000489,EMP07161,E09,Deintec,Software Developer,Junior,2024,3.1,2.7,3.5,3.2,3.1,Tal vez,N/A
+ENC000490,EMP07098,E09,Deintec,Project Manager,Mid,2023,4.2,4.1,4.1,4.1,4.0,No,Cambio de ciudad
+ENC000491,EMP07098,E09,Deintec,Project Manager,Mid,2024,4.8,4.5,4.7,4.4,4.9,Tal vez,Cambio de ciudad
+ENC000492,EMP01222,E01,Accenture Monterrey,Data Analyst,Junior,2023,4.5,4.1,4.8,4.7,4.4,No,Crecimiento profesional
+ENC000493,EMP01222,E01,Accenture Monterrey,Data Analyst,Junior,2024,3.4,3.0,3.6,2.8,3.1,No,Trabajo remoto
+ENC000494,EMP01045,E01,Accenture Monterrey,Software Developer,Junior,2023,3.4,2.9,3.0,3.4,3.4,No,Crecimiento profesional
+ENC000495,EMP01045,E01,Accenture Monterrey,Software Developer,Junior,2024,4.1,4.1,4.1,3.7,4.5,Tal vez,Trabajo remoto
+ENC000496,EMP03993,E04,Infosys Monterrey,DevOps Engineer,Mid,2024,4.5,4.3,4.7,4.2,4.5,No,Cambio de ciudad
+ENC000497,EMP07083,E09,Deintec,Cybersecurity Analyst,Senior,2023,4.9,4.5,4.9,5.0,4.4,No,Trabajo remoto
+ENC000498,EMP00231,E01,Accenture Monterrey,Full Stack Developer,Mid,2023,4.9,4.5,4.8,4.4,4.8,No,Trabajo remoto
+ENC000499,EMP00231,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,4.1,3.7,4.3,3.9,4.0,Tal vez,Crecimiento profesional
+ENC000500,EMP03459,E03,Neoris,Backend Developer,Junior,2024,4.2,4.0,4.2,4.1,4.0,Sí,Mejor salario
+ENC000501,EMP04692,E04,Infosys Monterrey,Full Stack Developer,Mid,2023,4.4,4.2,4.4,4.4,4.1,No,Crecimiento profesional
+ENC000502,EMP04692,E04,Infosys Monterrey,Full Stack Developer,Mid,2024,5.0,4.6,4.9,5.0,4.7,No,Mejor salario
+ENC000503,EMP00928,E01,Accenture Monterrey,Software Developer,Junior,2023,3.3,3.4,3.3,3.2,3.1,No,N/A
+ENC000504,EMP00928,E01,Accenture Monterrey,Software Developer,Junior,2024,4.2,3.7,4.3,3.9,3.8,No,Mejor salario
+ENC000505,EMP07560,E11,Skye Group,Scrum Master,Mid,2023,3.8,4.2,3.7,3.8,3.7,No,Startup propia
+ENC000506,EMP07560,E11,Skye Group,Scrum Master,Mid,2024,3.9,3.1,4.1,3.2,4.2,No,Crecimiento profesional
+ENC000507,EMP03850,E03,Neoris,Full Stack Developer,Junior,2023,3.3,3.2,3.3,3.3,2.9,Tal vez,Trabajo remoto
+ENC000508,EMP03850,E03,Neoris,Full Stack Developer,Junior,2024,4.2,3.9,4.3,3.8,3.7,Sí,Mejor salario
+ENC000509,EMP03482,E03,Neoris,Data Analyst,Junior,2024,4.2,3.9,4.4,3.9,4.1,No,Crecimiento profesional
+ENC000510,EMP00034,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,4.1,4.1,4.1,3.9,4.0,No,Startup propia
+ENC000511,EMP00774,E01,Accenture Monterrey,Backend Developer,Mid,2023,3.4,3.4,3.7,3.0,3.5,Tal vez,Trabajo remoto
+ENC000512,EMP04695,E04,Infosys Monterrey,Data Analyst,Mid,2023,4.0,3.4,4.4,3.5,4.3,No,Mejor salario
+ENC000513,EMP04695,E04,Infosys Monterrey,Data Analyst,Mid,2024,3.5,3.1,3.3,3.3,3.4,Sí,Mejor salario
+ENC000514,EMP03800,E03,Neoris,DevOps Engineer,Senior,2024,4.8,5.0,5.0,4.6,4.5,No,Trabajo remoto
+ENC000515,EMP04310,E04,Infosys Monterrey,Backend Developer,Junior,2023,3.6,3.7,3.7,3.2,3.5,Tal vez,Startup propia
+ENC000516,EMP04310,E04,Infosys Monterrey,Backend Developer,Junior,2024,3.2,2.8,3.2,2.6,3.4,No,Crecimiento profesional
+ENC000517,EMP02511,E02,Tata Consultancy Services,Software Developer,Mid,2023,4.4,3.8,4.5,4.4,4.5,No,Crecimiento profesional
+ENC000518,EMP00062,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,4.5,4.2,4.5,5.0,4.2,Sí,N/A
+ENC000519,EMP03843,E03,Neoris,Backend Developer,Junior,2023,4.2,4.4,4.4,4.5,4.0,Sí,Trabajo remoto
+ENC000520,EMP03843,E03,Neoris,Backend Developer,Junior,2024,3.8,3.8,4.1,3.6,4.0,No,Mejor salario
+ENC000521,EMP07029,E09,Deintec,Cybersecurity Analyst,Mid,2023,4.0,3.8,4.3,4.3,4.3,Tal vez,Trabajo remoto
+ENC000522,EMP00519,E01,Accenture Monterrey,Software Developer,Mid,2024,4.0,3.5,4.5,3.9,4.0,No,Trabajo remoto
+ENC000523,EMP06009,E06,BairesDev,Cybersecurity Analyst,Mid,2023,4.8,4.3,5.0,5.0,5.0,Tal vez,Crecimiento profesional
+ENC000524,EMP06009,E06,BairesDev,Cybersecurity Analyst,Mid,2024,3.6,3.0,3.9,2.8,3.7,No,Mejor salario
+ENC000525,EMP03405,E03,Neoris,Software Developer,Junior,2023,4.0,3.5,4.0,4.3,4.1,No,Mejor salario
+ENC000526,EMP03405,E03,Neoris,Software Developer,Junior,2024,4.4,4.3,4.8,4.9,4.4,No,Mejor salario
+ENC000527,EMP06844,E08,AZKA IT Consulting,Software Developer,Senior,2023,4.5,4.4,4.5,4.7,4.4,Sí,Crecimiento profesional
+ENC000528,EMP06844,E08,AZKA IT Consulting,Software Developer,Senior,2024,4.9,4.0,4.8,4.8,4.7,No,Crecimiento profesional
+ENC000529,EMP00545,E01,Accenture Monterrey,Software Developer,Junior,2023,4.1,4.1,4.2,4.0,4.0,No,Mejor salario
+ENC000530,EMP00545,E01,Accenture Monterrey,Software Developer,Junior,2024,4.4,3.9,4.3,4.5,4.4,No,Trabajo remoto
+ENC000531,EMP02583,E02,Tata Consultancy Services,Data Analyst,Mid,2023,4.2,3.7,4.2,4.0,4.1,No,Crecimiento profesional
+ENC000532,EMP02583,E02,Tata Consultancy Services,Data Analyst,Mid,2024,3.8,3.4,3.9,3.6,3.9,Tal vez,N/A
+ENC000533,EMP06516,E08,AZKA IT Consulting,DevOps Engineer,Mid,2024,4.9,4.7,4.9,4.6,5.0,Tal vez,Trabajo remoto
+ENC000534,EMP00430,E01,Accenture Monterrey,Full Stack Developer,Junior,2023,4.4,4.4,4.8,3.9,4.4,Sí,Mejor salario
+ENC000535,EMP03012,E02,Tata Consultancy Services,Cybersecurity Analyst,Mid,2023,4.5,4.2,4.7,4.2,4.8,Sí,Trabajo remoto
+ENC000536,EMP03012,E02,Tata Consultancy Services,Cybersecurity Analyst,Mid,2024,3.2,3.0,3.9,3.4,3.2,No,Startup propia
+ENC000537,EMP04915,E05,Globant Monterrey,Scrum Master,Senior,2023,4.9,4.7,4.9,4.8,4.7,Tal vez,Mejor salario
+ENC000538,EMP04915,E05,Globant Monterrey,Scrum Master,Senior,2024,4.7,4.7,5.0,4.4,4.5,No,Trabajo remoto
+ENC000539,EMP01085,E01,Accenture Monterrey,Backend Developer,Junior,2023,4.4,3.5,4.2,4.3,4.1,Sí,Trabajo remoto
+ENC000540,EMP01085,E01,Accenture Monterrey,Backend Developer,Junior,2024,4.2,4.2,4.3,3.9,4.1,Tal vez,Crecimiento profesional
+ENC000541,EMP00577,E01,Accenture Monterrey,Backend Developer,Mid,2023,3.8,3.3,3.8,3.6,3.9,Tal vez,Startup propia
+ENC000542,EMP00577,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.5,2.9,3.3,3.7,3.4,Sí,N/A
+ENC000543,EMP03546,E03,Neoris,Frontend Developer,Mid,2023,4.0,4.0,3.8,4.0,3.9,No,Mejor salario
+ENC000544,EMP02274,E02,Tata Consultancy Services,DevOps Engineer,Senior,2023,4.4,3.9,4.2,4.5,4.4,No,Trabajo remoto
+ENC000545,EMP02274,E02,Tata Consultancy Services,DevOps Engineer,Senior,2024,4.6,4.2,5.0,4.5,4.3,Tal vez,Mejor salario
+ENC000546,EMP06559,E08,AZKA IT Consulting,DevOps Engineer,Senior,2024,3.6,3.2,3.8,3.5,3.4,No,Trabajo remoto
+ENC000547,EMP07561,E11,Skye Group,Backend Developer,Junior,2023,4.0,4.2,4.3,4.0,4.3,Tal vez,N/A
+ENC000548,EMP07561,E11,Skye Group,Backend Developer,Junior,2024,3.3,3.0,3.5,3.1,3.4,No,Mejor salario
+ENC000549,EMP02319,E02,Tata Consultancy Services,Full Stack Developer,Senior,2023,4.2,3.6,4.3,3.7,4.1,Tal vez,Mejor salario
+ENC000550,EMP02319,E02,Tata Consultancy Services,Full Stack Developer,Senior,2024,4.9,4.8,4.9,4.7,4.6,No,Mejor salario
+ENC000551,EMP06135,E07,Hexaware Technologies,Cybersecurity Analyst,Junior,2023,3.9,3.9,4.0,3.9,4.0,No,Trabajo remoto
+ENC000552,EMP04382,E04,Infosys Monterrey,Frontend Developer,Junior,2023,4.0,3.5,4.0,4.1,4.1,Sí,Mejor salario
+ENC000553,EMP04382,E04,Infosys Monterrey,Frontend Developer,Junior,2024,4.2,3.9,4.6,4.0,4.2,No,N/A
+ENC000554,EMP01759,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.3,4.4,3.9,4.4,4.1,Tal vez,Cambio de ciudad
+ENC000555,EMP01759,E01,Accenture Monterrey,Scrum Master,Mid,2024,4.5,4.8,4.7,4.9,4.7,No,Crecimiento profesional
+ENC000556,EMP04254,E04,Infosys Monterrey,DevOps Engineer,Senior,2023,5.0,4.7,5.0,5.0,5.0,No,Mejor salario
+ENC000557,EMP07348,E10,Axsis Tecnología,Data Analyst,Junior,2024,3.0,2.7,3.1,2.7,2.9,No,Mejor salario
+ENC000558,EMP05828,E06,BairesDev,Data Analyst,Mid,2023,3.8,3.4,3.7,3.5,3.9,Tal vez,Cambio de ciudad
+ENC000559,EMP05828,E06,BairesDev,Data Analyst,Mid,2024,3.2,3.4,3.1,2.6,3.3,Tal vez,Mejor salario
+ENC000560,EMP06325,E07,Hexaware Technologies,Software Developer,Junior,2023,3.9,4.4,3.9,3.6,3.9,No,Crecimiento profesional
+ENC000561,EMP07855,E12,TI Monterrey,Software Developer,Mid,2023,3.9,3.4,4.1,4.0,3.9,Sí,Crecimiento profesional
+ENC000562,EMP07855,E12,TI Monterrey,Software Developer,Mid,2024,3.3,3.0,3.7,3.2,3.6,Tal vez,Startup propia
+ENC000563,EMP05803,E06,BairesDev,Software Developer,Junior,2024,4.1,4.0,4.3,4.3,4.1,Sí,Mejor salario
+ENC000564,EMP07724,E11,Skye Group,Data Analyst,Senior,2023,4.1,3.6,4.1,3.7,4.2,Tal vez,Trabajo remoto
+ENC000565,EMP01787,E02,Tata Consultancy Services,Project Manager,Senior,2023,3.6,3.7,3.8,4.3,3.7,Sí,Cambio de ciudad
+ENC000566,EMP00080,E01,Accenture Monterrey,Cloud Architect,Mid,2023,3.8,3.5,3.8,3.9,3.8,No,Mejor salario
+ENC000567,EMP01740,E01,Accenture Monterrey,Full Stack Developer,Senior,2023,4.0,3.8,4.0,4.0,3.7,Tal vez,Crecimiento profesional
+ENC000568,EMP01740,E01,Accenture Monterrey,Full Stack Developer,Senior,2024,3.9,3.7,3.8,3.6,3.9,No,Mejor salario
+ENC000569,EMP05519,E05,Globant Monterrey,Full Stack Developer,Mid,2023,3.6,3.3,4.1,3.7,3.6,Tal vez,Cambio de ciudad
+ENC000570,EMP05519,E05,Globant Monterrey,Full Stack Developer,Mid,2024,3.7,3.8,3.8,3.7,3.8,Sí,Crecimiento profesional
+ENC000571,EMP01651,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2024,3.3,2.4,3.2,3.1,3.2,No,Mejor salario
+ENC000572,EMP03338,E03,Neoris,Backend Developer,Mid,2023,3.8,4.0,3.9,3.7,3.5,Sí,Startup propia
+ENC000573,EMP03338,E03,Neoris,Backend Developer,Mid,2024,4.5,4.2,4.2,4.7,4.2,No,Mejor salario
+ENC000574,EMP01851,E02,Tata Consultancy Services,Cybersecurity Analyst,Junior,2023,4.4,4.2,4.2,4.3,4.3,No,Startup propia
+ENC000575,EMP03935,E03,Neoris,Frontend Developer,Mid,2023,4.1,3.9,4.3,4.5,4.2,Sí,Trabajo remoto
+ENC000576,EMP03935,E03,Neoris,Frontend Developer,Mid,2024,4.7,4.5,5.0,5.0,5.0,No,Mejor salario
+ENC000577,EMP01353,E01,Accenture Monterrey,Data Analyst,Mid,2023,4.5,4.4,4.6,4.5,4.7,Sí,N/A
+ENC000578,EMP01353,E01,Accenture Monterrey,Data Analyst,Mid,2024,4.0,4.1,4.1,3.5,3.6,Tal vez,Cambio de ciudad
+ENC000579,EMP01260,E01,Accenture Monterrey,Data Analyst,Junior,2023,4.3,4.6,4.3,3.5,4.8,Tal vez,Crecimiento profesional
+ENC000580,EMP01260,E01,Accenture Monterrey,Data Analyst,Junior,2024,3.2,2.8,3.4,2.9,2.8,No,Cambio de ciudad
+ENC000581,EMP07661,E11,Skye Group,Software Developer,Mid,2023,4.1,3.8,3.9,3.9,4.3,Tal vez,Mejor salario
+ENC000582,EMP07661,E11,Skye Group,Software Developer,Mid,2024,3.4,3.8,3.4,4.2,3.3,No,Trabajo remoto
+ENC000583,EMP07778,E12,TI Monterrey,Software Developer,Mid,2023,3.9,3.5,4.1,3.9,4.2,No,Mejor salario
+ENC000584,EMP07778,E12,TI Monterrey,Software Developer,Mid,2024,3.7,3.4,4.0,3.6,3.7,Sí,Mejor salario
+ENC000585,EMP06631,E08,AZKA IT Consulting,Data Analyst,Junior,2023,3.8,3.0,3.6,3.7,3.8,Tal vez,Trabajo remoto
+ENC000586,EMP04679,E04,Infosys Monterrey,Cybersecurity Analyst,Mid,2023,3.6,3.6,3.6,3.5,3.7,Sí,Mejor salario
+ENC000587,EMP05603,E06,BairesDev,Data Analyst,Junior,2023,4.3,4.0,4.6,4.1,4.6,Tal vez,N/A
+ENC000588,EMP05603,E06,BairesDev,Data Analyst,Junior,2024,4.5,3.8,4.7,4.3,4.6,Sí,Crecimiento profesional
+ENC000589,EMP02440,E02,Tata Consultancy Services,Project Manager,Mid,2023,4.2,3.5,4.5,3.9,4.2,Sí,Mejor salario
+ENC000590,EMP03423,E03,Neoris,Data Analyst,Junior,2023,4.4,4.4,4.7,4.5,4.8,Tal vez,Mejor salario
+ENC000591,EMP03423,E03,Neoris,Data Analyst,Junior,2024,3.7,3.5,3.8,3.6,4.1,Tal vez,Crecimiento profesional
+ENC000592,EMP04852,E05,Globant Monterrey,Software Developer,Senior,2024,4.6,4.0,4.4,4.4,4.6,Sí,Crecimiento profesional
+ENC000593,EMP06190,E07,Hexaware Technologies,Data Analyst,Senior,2024,4.8,4.7,4.9,4.8,5.0,No,Cambio de ciudad
+ENC000594,EMP01663,E01,Accenture Monterrey,Data Analyst,Mid,2023,4.1,3.6,4.4,3.7,3.6,Sí,Mejor salario
+ENC000595,EMP01663,E01,Accenture Monterrey,Data Analyst,Mid,2024,4.4,4.7,4.7,4.6,4.2,Sí,Startup propia
+ENC000596,EMP03722,E03,Neoris,Scrum Master,Mid,2023,3.8,3.6,4.0,4.4,3.8,Tal vez,Mejor salario
+ENC000597,EMP03722,E03,Neoris,Scrum Master,Mid,2024,4.6,4.4,4.6,4.8,4.5,Tal vez,Cambio de ciudad
+ENC000598,EMP05563,E06,BairesDev,Backend Developer,Senior,2024,4.5,4.4,4.6,4.6,4.5,Tal vez,Crecimiento profesional
+ENC000599,EMP07468,E10,Axsis Tecnología,Full Stack Developer,Mid,2023,4.1,4.0,4.5,3.7,4.0,Tal vez,Cambio de ciudad
+ENC000600,EMP07468,E10,Axsis Tecnología,Full Stack Developer,Mid,2024,3.4,3.0,3.3,3.2,3.2,No,Mejor salario
+ENC000601,EMP02517,E02,Tata Consultancy Services,Cloud Architect,Mid,2023,4.2,4.0,4.5,4.8,4.8,No,Trabajo remoto
+ENC000602,EMP01913,E02,Tata Consultancy Services,DevOps Engineer,Senior,2023,4.7,5.0,4.6,4.8,4.5,Tal vez,N/A
+ENC000603,EMP01913,E02,Tata Consultancy Services,DevOps Engineer,Senior,2024,4.3,4.3,4.9,3.6,4.5,No,Trabajo remoto
+ENC000604,EMP06446,E07,Hexaware Technologies,Frontend Developer,Senior,2023,4.7,4.8,4.9,4.6,4.3,No,Cambio de ciudad
+ENC000605,EMP06446,E07,Hexaware Technologies,Frontend Developer,Senior,2024,4.6,3.9,4.2,4.1,5.0,No,Mejor salario
+ENC000606,EMP03483,E03,Neoris,Cloud Architect,Senior,2024,3.6,3.7,3.7,4.0,3.5,No,Mejor salario
+ENC000607,EMP07502,E11,Skye Group,Software Developer,Mid,2023,3.8,3.4,3.5,3.7,3.6,No,Mejor salario
+ENC000608,EMP07502,E11,Skye Group,Software Developer,Mid,2024,4.1,4.0,4.1,4.0,4.3,Tal vez,Mejor salario
+ENC000609,EMP01508,E01,Accenture Monterrey,Data Analyst,Mid,2023,4.2,4.2,4.3,3.9,3.6,No,Crecimiento profesional
+ENC000610,EMP03045,E03,Neoris,Full Stack Developer,Junior,2023,3.8,4.3,3.8,4.1,3.5,No,N/A
+ENC000611,EMP03045,E03,Neoris,Full Stack Developer,Junior,2024,3.7,3.5,3.9,3.5,3.8,No,Mejor salario
+ENC000612,EMP06776,E08,AZKA IT Consulting,Full Stack Developer,Senior,2023,5.0,4.7,5.0,5.0,5.0,No,Crecimiento profesional
+ENC000613,EMP06776,E08,AZKA IT Consulting,Full Stack Developer,Senior,2024,3.9,4.0,3.8,3.9,3.7,Tal vez,Crecimiento profesional
+ENC000614,EMP06362,E07,Hexaware Technologies,Cybersecurity Analyst,Senior,2023,5.0,5.0,5.0,5.0,5.0,Sí,Crecimiento profesional
+ENC000615,EMP06362,E07,Hexaware Technologies,Cybersecurity Analyst,Senior,2024,4.6,4.2,4.6,5.0,4.7,Tal vez,Mejor salario
+ENC000616,EMP02524,E02,Tata Consultancy Services,Software Developer,Mid,2023,4.6,4.6,4.3,4.0,4.8,No,Startup propia
+ENC000617,EMP02524,E02,Tata Consultancy Services,Software Developer,Mid,2024,3.8,3.4,4.0,3.6,3.9,Sí,Mejor salario
+ENC000618,EMP07879,E12,TI Monterrey,Cloud Architect,Senior,2023,3.9,3.6,3.9,4.1,4.3,Tal vez,N/A
+ENC000619,EMP07879,E12,TI Monterrey,Cloud Architect,Senior,2024,4.2,4.0,4.2,4.7,4.2,No,Startup propia
+ENC000620,EMP00764,E01,Accenture Monterrey,Cybersecurity Analyst,Mid,2023,4.0,3.6,3.9,4.1,4.2,No,Mejor salario
+ENC000621,EMP05895,E06,BairesDev,Software Developer,Mid,2023,4.0,3.9,4.3,4.3,4.2,No,Crecimiento profesional
+ENC000622,EMP00234,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.2,4.2,4.3,3.4,4.4,Sí,Trabajo remoto
+ENC000623,EMP00354,E01,Accenture Monterrey,DevOps Engineer,Mid,2023,4.9,5.0,5.0,4.7,4.7,No,Mejor salario
+ENC000624,EMP00354,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,3.7,3.6,3.9,3.9,4.3,No,Trabajo remoto
+ENC000625,EMP01421,E01,Accenture Monterrey,Backend Developer,Senior,2023,3.6,3.4,3.6,3.4,3.5,Tal vez,Crecimiento profesional
+ENC000626,EMP01421,E01,Accenture Monterrey,Backend Developer,Senior,2024,5.0,5.0,5.0,5.0,5.0,No,Crecimiento profesional
+ENC000627,EMP02400,E02,Tata Consultancy Services,Scrum Master,Mid,2023,3.5,3.2,3.7,3.4,4.0,No,Trabajo remoto
+ENC000628,EMP01466,E01,Accenture Monterrey,Cloud Architect,Mid,2023,4.6,4.5,4.7,4.6,4.9,No,Mejor salario
+ENC000629,EMP01466,E01,Accenture Monterrey,Cloud Architect,Mid,2024,3.9,3.5,3.7,4.0,3.7,Tal vez,Crecimiento profesional
+ENC000630,EMP01567,E01,Accenture Monterrey,Frontend Developer,Mid,2023,3.8,3.8,3.8,3.5,3.5,Tal vez,Crecimiento profesional
+ENC000631,EMP01567,E01,Accenture Monterrey,Frontend Developer,Mid,2024,3.8,3.6,4.0,4.4,3.9,Tal vez,Crecimiento profesional
+ENC000632,EMP00170,E01,Accenture Monterrey,Backend Developer,Mid,2023,4.3,4.0,4.2,4.4,4.2,No,Trabajo remoto
+ENC000633,EMP00170,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.7,3.6,3.6,3.4,3.7,No,Trabajo remoto
+ENC000634,EMP07038,E09,Deintec,Data Analyst,Junior,2023,3.9,3.4,3.8,3.4,3.7,Sí,Startup propia
+ENC000635,EMP07038,E09,Deintec,Data Analyst,Junior,2024,4.7,4.5,5.0,4.9,4.4,No,Cambio de ciudad
+ENC000636,EMP07319,E10,Axsis Tecnología,Data Analyst,Senior,2023,4.1,4.0,3.9,4.7,3.9,Sí,Crecimiento profesional
+ENC000637,EMP01898,E02,Tata Consultancy Services,Scrum Master,Mid,2023,3.2,2.8,3.4,2.8,3.4,No,Mejor salario
+ENC000638,EMP00958,E01,Accenture Monterrey,Software Developer,Mid,2023,3.6,3.4,3.6,3.4,3.4,No,Crecimiento profesional
+ENC000639,EMP00958,E01,Accenture Monterrey,Software Developer,Mid,2024,4.1,4.4,4.1,3.8,4.1,No,N/A
+ENC000640,EMP01503,E01,Accenture Monterrey,Full Stack Developer,Junior,2023,3.1,2.8,3.0,2.0,3.0,Tal vez,Mejor salario
+ENC000641,EMP01503,E01,Accenture Monterrey,Full Stack Developer,Junior,2024,3.3,3.0,3.5,3.3,3.1,No,Mejor salario
+ENC000642,EMP04881,E05,Globant Monterrey,Backend Developer,Senior,2023,4.7,4.7,4.4,4.5,4.7,No,Crecimiento profesional
+ENC000643,EMP04881,E05,Globant Monterrey,Backend Developer,Senior,2024,5.0,5.0,5.0,4.4,5.0,Tal vez,Crecimiento profesional
+ENC000644,EMP03470,E03,Neoris,Scrum Master,Mid,2023,4.3,4.2,4.5,4.1,4.3,Tal vez,Mejor salario
+ENC000645,EMP03470,E03,Neoris,Scrum Master,Mid,2024,3.4,3.2,3.3,4.0,3.3,Tal vez,Mejor salario
+ENC000646,EMP01075,E01,Accenture Monterrey,DevOps Engineer,Senior,2023,4.2,4.2,4.4,4.2,4.6,No,Startup propia
+ENC000647,EMP01075,E01,Accenture Monterrey,DevOps Engineer,Senior,2024,3.5,3.1,3.9,3.0,3.6,Sí,Cambio de ciudad
+ENC000648,EMP00488,E01,Accenture Monterrey,Backend Developer,Junior,2023,3.5,3.5,3.5,3.8,3.4,Tal vez,Mejor salario
+ENC000649,EMP00488,E01,Accenture Monterrey,Backend Developer,Junior,2024,4.3,4.5,4.3,4.2,4.0,No,Mejor salario
+ENC000650,EMP03015,E02,Tata Consultancy Services,Project Manager,Senior,2023,4.2,4.3,4.6,4.1,4.0,Tal vez,Mejor salario
+ENC000651,EMP03015,E02,Tata Consultancy Services,Project Manager,Senior,2024,4.6,4.1,4.6,4.5,4.5,No,N/A
+ENC000652,EMP04419,E04,Infosys Monterrey,Software Developer,Mid,2023,4.3,4.5,4.2,3.9,3.8,Sí,Mejor salario
+ENC000653,EMP04419,E04,Infosys Monterrey,Software Developer,Mid,2024,3.7,3.4,3.8,3.5,3.4,No,N/A
+ENC000654,EMP02003,E02,Tata Consultancy Services,Frontend Developer,Junior,2023,4.8,4.4,4.9,4.9,4.2,No,Mejor salario
+ENC000655,EMP02003,E02,Tata Consultancy Services,Frontend Developer,Junior,2024,3.6,3.5,3.5,3.7,3.4,No,Crecimiento profesional
+ENC000656,EMP07636,E11,Skye Group,Backend Developer,Mid,2023,3.6,3.8,3.6,3.6,3.4,Sí,Startup propia
+ENC000657,EMP07636,E11,Skye Group,Backend Developer,Mid,2024,3.4,3.7,3.1,2.8,3.8,Tal vez,Trabajo remoto
+ENC000658,EMP07027,E09,Deintec,Software Developer,Mid,2023,4.6,4.3,4.8,4.6,5.0,Sí,Crecimiento profesional
+ENC000659,EMP07027,E09,Deintec,Software Developer,Mid,2024,3.9,3.3,4.0,4.0,4.1,No,Startup propia
+ENC000660,EMP07354,E10,Axsis Tecnología,DevOps Engineer,Mid,2023,4.6,4.4,4.7,4.3,4.4,Tal vez,Mejor salario
+ENC000661,EMP07354,E10,Axsis Tecnología,DevOps Engineer,Mid,2024,4.9,4.9,5.0,4.2,4.9,Tal vez,Trabajo remoto
+ENC000662,EMP01783,E02,Tata Consultancy Services,DevOps Engineer,Senior,2024,5.0,4.5,5.0,4.4,5.0,No,Mejor salario
+ENC000663,EMP04604,E04,Infosys Monterrey,Backend Developer,Mid,2023,4.7,4.6,4.7,4.3,4.8,No,Crecimiento profesional
+ENC000664,EMP04604,E04,Infosys Monterrey,Backend Developer,Mid,2024,4.2,4.2,4.3,4.5,4.1,Sí,Trabajo remoto
+ENC000665,EMP02345,E02,Tata Consultancy Services,Backend Developer,Senior,2023,4.9,3.9,5.0,5.0,5.0,No,Mejor salario
+ENC000666,EMP02345,E02,Tata Consultancy Services,Backend Developer,Senior,2024,4.5,4.4,4.8,4.7,4.2,No,Crecimiento profesional
+ENC000667,EMP02880,E02,Tata Consultancy Services,Software Developer,Junior,2024,2.9,3.0,3.1,2.5,2.6,No,Mejor salario
+ENC000668,EMP06116,E07,Hexaware Technologies,Software Developer,Mid,2023,3.5,3.8,3.6,3.5,3.8,Sí,Crecimiento profesional
+ENC000669,EMP06116,E07,Hexaware Technologies,Software Developer,Mid,2024,3.7,3.5,3.6,3.6,3.6,Tal vez,Mejor salario
+ENC000670,EMP06107,E07,Hexaware Technologies,Software Developer,Mid,2024,3.3,3.1,3.5,3.2,3.1,No,Crecimiento profesional
+ENC000671,EMP04630,E04,Infosys Monterrey,Software Developer,Mid,2023,3.9,3.5,4.0,3.8,3.9,Tal vez,Crecimiento profesional
+ENC000672,EMP06788,E08,AZKA IT Consulting,Cybersecurity Analyst,Mid,2023,3.7,3.5,4.1,3.4,3.5,Sí,Crecimiento profesional
+ENC000673,EMP03306,E03,Neoris,Software Developer,Senior,2023,4.1,4.2,4.5,3.7,4.3,Sí,Mejor salario
+ENC000674,EMP03306,E03,Neoris,Software Developer,Senior,2024,4.7,4.7,4.4,4.8,4.4,Sí,Startup propia
+ENC000675,EMP00587,E01,Accenture Monterrey,Software Developer,Senior,2024,5.0,4.5,4.9,4.7,5.0,No,Crecimiento profesional
+ENC000676,EMP02893,E02,Tata Consultancy Services,DevOps Engineer,Senior,2023,4.3,4.3,4.1,3.6,4.2,Tal vez,Mejor salario
+ENC000677,EMP02893,E02,Tata Consultancy Services,DevOps Engineer,Senior,2024,3.9,3.4,4.3,3.8,4.0,No,Crecimiento profesional
+ENC000678,EMP06721,E08,AZKA IT Consulting,Frontend Developer,Senior,2023,4.2,4.0,4.4,4.2,3.9,Tal vez,Crecimiento profesional
+ENC000679,EMP06721,E08,AZKA IT Consulting,Frontend Developer,Senior,2024,5.0,5.0,5.0,5.0,5.0,No,Trabajo remoto
+ENC000680,EMP05481,E05,Globant Monterrey,Data Analyst,Senior,2024,4.9,4.8,4.6,5.0,5.0,Tal vez,Crecimiento profesional
+ENC000681,EMP07897,E12,TI Monterrey,Software Developer,Senior,2023,4.5,4.4,4.3,3.9,4.7,No,Mejor salario
+ENC000682,EMP06422,E07,Hexaware Technologies,Software Developer,Mid,2023,4.5,4.7,4.5,4.3,4.8,No,Trabajo remoto
+ENC000683,EMP07464,E10,Axsis Tecnología,Full Stack Developer,Junior,2023,3.9,3.8,3.8,3.6,4.1,Tal vez,Startup propia
+ENC000684,EMP06568,E08,AZKA IT Consulting,Data Analyst,Senior,2023,4.0,3.8,4.2,4.5,4.1,No,Trabajo remoto
+ENC000685,EMP06679,E08,AZKA IT Consulting,Full Stack Developer,Junior,2023,4.2,4.4,4.6,4.2,3.7,No,Mejor salario
+ENC000686,EMP06679,E08,AZKA IT Consulting,Full Stack Developer,Junior,2024,4.1,4.0,4.3,4.1,4.1,Tal vez,Mejor salario
+ENC000687,EMP04898,E05,Globant Monterrey,Backend Developer,Mid,2023,3.3,2.5,3.4,2.9,3.4,No,Trabajo remoto
+ENC000688,EMP05186,E05,Globant Monterrey,DevOps Engineer,Mid,2023,4.0,4.0,4.3,4.5,4.4,No,Trabajo remoto
+ENC000689,EMP05186,E05,Globant Monterrey,DevOps Engineer,Mid,2024,3.5,2.8,3.8,3.3,3.4,No,Trabajo remoto
+ENC000690,EMP03247,E03,Neoris,Backend Developer,Mid,2024,4.3,4.4,4.3,4.6,4.6,Tal vez,Trabajo remoto
+ENC000691,EMP04944,E05,Globant Monterrey,Frontend Developer,Mid,2023,4.2,4.1,4.4,3.8,4.0,Sí,N/A
+ENC000692,EMP04944,E05,Globant Monterrey,Frontend Developer,Mid,2024,4.5,4.7,4.7,3.8,4.3,No,Trabajo remoto
+ENC000693,EMP03107,E03,Neoris,Software Developer,Mid,2023,3.1,3.2,3.3,2.4,3.1,No,Startup propia
+ENC000694,EMP03107,E03,Neoris,Software Developer,Mid,2024,4.4,4.3,4.7,4.2,4.5,No,Cambio de ciudad
+ENC000695,EMP02665,E02,Tata Consultancy Services,Frontend Developer,Mid,2023,3.4,3.3,3.9,3.1,3.7,Tal vez,Mejor salario
+ENC000696,EMP02373,E02,Tata Consultancy Services,Cybersecurity Analyst,Mid,2023,4.5,3.9,4.8,4.0,4.4,No,Mejor salario
+ENC000697,EMP00859,E01,Accenture Monterrey,Backend Developer,Mid,2023,3.4,2.9,3.1,3.3,3.8,No,Mejor salario
+ENC000698,EMP00859,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.6,4.0,3.6,3.7,3.7,Sí,Trabajo remoto
+ENC000699,EMP06825,E08,AZKA IT Consulting,Backend Developer,Senior,2023,3.9,4.3,3.7,3.9,3.7,No,Mejor salario
+ENC000700,EMP06825,E08,AZKA IT Consulting,Backend Developer,Senior,2024,4.2,4.0,4.4,4.6,3.7,Tal vez,Startup propia
+ENC000701,EMP02463,E02,Tata Consultancy Services,Full Stack Developer,Junior,2023,4.8,4.4,4.8,4.7,4.8,No,Trabajo remoto
+ENC000702,EMP02463,E02,Tata Consultancy Services,Full Stack Developer,Junior,2024,3.5,3.5,3.7,3.6,3.6,Tal vez,Crecimiento profesional
+ENC000703,EMP03376,E03,Neoris,Software Developer,Junior,2024,3.2,3.2,3.1,3.3,3.0,Sí,Trabajo remoto
+ENC000704,EMP01431,E01,Accenture Monterrey,Frontend Developer,Senior,2023,5.0,4.4,5.0,4.2,4.8,No,N/A
+ENC000705,EMP01431,E01,Accenture Monterrey,Frontend Developer,Senior,2024,4.1,3.6,4.0,3.9,3.7,No,Crecimiento profesional
+ENC000706,EMP01657,E01,Accenture Monterrey,Frontend Developer,Junior,2023,3.7,3.8,3.8,3.5,3.1,No,Mejor salario
+ENC000707,EMP01657,E01,Accenture Monterrey,Frontend Developer,Junior,2024,3.7,3.3,4.0,3.6,3.4,No,Trabajo remoto
+ENC000708,EMP03709,E03,Neoris,Backend Developer,Mid,2023,4.3,4.0,4.5,4.1,4.1,Tal vez,Cambio de ciudad
+ENC000709,EMP03709,E03,Neoris,Backend Developer,Mid,2024,4.0,4.1,4.1,4.0,3.9,Tal vez,Crecimiento profesional
+ENC000710,EMP05724,E06,BairesDev,Data Analyst,Mid,2024,4.0,3.6,3.7,3.5,4.2,No,N/A
+ENC000711,EMP05304,E05,Globant Monterrey,Software Developer,Mid,2023,3.6,3.5,3.5,4.1,4.0,No,Mejor salario
+ENC000712,EMP05304,E05,Globant Monterrey,Software Developer,Mid,2024,4.4,4.3,4.4,4.3,4.2,No,Crecimiento profesional
+ENC000713,EMP03004,E02,Tata Consultancy Services,Frontend Developer,Mid,2024,4.4,3.8,4.5,4.2,4.9,Sí,Crecimiento profesional
+ENC000714,EMP07481,E10,Axsis Tecnología,Software Developer,Mid,2023,4.0,3.9,4.2,3.7,4.0,No,Trabajo remoto
+ENC000715,EMP01323,E01,Accenture Monterrey,Project Manager,Mid,2023,4.3,3.8,4.3,4.1,4.5,Tal vez,Cambio de ciudad
+ENC000716,EMP01323,E01,Accenture Monterrey,Project Manager,Mid,2024,3.5,3.1,3.3,3.6,2.9,No,Mejor salario
+ENC000717,EMP03613,E03,Neoris,Backend Developer,Mid,2023,4.5,4.4,4.7,4.7,4.3,No,Trabajo remoto
+ENC000718,EMP06742,E08,AZKA IT Consulting,Backend Developer,Mid,2023,3.9,3.7,4.2,4.0,3.9,No,Crecimiento profesional
+ENC000719,EMP06742,E08,AZKA IT Consulting,Backend Developer,Mid,2024,4.6,4.2,4.7,3.7,4.5,No,Crecimiento profesional
+ENC000720,EMP00738,E01,Accenture Monterrey,Scrum Master,Senior,2023,4.7,4.6,4.8,4.8,5.0,No,Trabajo remoto
+ENC000721,EMP00738,E01,Accenture Monterrey,Scrum Master,Senior,2024,4.0,3.2,3.9,3.3,4.3,No,N/A
+ENC000722,EMP02771,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.3,4.5,4.2,5.0,4.4,Sí,Cambio de ciudad
+ENC000723,EMP02771,E02,Tata Consultancy Services,Software Developer,Junior,2024,4.6,4.3,4.8,4.3,4.9,No,Mejor salario
+ENC000724,EMP00333,E01,Accenture Monterrey,Data Analyst,Junior,2024,3.3,3.3,3.4,3.2,3.0,No,Cambio de ciudad
+ENC000725,EMP05744,E06,BairesDev,DevOps Engineer,Senior,2023,4.0,4.1,4.0,4.0,4.2,No,N/A
+ENC000726,EMP06062,E07,Hexaware Technologies,Backend Developer,Junior,2023,4.0,3.1,4.0,4.0,4.2,No,Mejor salario
+ENC000727,EMP06062,E07,Hexaware Technologies,Backend Developer,Junior,2024,3.7,3.1,3.5,4.0,4.1,No,Mejor salario
+ENC000728,EMP06240,E07,Hexaware Technologies,Full Stack Developer,Senior,2023,4.9,4.6,4.9,4.6,5.0,No,Crecimiento profesional
+ENC000729,EMP06240,E07,Hexaware Technologies,Full Stack Developer,Senior,2024,4.8,4.6,4.5,4.3,5.0,No,Cambio de ciudad
+ENC000730,EMP01917,E02,Tata Consultancy Services,Software Developer,Senior,2023,4.8,4.4,4.6,4.8,4.8,No,Mejor salario
+ENC000731,EMP01917,E02,Tata Consultancy Services,Software Developer,Senior,2024,5.0,4.4,5.0,4.9,4.8,No,Crecimiento profesional
+ENC000732,EMP07528,E11,Skye Group,DevOps Engineer,Senior,2023,4.5,4.8,4.2,3.9,4.5,No,Trabajo remoto
+ENC000733,EMP07528,E11,Skye Group,DevOps Engineer,Senior,2024,4.1,4.0,4.3,4.2,4.1,No,Crecimiento profesional
+ENC000734,EMP05707,E06,BairesDev,Data Analyst,Junior,2023,4.2,4.2,4.1,3.8,4.0,Sí,Crecimiento profesional
+ENC000735,EMP05707,E06,BairesDev,Data Analyst,Junior,2024,3.8,4.1,3.8,3.4,4.0,No,Crecimiento profesional
+ENC000736,EMP03807,E03,Neoris,Full Stack Developer,Mid,2023,3.6,3.5,3.8,3.6,3.6,No,Cambio de ciudad
+ENC000737,EMP07339,E10,Axsis Tecnología,Project Manager,Mid,2023,3.8,3.7,3.9,2.7,3.8,Sí,Trabajo remoto
+ENC000738,EMP06426,E07,Hexaware Technologies,Data Analyst,Junior,2023,4.0,3.8,4.4,3.9,3.8,No,Mejor salario
+ENC000739,EMP06426,E07,Hexaware Technologies,Data Analyst,Junior,2024,3.2,2.5,3.1,3.1,3.1,Tal vez,Mejor salario
+ENC000740,EMP03858,E03,Neoris,Backend Developer,Senior,2023,5.0,4.9,5.0,5.0,5.0,Tal vez,Cambio de ciudad
+ENC000741,EMP03858,E03,Neoris,Backend Developer,Senior,2024,5.0,4.8,5.0,4.7,4.9,No,Trabajo remoto
+ENC000742,EMP06076,E07,Hexaware Technologies,Data Analyst,Senior,2023,4.8,4.7,4.9,5.0,4.6,No,Crecimiento profesional
+ENC000743,EMP06033,E07,Hexaware Technologies,Software Developer,Mid,2023,3.4,3.1,3.4,3.1,3.1,Sí,Crecimiento profesional
+ENC000744,EMP06033,E07,Hexaware Technologies,Software Developer,Mid,2024,4.7,4.2,4.7,4.6,4.6,No,Trabajo remoto
+ENC000745,EMP04241,E04,Infosys Monterrey,Frontend Developer,Mid,2023,3.9,3.8,3.9,3.8,3.8,No,Cambio de ciudad
+ENC000746,EMP01607,E01,Accenture Monterrey,Software Developer,Mid,2023,4.6,4.4,4.7,4.3,4.8,Tal vez,N/A
+ENC000747,EMP01607,E01,Accenture Monterrey,Software Developer,Mid,2024,3.6,3.7,3.5,3.4,3.7,No,Trabajo remoto
+ENC000748,EMP05699,E06,BairesDev,Scrum Master,Mid,2024,4.2,4.6,4.4,3.7,4.7,Tal vez,Mejor salario
+ENC000749,EMP07382,E10,Axsis Tecnología,Backend Developer,Junior,2023,4.2,3.7,4.3,4.0,3.9,Tal vez,Crecimiento profesional
+ENC000750,EMP07382,E10,Axsis Tecnología,Backend Developer,Junior,2024,4.2,3.8,4.3,4.5,4.3,No,Trabajo remoto
+ENC000751,EMP05526,E05,Globant Monterrey,Software Developer,Mid,2023,3.7,3.7,3.5,3.7,3.9,No,Mejor salario
+ENC000752,EMP05526,E05,Globant Monterrey,Software Developer,Mid,2024,5.0,4.6,4.8,4.8,4.8,Sí,Crecimiento profesional
+ENC000753,EMP07449,E10,Axsis Tecnología,Full Stack Developer,Mid,2023,4.6,4.3,4.8,4.3,4.9,Tal vez,Crecimiento profesional
+ENC000754,EMP07449,E10,Axsis Tecnología,Full Stack Developer,Mid,2024,4.2,4.1,4.0,3.9,3.8,No,Mejor salario
+ENC000755,EMP04302,E04,Infosys Monterrey,DevOps Engineer,Mid,2023,3.2,3.6,3.3,2.8,3.0,No,Mejor salario
+ENC000756,EMP04355,E04,Infosys Monterrey,Backend Developer,Senior,2023,4.2,4.1,4.4,4.3,4.4,Sí,Trabajo remoto
+ENC000757,EMP04355,E04,Infosys Monterrey,Backend Developer,Senior,2024,5.0,4.7,4.7,4.8,5.0,No,Trabajo remoto
+ENC000758,EMP00409,E01,Accenture Monterrey,Cybersecurity Analyst,Senior,2024,4.0,3.2,3.8,3.4,4.0,Tal vez,Trabajo remoto
+ENC000759,EMP02158,E02,Tata Consultancy Services,Backend Developer,Junior,2024,3.9,3.5,4.0,3.4,3.7,No,Mejor salario
+ENC000760,EMP03505,E03,Neoris,Software Developer,Junior,2023,4.2,4.0,4.1,4.2,4.0,No,Cambio de ciudad
+ENC000761,EMP03505,E03,Neoris,Software Developer,Junior,2024,4.1,3.3,4.2,4.0,4.2,Tal vez,Crecimiento profesional
+ENC000762,EMP03980,E03,Neoris,Full Stack Developer,Mid,2023,4.9,4.5,5.0,4.8,5.0,No,Crecimiento profesional
+ENC000763,EMP03980,E03,Neoris,Full Stack Developer,Mid,2024,4.1,4.4,4.3,4.0,4.2,Tal vez,Crecimiento profesional
+ENC000764,EMP05574,E06,BairesDev,Data Analyst,Senior,2023,4.0,4.0,4.2,3.5,4.1,Sí,Mejor salario
+ENC000765,EMP05574,E06,BairesDev,Data Analyst,Senior,2024,4.5,4.5,4.3,4.0,4.7,Sí,Crecimiento profesional
+ENC000766,EMP02684,E02,Tata Consultancy Services,Cybersecurity Analyst,Junior,2023,3.6,3.5,3.8,3.9,3.5,Tal vez,Mejor salario
+ENC000767,EMP02684,E02,Tata Consultancy Services,Cybersecurity Analyst,Junior,2024,3.0,3.3,3.0,3.2,3.2,No,Trabajo remoto
+ENC000768,EMP02887,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.1,3.8,4.0,3.1,4.4,Tal vez,N/A
+ENC000769,EMP02887,E02,Tata Consultancy Services,Software Developer,Junior,2024,3.6,3.6,3.2,3.7,3.3,No,Trabajo remoto
+ENC000770,EMP01314,E01,Accenture Monterrey,Software Developer,Junior,2024,4.4,4.0,4.6,4.4,4.4,No,Trabajo remoto
+ENC000771,EMP07526,E11,Skye Group,Backend Developer,Mid,2023,3.9,4.2,4.0,3.8,3.8,No,Crecimiento profesional
+ENC000772,EMP07526,E11,Skye Group,Backend Developer,Mid,2024,3.5,3.0,3.5,3.7,3.3,Tal vez,N/A
+ENC000773,EMP00997,E01,Accenture Monterrey,Frontend Developer,Mid,2023,4.0,3.6,3.9,4.5,4.2,Tal vez,Crecimiento profesional
+ENC000774,EMP00997,E01,Accenture Monterrey,Frontend Developer,Mid,2024,3.7,3.6,3.7,3.4,3.4,No,N/A
+ENC000775,EMP00795,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.8,4.4,4.7,5.0,4.4,No,Crecimiento profesional
+ENC000776,EMP00795,E01,Accenture Monterrey,Scrum Master,Mid,2024,4.0,3.9,4.1,4.0,4.0,Tal vez,Crecimiento profesional
+ENC000777,EMP02822,E02,Tata Consultancy Services,Data Analyst,Mid,2023,4.7,4.1,4.7,5.0,5.0,No,N/A
+ENC000778,EMP02822,E02,Tata Consultancy Services,Data Analyst,Mid,2024,4.7,4.5,4.9,4.2,4.7,No,Mejor salario
+ENC000779,EMP02810,E02,Tata Consultancy Services,Software Developer,Mid,2023,3.7,3.3,4.0,4.0,3.9,Sí,Trabajo remoto
+ENC000780,EMP02810,E02,Tata Consultancy Services,Software Developer,Mid,2024,3.1,2.9,3.2,2.5,2.8,Tal vez,Trabajo remoto
+ENC000781,EMP04373,E04,Infosys Monterrey,Full Stack Developer,Mid,2024,4.5,4.9,4.4,4.3,4.6,Tal vez,Mejor salario
+ENC000782,EMP06301,E07,Hexaware Technologies,Software Developer,Junior,2023,3.7,3.6,3.8,3.3,3.5,Sí,Trabajo remoto
+ENC000783,EMP04478,E04,Infosys Monterrey,Frontend Developer,Junior,2024,4.6,4.1,4.6,4.3,4.5,No,Mejor salario
+ENC000784,EMP06188,E07,Hexaware Technologies,Software Developer,Junior,2024,3.6,3.0,3.6,3.4,3.2,No,Trabajo remoto
+ENC000785,EMP01047,E01,Accenture Monterrey,Software Developer,Junior,2023,4.0,4.0,3.8,4.3,4.1,No,N/A
+ENC000786,EMP01047,E01,Accenture Monterrey,Software Developer,Junior,2024,4.0,3.6,3.8,4.1,4.2,No,Mejor salario
+ENC000787,EMP02376,E02,Tata Consultancy Services,Data Analyst,Mid,2024,3.5,4.0,3.3,3.2,3.6,No,Mejor salario
+ENC000788,EMP02261,E02,Tata Consultancy Services,Project Manager,Senior,2023,4.7,4.7,4.8,4.3,4.4,No,Mejor salario
+ENC000789,EMP07843,E12,TI Monterrey,Backend Developer,Senior,2023,3.7,3.5,3.7,3.8,3.9,No,Crecimiento profesional
+ENC000790,EMP07843,E12,TI Monterrey,Backend Developer,Senior,2024,3.8,3.4,3.7,3.4,3.9,Tal vez,Crecimiento profesional
+ENC000791,EMP04059,E04,Infosys Monterrey,Frontend Developer,Senior,2023,4.1,4.4,4.2,3.6,4.0,Tal vez,Trabajo remoto
+ENC000792,EMP04059,E04,Infosys Monterrey,Frontend Developer,Senior,2024,4.3,4.1,4.4,4.0,3.8,No,Mejor salario
+ENC000793,EMP04989,E05,Globant Monterrey,Project Manager,Mid,2024,4.7,4.5,5.0,4.5,5.0,No,Crecimiento profesional
+ENC000794,EMP00178,E01,Accenture Monterrey,Project Manager,Mid,2024,4.3,4.9,4.5,3.9,4.4,Tal vez,Crecimiento profesional
+ENC000795,EMP07568,E11,Skye Group,Data Analyst,Junior,2023,4.4,3.9,4.5,4.4,4.3,No,Crecimiento profesional
+ENC000796,EMP07568,E11,Skye Group,Data Analyst,Junior,2024,3.8,3.4,4.0,2.7,3.7,Tal vez,Cambio de ciudad
+ENC000797,EMP04711,E04,Infosys Monterrey,Frontend Developer,Junior,2024,4.8,4.7,4.7,4.6,4.8,Tal vez,Trabajo remoto
+ENC000798,EMP07082,E09,Deintec,Project Manager,Mid,2023,3.4,3.1,3.6,3.4,3.2,Sí,Mejor salario
+ENC000799,EMP07082,E09,Deintec,Project Manager,Mid,2024,4.7,4.5,4.9,4.9,4.8,No,Trabajo remoto
+ENC000800,EMP07069,E09,Deintec,Software Developer,Senior,2023,4.5,4.4,4.9,4.3,4.5,Tal vez,Cambio de ciudad
+ENC000801,EMP05965,E06,BairesDev,Scrum Master,Senior,2024,3.9,3.7,4.5,4.2,4.0,No,Mejor salario
+ENC000802,EMP06142,E07,Hexaware Technologies,Cloud Architect,Mid,2023,3.7,3.0,3.6,3.2,3.4,No,N/A
+ENC000803,EMP00329,E01,Accenture Monterrey,Cloud Architect,Mid,2023,4.7,4.9,4.6,4.4,4.5,No,Startup propia
+ENC000804,EMP00329,E01,Accenture Monterrey,Cloud Architect,Mid,2024,4.0,4.5,4.1,3.9,3.9,No,Trabajo remoto
+ENC000805,EMP06571,E08,AZKA IT Consulting,Data Analyst,Junior,2023,4.1,3.8,4.3,3.9,3.9,No,Crecimiento profesional
+ENC000806,EMP06571,E08,AZKA IT Consulting,Data Analyst,Junior,2024,4.0,3.3,4.1,3.6,3.8,No,Cambio de ciudad
+ENC000807,EMP03904,E03,Neoris,Full Stack Developer,Junior,2023,4.1,3.9,4.3,3.8,4.2,No,Trabajo remoto
+ENC000808,EMP03904,E03,Neoris,Full Stack Developer,Junior,2024,4.1,4.0,4.3,3.9,4.1,No,Mejor salario
+ENC000809,EMP03359,E03,Neoris,Software Developer,Mid,2024,3.4,2.6,3.4,3.2,3.1,No,Mejor salario
+ENC000810,EMP05068,E05,Globant Monterrey,Software Developer,Junior,2023,4.2,3.8,4.3,3.7,4.4,Sí,Trabajo remoto
+ENC000811,EMP05068,E05,Globant Monterrey,Software Developer,Junior,2024,3.7,3.7,3.6,3.6,3.5,Tal vez,Cambio de ciudad
+ENC000812,EMP02037,E02,Tata Consultancy Services,Full Stack Developer,Senior,2023,4.2,3.9,4.2,4.0,4.1,No,Crecimiento profesional
+ENC000813,EMP02037,E02,Tata Consultancy Services,Full Stack Developer,Senior,2024,3.9,3.5,4.1,4.3,4.0,No,Mejor salario
+ENC000814,EMP04943,E05,Globant Monterrey,Data Analyst,Junior,2024,4.1,4.0,4.0,3.9,4.3,No,Mejor salario
+ENC000815,EMP01018,E01,Accenture Monterrey,Frontend Developer,Junior,2024,4.5,4.5,4.5,4.1,4.3,Tal vez,Mejor salario
+ENC000816,EMP05285,E05,Globant Monterrey,Scrum Master,Mid,2023,4.4,4.2,4.8,4.0,4.2,Tal vez,Startup propia
+ENC000817,EMP05285,E05,Globant Monterrey,Scrum Master,Mid,2024,3.7,3.4,3.9,3.8,3.6,No,Crecimiento profesional
+ENC000818,EMP07350,E10,Axsis Tecnología,Data Analyst,Mid,2024,3.3,3.4,3.4,2.9,3.1,Tal vez,Trabajo remoto
+ENC000819,EMP07020,E09,Deintec,Full Stack Developer,Junior,2023,4.4,4.0,4.6,4.0,4.3,Tal vez,Mejor salario
+ENC000820,EMP07020,E09,Deintec,Full Stack Developer,Junior,2024,3.2,3.3,3.3,3.2,3.3,Tal vez,Trabajo remoto
+ENC000821,EMP03255,E03,Neoris,Scrum Master,Mid,2024,4.1,3.7,4.4,3.9,3.9,Tal vez,N/A
+ENC000822,EMP07628,E11,Skye Group,Data Analyst,Mid,2023,3.7,3.8,3.9,3.6,3.7,No,Crecimiento profesional
+ENC000823,EMP07628,E11,Skye Group,Data Analyst,Mid,2024,4.6,4.4,4.7,4.2,5.0,No,Trabajo remoto
+ENC000824,EMP02424,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.6,4.4,5.0,4.8,4.5,Tal vez,Trabajo remoto
+ENC000825,EMP02424,E02,Tata Consultancy Services,Software Developer,Junior,2024,3.7,2.6,3.8,3.7,3.7,Tal vez,Mejor salario
+ENC000826,EMP06793,E08,AZKA IT Consulting,Cybersecurity Analyst,Junior,2023,4.7,4.5,4.5,4.2,4.9,No,Crecimiento profesional
+ENC000827,EMP06793,E08,AZKA IT Consulting,Cybersecurity Analyst,Junior,2024,3.6,3.3,3.5,3.6,3.9,No,Trabajo remoto
+ENC000828,EMP00182,E01,Accenture Monterrey,Software Developer,Mid,2023,4.7,4.9,5.0,4.9,4.4,Tal vez,Mejor salario
+ENC000829,EMP00182,E01,Accenture Monterrey,Software Developer,Mid,2024,3.5,3.6,3.6,3.4,3.1,Tal vez,Mejor salario
+ENC000830,EMP06563,E08,AZKA IT Consulting,Software Developer,Mid,2023,4.8,4.5,5.0,4.8,4.7,Sí,Trabajo remoto
+ENC000831,EMP06563,E08,AZKA IT Consulting,Software Developer,Mid,2024,4.3,4.2,4.2,4.1,3.7,Tal vez,Crecimiento profesional
+ENC000832,EMP03310,E03,Neoris,Full Stack Developer,Mid,2023,4.5,4.4,4.4,4.0,4.1,Sí,Mejor salario
+ENC000833,EMP03310,E03,Neoris,Full Stack Developer,Mid,2024,4.1,3.7,4.0,4.2,4.0,No,Mejor salario
+ENC000834,EMP07363,E10,Axsis Tecnología,Cybersecurity Analyst,Mid,2023,3.7,3.3,3.7,3.5,3.3,Tal vez,Trabajo remoto
+ENC000835,EMP07363,E10,Axsis Tecnología,Cybersecurity Analyst,Mid,2024,4.5,4.9,4.6,4.0,4.8,No,Cambio de ciudad
+ENC000836,EMP00648,E01,Accenture Monterrey,Software Developer,Senior,2023,4.1,3.8,4.2,4.0,3.8,Tal vez,Cambio de ciudad
+ENC000837,EMP00648,E01,Accenture Monterrey,Software Developer,Senior,2024,4.3,3.6,4.4,4.2,4.4,No,Mejor salario
+ENC000838,EMP00602,E01,Accenture Monterrey,Software Developer,Junior,2023,3.7,3.6,3.7,3.2,3.8,Tal vez,Trabajo remoto
+ENC000839,EMP02185,E02,Tata Consultancy Services,Cloud Architect,Mid,2023,4.4,4.0,4.2,4.7,4.4,No,N/A
+ENC000840,EMP02185,E02,Tata Consultancy Services,Cloud Architect,Mid,2024,3.3,3.1,3.5,3.6,3.6,Sí,Trabajo remoto
+ENC000841,EMP03625,E03,Neoris,Frontend Developer,Junior,2023,4.0,4.0,4.1,3.9,4.1,No,Crecimiento profesional
+ENC000842,EMP03625,E03,Neoris,Frontend Developer,Junior,2024,3.8,3.5,3.8,3.6,4.0,Tal vez,Mejor salario
+ENC000843,EMP02930,E02,Tata Consultancy Services,Data Analyst,Mid,2023,4.9,4.7,4.9,4.7,4.5,No,Mejor salario
+ENC000844,EMP02930,E02,Tata Consultancy Services,Data Analyst,Mid,2024,5.0,4.5,4.9,5.0,4.5,Tal vez,Crecimiento profesional
+ENC000845,EMP04971,E05,Globant Monterrey,Software Developer,Junior,2023,3.0,3.1,3.1,3.0,3.2,Tal vez,Crecimiento profesional
+ENC000846,EMP04971,E05,Globant Monterrey,Software Developer,Junior,2024,4.1,4.1,4.1,4.6,4.2,Sí,N/A
+ENC000847,EMP03102,E03,Neoris,Software Developer,Senior,2023,5.0,4.6,5.0,4.9,4.6,No,Crecimiento profesional
+ENC000848,EMP06220,E07,Hexaware Technologies,Backend Developer,Mid,2024,4.1,3.8,4.1,3.7,4.5,Tal vez,Mejor salario
+ENC000849,EMP04706,E04,Infosys Monterrey,Software Developer,Junior,2023,3.4,3.3,3.5,3.9,2.8,Sí,Cambio de ciudad
+ENC000850,EMP02485,E02,Tata Consultancy Services,Data Analyst,Junior,2024,3.8,2.9,4.0,3.7,3.8,Tal vez,Startup propia
+ENC000851,EMP00042,E01,Accenture Monterrey,Scrum Master,Mid,2023,5.0,5.0,5.0,4.7,5.0,No,Mejor salario
+ENC000852,EMP05999,E06,BairesDev,Backend Developer,Mid,2024,4.2,3.5,4.3,4.3,4.6,No,Trabajo remoto
+ENC000853,EMP04479,E04,Infosys Monterrey,Data Analyst,Mid,2023,3.9,3.9,4.1,3.8,3.9,No,Trabajo remoto
+ENC000854,EMP06465,E07,Hexaware Technologies,Frontend Developer,Mid,2023,3.6,3.0,3.8,4.0,3.4,Tal vez,Trabajo remoto
+ENC000855,EMP06465,E07,Hexaware Technologies,Frontend Developer,Mid,2024,5.0,4.6,4.9,4.9,5.0,No,Crecimiento profesional
+ENC000856,EMP00218,E01,Accenture Monterrey,Backend Developer,Senior,2023,5.0,4.3,5.0,5.0,5.0,No,Crecimiento profesional
+ENC000857,EMP00218,E01,Accenture Monterrey,Backend Developer,Senior,2024,4.6,4.4,4.5,4.9,4.9,No,Crecimiento profesional
+ENC000858,EMP00186,E01,Accenture Monterrey,Software Developer,Junior,2023,4.9,4.1,5.0,4.6,4.8,No,Cambio de ciudad
+ENC000859,EMP00186,E01,Accenture Monterrey,Software Developer,Junior,2024,4.2,4.0,4.2,4.0,3.9,No,Crecimiento profesional
+ENC000860,EMP03200,E03,Neoris,Software Developer,Senior,2023,4.7,4.4,4.7,4.8,5.0,No,Crecimiento profesional
+ENC000861,EMP03200,E03,Neoris,Software Developer,Senior,2024,4.2,4.4,4.5,4.5,4.9,No,Trabajo remoto
+ENC000862,EMP07718,E11,Skye Group,Data Analyst,Junior,2023,3.7,3.4,3.8,3.8,3.7,No,Trabajo remoto
+ENC000863,EMP07718,E11,Skye Group,Data Analyst,Junior,2024,5.0,4.5,4.8,5.0,4.7,No,Mejor salario
+ENC000864,EMP05120,E05,Globant Monterrey,Cybersecurity Analyst,Senior,2023,4.6,4.0,4.8,4.6,4.4,Tal vez,Mejor salario
+ENC000865,EMP05120,E05,Globant Monterrey,Cybersecurity Analyst,Senior,2024,4.9,4.6,4.8,4.5,5.0,No,Mejor salario
+ENC000866,EMP02843,E02,Tata Consultancy Services,Software Developer,Mid,2023,5.0,5.0,4.9,4.6,5.0,Sí,Crecimiento profesional
+ENC000867,EMP02843,E02,Tata Consultancy Services,Software Developer,Mid,2024,3.2,3.5,3.7,3.0,3.3,No,Crecimiento profesional
+ENC000868,EMP04615,E04,Infosys Monterrey,Cloud Architect,Senior,2023,4.8,4.9,4.8,4.8,5.0,Tal vez,Crecimiento profesional
+ENC000869,EMP00677,E01,Accenture Monterrey,Software Developer,Junior,2023,3.4,3.7,4.0,3.5,3.3,No,Cambio de ciudad
+ENC000870,EMP02988,E02,Tata Consultancy Services,Frontend Developer,Junior,2023,3.1,2.9,3.2,3.4,3.3,No,N/A
+ENC000871,EMP02988,E02,Tata Consultancy Services,Frontend Developer,Junior,2024,3.9,3.6,4.3,4.0,4.1,Tal vez,Crecimiento profesional
+ENC000872,EMP06486,E07,Hexaware Technologies,Software Developer,Junior,2023,4.0,3.8,4.1,4.6,3.7,No,N/A
+ENC000873,EMP06486,E07,Hexaware Technologies,Software Developer,Junior,2024,3.9,3.5,3.8,3.4,3.9,No,Crecimiento profesional
+ENC000874,EMP00088,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.0,2.9,4.2,4.4,3.9,No,Crecimiento profesional
+ENC000875,EMP00088,E01,Accenture Monterrey,Scrum Master,Mid,2024,3.0,2.7,3.2,3.2,3.1,Tal vez,Mejor salario
+ENC000876,EMP01057,E01,Accenture Monterrey,Backend Developer,Senior,2023,5.0,5.0,4.9,4.5,5.0,No,N/A
+ENC000877,EMP01057,E01,Accenture Monterrey,Backend Developer,Senior,2024,4.6,4.5,4.6,4.9,4.7,No,Crecimiento profesional
+ENC000878,EMP06280,E07,Hexaware Technologies,Software Developer,Mid,2023,3.9,3.1,3.8,4.0,4.0,Sí,Crecimiento profesional
+ENC000879,EMP06280,E07,Hexaware Technologies,Software Developer,Mid,2024,4.1,3.9,4.4,4.1,4.5,No,Trabajo remoto
+ENC000880,EMP04148,E04,Infosys Monterrey,Software Developer,Senior,2023,4.0,4.2,4.2,3.6,3.9,Sí,Mejor salario
+ENC000881,EMP04148,E04,Infosys Monterrey,Software Developer,Senior,2024,5.0,5.0,5.0,4.8,5.0,No,Cambio de ciudad
+ENC000882,EMP04826,E05,Globant Monterrey,Scrum Master,Mid,2023,3.8,3.3,3.4,4.1,4.5,No,N/A
+ENC000883,EMP04826,E05,Globant Monterrey,Scrum Master,Mid,2024,3.9,3.7,4.2,3.9,4.3,No,Mejor salario
+ENC000884,EMP05399,E05,Globant Monterrey,Scrum Master,Senior,2023,4.4,4.7,4.4,4.4,4.5,No,Cambio de ciudad
+ENC000885,EMP05399,E05,Globant Monterrey,Scrum Master,Senior,2024,4.3,4.6,4.6,4.2,3.9,No,Trabajo remoto
+ENC000886,EMP00258,E01,Accenture Monterrey,Scrum Master,Senior,2023,5.0,4.7,4.7,5.0,4.9,No,Startup propia
+ENC000887,EMP00258,E01,Accenture Monterrey,Scrum Master,Senior,2024,4.6,4.5,5.0,4.5,4.5,Tal vez,Mejor salario
+ENC000888,EMP03659,E03,Neoris,Software Developer,Junior,2023,3.5,3.5,3.6,3.7,3.2,Tal vez,Trabajo remoto
+ENC000889,EMP03165,E03,Neoris,Full Stack Developer,Mid,2024,3.4,3.3,3.8,3.5,3.8,No,N/A
+ENC000890,EMP05817,E06,BairesDev,Software Developer,Junior,2023,4.3,4.3,4.9,4.4,4.6,No,Trabajo remoto
+ENC000891,EMP05817,E06,BairesDev,Software Developer,Junior,2024,3.9,3.2,4.1,3.8,3.7,No,Mejor salario
+ENC000892,EMP05663,E06,BairesDev,Project Manager,Senior,2023,3.9,3.3,3.9,3.9,4.2,No,Cambio de ciudad
+ENC000893,EMP05663,E06,BairesDev,Project Manager,Senior,2024,4.2,4.5,4.3,4.1,4.3,Sí,Cambio de ciudad
+ENC000894,EMP02454,E02,Tata Consultancy Services,DevOps Engineer,Mid,2024,3.7,3.7,3.6,3.4,3.7,Tal vez,Trabajo remoto
+ENC000895,EMP04396,E04,Infosys Monterrey,Project Manager,Senior,2023,3.6,3.1,4.1,3.6,4.2,No,Trabajo remoto
+ENC000896,EMP04396,E04,Infosys Monterrey,Project Manager,Senior,2024,4.1,4.2,4.1,3.8,3.5,No,Trabajo remoto
+ENC000897,EMP01254,E01,Accenture Monterrey,Frontend Developer,Junior,2023,3.3,2.8,3.4,3.4,3.6,No,N/A
+ENC000898,EMP01254,E01,Accenture Monterrey,Frontend Developer,Junior,2024,4.1,3.8,4.0,3.9,3.9,Tal vez,Mejor salario
+ENC000899,EMP04980,E05,Globant Monterrey,Software Developer,Mid,2023,3.5,3.0,3.3,3.8,3.3,Sí,Crecimiento profesional
+ENC000900,EMP04980,E05,Globant Monterrey,Software Developer,Mid,2024,3.2,3.1,3.3,3.3,3.5,No,Mejor salario
+ENC000901,EMP03721,E03,Neoris,Backend Developer,Mid,2023,3.8,3.5,3.9,4.0,3.7,Sí,Cambio de ciudad
+ENC000902,EMP03721,E03,Neoris,Backend Developer,Mid,2024,3.9,4.2,4.3,4.5,4.3,No,Mejor salario
+ENC000903,EMP06410,E07,Hexaware Technologies,Cybersecurity Analyst,Mid,2023,4.2,3.8,4.5,3.9,3.8,No,Startup propia
+ENC000904,EMP00544,E01,Accenture Monterrey,Frontend Developer,Mid,2023,4.4,4.3,4.4,4.2,4.3,No,Crecimiento profesional
+ENC000905,EMP00544,E01,Accenture Monterrey,Frontend Developer,Mid,2024,4.3,3.7,4.3,4.1,4.3,No,Mejor salario
+ENC000906,EMP07194,E09,Deintec,DevOps Engineer,Mid,2023,4.4,3.9,4.6,4.2,4.2,No,Mejor salario
+ENC000907,EMP07194,E09,Deintec,DevOps Engineer,Mid,2024,3.5,3.8,3.8,3.1,3.4,No,N/A
+ENC000908,EMP04610,E04,Infosys Monterrey,Cybersecurity Analyst,Junior,2024,3.2,3.0,3.2,2.6,3.3,Sí,Mejor salario
+ENC000909,EMP05266,E05,Globant Monterrey,Software Developer,Junior,2024,3.9,3.7,4.0,3.1,3.7,No,Trabajo remoto
+ENC000910,EMP04508,E04,Infosys Monterrey,Backend Developer,Senior,2024,4.7,4.6,4.9,5.0,4.4,No,Trabajo remoto
+ENC000911,EMP00880,E01,Accenture Monterrey,Software Developer,Senior,2023,4.7,4.9,4.8,4.7,4.5,Sí,Crecimiento profesional
+ENC000912,EMP00880,E01,Accenture Monterrey,Software Developer,Senior,2024,4.9,4.9,5.0,4.4,4.9,Tal vez,Mejor salario
+ENC000913,EMP01316,E01,Accenture Monterrey,DevOps Engineer,Mid,2023,4.6,4.3,4.7,4.4,4.8,No,Crecimiento profesional
+ENC000914,EMP00713,E01,Accenture Monterrey,Cybersecurity Analyst,Mid,2024,4.1,3.8,4.4,3.9,4.3,No,Cambio de ciudad
+ENC000915,EMP06791,E08,AZKA IT Consulting,Project Manager,Mid,2023,4.1,4.0,4.1,4.4,4.1,No,Mejor salario
+ENC000916,EMP06791,E08,AZKA IT Consulting,Project Manager,Mid,2024,3.5,3.4,3.6,3.3,3.7,No,Mejor salario
+ENC000917,EMP00382,E01,Accenture Monterrey,Software Developer,Junior,2023,3.5,3.2,3.3,3.5,3.8,No,Trabajo remoto
+ENC000918,EMP00382,E01,Accenture Monterrey,Software Developer,Junior,2024,3.1,2.9,3.3,2.4,2.9,No,Crecimiento profesional
+ENC000919,EMP00057,E01,Accenture Monterrey,Backend Developer,Mid,2024,4.1,4.3,4.1,3.9,3.8,No,N/A
+ENC000920,EMP00070,E01,Accenture Monterrey,Cloud Architect,Mid,2024,4.1,3.6,4.1,4.1,4.4,No,Startup propia
+ENC000921,EMP04512,E04,Infosys Monterrey,Frontend Developer,Junior,2023,3.2,3.2,3.3,3.7,3.4,Tal vez,Crecimiento profesional
+ENC000922,EMP04512,E04,Infosys Monterrey,Frontend Developer,Junior,2024,3.6,3.3,4.0,3.1,3.5,No,Mejor salario
+ENC000923,EMP02693,E02,Tata Consultancy Services,Software Developer,Mid,2023,3.8,3.7,3.7,3.9,3.9,Tal vez,Crecimiento profesional
+ENC000924,EMP05150,E05,Globant Monterrey,Software Developer,Senior,2023,4.1,3.6,4.2,4.0,3.7,No,Cambio de ciudad
+ENC000925,EMP05150,E05,Globant Monterrey,Software Developer,Senior,2024,4.7,4.8,4.8,4.5,4.4,No,Trabajo remoto
+ENC000926,EMP06709,E08,AZKA IT Consulting,Project Manager,Mid,2023,4.1,3.7,4.0,4.6,4.3,Tal vez,Crecimiento profesional
+ENC000927,EMP04849,E05,Globant Monterrey,Cloud Architect,Senior,2023,4.9,4.9,4.9,5.0,5.0,Tal vez,Trabajo remoto
+ENC000928,EMP03239,E03,Neoris,Project Manager,Mid,2023,4.9,4.4,4.9,5.0,4.7,Sí,N/A
+ENC000929,EMP03239,E03,Neoris,Project Manager,Mid,2024,4.3,4.4,4.4,3.9,4.2,Tal vez,Trabajo remoto
+ENC000930,EMP01841,E02,Tata Consultancy Services,Backend Developer,Junior,2023,3.4,3.1,3.7,3.6,3.7,Tal vez,Cambio de ciudad
+ENC000931,EMP01841,E02,Tata Consultancy Services,Backend Developer,Junior,2024,4.1,3.6,4.4,4.7,3.9,No,Trabajo remoto
+ENC000932,EMP01666,E01,Accenture Monterrey,Full Stack Developer,Junior,2023,3.7,3.5,4.4,3.2,3.7,No,Mejor salario
+ENC000933,EMP00707,E01,Accenture Monterrey,Backend Developer,Junior,2023,3.1,3.0,3.5,3.2,2.9,Tal vez,Trabajo remoto
+ENC000934,EMP00707,E01,Accenture Monterrey,Backend Developer,Junior,2024,4.0,3.9,3.9,4.0,3.9,Tal vez,Cambio de ciudad
+ENC000935,EMP00446,E01,Accenture Monterrey,Project Manager,Senior,2024,5.0,4.8,5.0,4.9,4.5,No,Cambio de ciudad
+ENC000936,EMP02222,E02,Tata Consultancy Services,Software Developer,Mid,2023,4.9,4.4,4.9,4.0,4.6,Tal vez,Mejor salario
+ENC000937,EMP03949,E03,Neoris,Data Analyst,Mid,2023,4.4,4.0,4.2,4.0,3.9,Tal vez,Mejor salario
+ENC000938,EMP03949,E03,Neoris,Data Analyst,Mid,2024,4.3,4.1,4.5,4.2,4.1,No,Mejor salario
+ENC000939,EMP03863,E03,Neoris,Frontend Developer,Mid,2023,3.2,3.5,3.3,3.3,3.4,No,Trabajo remoto
+ENC000940,EMP03863,E03,Neoris,Frontend Developer,Mid,2024,4.0,3.3,4.2,4.0,4.3,No,Mejor salario
+ENC000941,EMP00737,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2023,4.3,3.6,4.2,4.9,4.4,No,Crecimiento profesional
+ENC000942,EMP00737,E01,Accenture Monterrey,Cybersecurity Analyst,Junior,2024,3.9,3.7,4.0,3.6,3.5,No,Cambio de ciudad
+ENC000943,EMP02390,E02,Tata Consultancy Services,Cloud Architect,Senior,2023,4.1,3.7,4.2,3.6,4.1,No,Mejor salario
+ENC000944,EMP02390,E02,Tata Consultancy Services,Cloud Architect,Senior,2024,4.2,3.7,4.5,4.5,4.1,No,N/A
+ENC000945,EMP04717,E04,Infosys Monterrey,Cloud Architect,Senior,2024,4.0,4.5,4.2,4.1,4.3,No,Trabajo remoto
+ENC000946,EMP02339,E02,Tata Consultancy Services,Data Analyst,Junior,2023,3.0,2.6,3.2,3.0,3.0,No,Mejor salario
+ENC000947,EMP02339,E02,Tata Consultancy Services,Data Analyst,Junior,2024,3.3,3.1,3.6,3.6,3.2,Sí,Crecimiento profesional
+ENC000948,EMP05558,E06,BairesDev,Backend Developer,Junior,2023,3.4,3.7,3.8,3.5,3.3,No,Mejor salario
+ENC000949,EMP05558,E06,BairesDev,Backend Developer,Junior,2024,4.5,4.6,5.0,4.1,4.8,No,Mejor salario
+ENC000950,EMP03261,E03,Neoris,Full Stack Developer,Mid,2024,3.2,3.1,3.2,2.9,3.2,No,N/A
+ENC000951,EMP02224,E02,Tata Consultancy Services,Backend Developer,Mid,2023,4.2,3.6,4.3,4.3,4.8,No,Trabajo remoto
+ENC000952,EMP02224,E02,Tata Consultancy Services,Backend Developer,Mid,2024,4.4,3.9,4.4,4.3,4.7,No,Mejor salario
+ENC000953,EMP00020,E01,Accenture Monterrey,DevOps Engineer,Mid,2023,3.7,3.5,3.8,3.1,4.0,Tal vez,Crecimiento profesional
+ENC000954,EMP00020,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,4.8,4.5,4.9,5.0,4.8,No,Crecimiento profesional
+ENC000955,EMP02281,E02,Tata Consultancy Services,Scrum Master,Mid,2023,4.0,3.8,4.2,3.8,3.7,Tal vez,Trabajo remoto
+ENC000956,EMP07170,E09,Deintec,Data Analyst,Mid,2023,3.3,3.6,3.6,2.9,3.0,No,Crecimiento profesional
+ENC000957,EMP07170,E09,Deintec,Data Analyst,Mid,2024,4.6,4.3,4.6,4.3,4.7,No,Mejor salario
+ENC000958,EMP01010,E01,Accenture Monterrey,Data Analyst,Senior,2023,5.0,4.9,4.8,4.9,4.9,Tal vez,Mejor salario
+ENC000959,EMP01010,E01,Accenture Monterrey,Data Analyst,Senior,2024,5.0,5.0,5.0,5.0,5.0,No,Trabajo remoto
+ENC000960,EMP05195,E05,Globant Monterrey,Cybersecurity Analyst,Senior,2023,5.0,4.8,5.0,4.8,4.9,No,Mejor salario
+ENC000961,EMP05195,E05,Globant Monterrey,Cybersecurity Analyst,Senior,2024,4.2,3.9,4.6,4.4,4.3,Tal vez,Cambio de ciudad
+ENC000962,EMP06961,E09,Deintec,Backend Developer,Junior,2023,3.4,3.4,3.3,3.2,3.5,Tal vez,Mejor salario
+ENC000963,EMP06961,E09,Deintec,Backend Developer,Junior,2024,3.2,2.9,3.6,2.7,3.4,Sí,Mejor salario
+ENC000964,EMP00477,E01,Accenture Monterrey,Software Developer,Junior,2023,3.7,3.1,4.1,3.8,3.7,No,Trabajo remoto
+ENC000965,EMP00477,E01,Accenture Monterrey,Software Developer,Junior,2024,3.7,3.4,3.8,4.0,3.5,No,Trabajo remoto
+ENC000966,EMP03919,E03,Neoris,Software Developer,Senior,2023,4.0,4.2,4.0,3.8,4.2,No,Mejor salario
+ENC000967,EMP01058,E01,Accenture Monterrey,Cloud Architect,Senior,2024,3.9,3.6,3.9,3.9,3.9,No,Cambio de ciudad
+ENC000968,EMP02182,E02,Tata Consultancy Services,Backend Developer,Senior,2023,4.2,3.6,4.3,4.4,4.4,Sí,Startup propia
+ENC000969,EMP02182,E02,Tata Consultancy Services,Backend Developer,Senior,2024,4.6,4.5,4.5,4.8,4.7,No,Startup propia
+ENC000970,EMP00469,E01,Accenture Monterrey,Data Analyst,Senior,2023,4.5,4.6,4.7,4.2,4.0,Sí,Mejor salario
+ENC000971,EMP00469,E01,Accenture Monterrey,Data Analyst,Senior,2024,3.9,3.6,3.7,3.2,3.8,No,Crecimiento profesional
+ENC000972,EMP07733,E12,TI Monterrey,Backend Developer,Mid,2023,3.7,3.3,4.0,3.6,3.8,Sí,Mejor salario
+ENC000973,EMP00309,E01,Accenture Monterrey,Cybersecurity Analyst,Senior,2023,3.6,3.3,4.0,3.7,3.7,Tal vez,N/A
+ENC000974,EMP00309,E01,Accenture Monterrey,Cybersecurity Analyst,Senior,2024,4.0,4.2,4.2,4.5,3.7,Tal vez,N/A
+ENC000975,EMP07349,E10,Axsis Tecnología,Backend Developer,Junior,2023,4.0,4.3,4.0,4.0,4.0,No,Crecimiento profesional
+ENC000976,EMP07349,E10,Axsis Tecnología,Backend Developer,Junior,2024,4.0,3.8,4.0,4.3,4.1,No,Trabajo remoto
+ENC000977,EMP02852,E02,Tata Consultancy Services,Cybersecurity Analyst,Mid,2024,3.4,3.4,3.3,3.6,3.5,No,Mejor salario
+ENC000978,EMP01023,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.4,3.3,3.5,3.2,3.2,Sí,Mejor salario
+ENC000979,EMP05678,E06,BairesDev,Full Stack Developer,Senior,2023,4.5,4.2,4.5,4.0,4.8,No,Crecimiento profesional
+ENC000980,EMP05678,E06,BairesDev,Full Stack Developer,Senior,2024,5.0,5.0,5.0,5.0,4.7,Tal vez,Mejor salario
+ENC000981,EMP05368,E05,Globant Monterrey,Backend Developer,Senior,2023,4.7,4.4,4.9,4.3,4.8,Tal vez,Mejor salario
+ENC000982,EMP05368,E05,Globant Monterrey,Backend Developer,Senior,2024,3.8,3.7,4.2,3.8,3.5,Sí,Trabajo remoto
+ENC000983,EMP02846,E02,Tata Consultancy Services,Full Stack Developer,Mid,2024,4.1,3.9,4.1,4.2,3.7,Tal vez,Trabajo remoto
+ENC000984,EMP04554,E04,Infosys Monterrey,Data Analyst,Junior,2023,4.2,4.1,4.5,3.8,3.8,Sí,N/A
+ENC000985,EMP07422,E10,Axsis Tecnología,Full Stack Developer,Junior,2023,2.8,2.4,2.7,2.0,2.9,No,Mejor salario
+ENC000986,EMP04464,E04,Infosys Monterrey,Data Analyst,Junior,2023,3.5,3.7,3.9,3.3,3.3,Tal vez,Crecimiento profesional
+ENC000987,EMP04464,E04,Infosys Monterrey,Data Analyst,Junior,2024,4.6,4.6,5.0,4.2,5.0,Tal vez,Mejor salario
+ENC000988,EMP06503,E08,AZKA IT Consulting,Cloud Architect,Mid,2023,4.4,4.0,4.5,4.2,4.7,No,Trabajo remoto
+ENC000989,EMP01738,E01,Accenture Monterrey,Software Developer,Mid,2023,4.0,4.0,4.1,4.2,3.9,No,Crecimiento profesional
+ENC000990,EMP01738,E01,Accenture Monterrey,Software Developer,Mid,2024,4.1,4.0,3.9,4.3,4.3,Tal vez,Mejor salario
+ENC000991,EMP01019,E01,Accenture Monterrey,Software Developer,Mid,2024,3.3,2.9,3.6,3.2,3.6,Sí,Mejor salario
+ENC000992,EMP02923,E02,Tata Consultancy Services,Software Developer,Senior,2023,4.6,4.9,4.8,4.1,4.4,No,Trabajo remoto
+ENC000993,EMP02923,E02,Tata Consultancy Services,Software Developer,Senior,2024,4.2,4.1,4.5,3.7,4.1,Sí,Cambio de ciudad
+ENC000994,EMP00642,E01,Accenture Monterrey,Backend Developer,Mid,2023,3.7,3.4,3.5,3.4,3.4,No,N/A
+ENC000995,EMP00642,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.8,3.6,4.2,3.5,3.6,Tal vez,Startup propia
+ENC000996,EMP05996,E06,BairesDev,Backend Developer,Senior,2024,3.7,3.0,3.9,3.7,4.0,No,Mejor salario
+ENC000997,EMP05667,E06,BairesDev,Cybersecurity Analyst,Junior,2023,3.5,2.7,3.7,3.3,3.4,No,Startup propia
+ENC000998,EMP05667,E06,BairesDev,Cybersecurity Analyst,Junior,2024,3.5,3.3,3.8,3.1,3.4,Tal vez,Mejor salario
+ENC000999,EMP02457,E02,Tata Consultancy Services,Frontend Developer,Mid,2024,3.5,3.0,3.4,3.6,3.6,No,Mejor salario
+ENC001000,EMP06113,E07,Hexaware Technologies,Data Analyst,Senior,2024,4.2,3.7,4.1,3.9,4.1,No,Mejor salario
+ENC001001,EMP01439,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,3.4,3.1,3.4,3.0,3.4,No,Crecimiento profesional
+ENC001002,EMP05447,E05,Globant Monterrey,Full Stack Developer,Mid,2023,3.3,2.9,3.3,3.5,3.5,No,Mejor salario
+ENC001003,EMP05447,E05,Globant Monterrey,Full Stack Developer,Mid,2024,4.0,3.9,4.1,3.4,3.8,No,Trabajo remoto
+ENC001004,EMP01340,E01,Accenture Monterrey,DevOps Engineer,Mid,2023,4.9,4.9,5.0,4.9,5.0,No,Crecimiento profesional
+ENC001005,EMP01340,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,3.7,4.0,4.0,3.7,3.4,Tal vez,Crecimiento profesional
+ENC001006,EMP02756,E02,Tata Consultancy Services,Project Manager,Mid,2024,5.0,4.8,4.6,4.9,4.6,No,Mejor salario
+ENC001007,EMP04491,E04,Infosys Monterrey,Backend Developer,Junior,2023,4.1,4.1,4.2,4.1,4.3,No,Crecimiento profesional
+ENC001008,EMP04491,E04,Infosys Monterrey,Backend Developer,Junior,2024,4.5,4.4,4.5,4.7,4.3,Sí,Trabajo remoto
+ENC001009,EMP07874,E12,TI Monterrey,Data Analyst,Mid,2023,4.3,3.9,4.6,3.6,3.8,No,Cambio de ciudad
+ENC001010,EMP07874,E12,TI Monterrey,Data Analyst,Mid,2024,4.6,4.3,4.9,4.5,4.6,No,Trabajo remoto
+ENC001011,EMP04978,E05,Globant Monterrey,Project Manager,Senior,2023,4.4,4.4,4.6,4.2,4.2,Tal vez,N/A
+ENC001012,EMP03232,E03,Neoris,Data Analyst,Mid,2023,4.7,4.2,4.6,5.0,4.8,No,Trabajo remoto
+ENC001013,EMP03232,E03,Neoris,Data Analyst,Mid,2024,4.8,4.3,5.0,4.9,4.9,No,Trabajo remoto
+ENC001014,EMP00119,E01,Accenture Monterrey,Cloud Architect,Mid,2023,4.3,4.2,4.3,3.8,4.7,No,Cambio de ciudad
+ENC001015,EMP07917,E12,TI Monterrey,Data Analyst,Junior,2024,3.1,3.0,3.2,3.4,2.9,Tal vez,Crecimiento profesional
+ENC001016,EMP04211,E04,Infosys Monterrey,Frontend Developer,Junior,2024,4.2,4.1,4.2,4.4,4.0,No,Mejor salario
+ENC001017,EMP07387,E10,Axsis Tecnología,Backend Developer,Senior,2024,4.0,4.2,4.1,4.0,4.3,Tal vez,Crecimiento profesional
+ENC001018,EMP01143,E01,Accenture Monterrey,Software Developer,Senior,2023,4.8,4.5,4.4,4.4,5.0,Sí,Cambio de ciudad
+ENC001019,EMP01143,E01,Accenture Monterrey,Software Developer,Senior,2024,4.8,4.6,4.9,4.2,4.7,No,Crecimiento profesional
+ENC001020,EMP07743,E12,TI Monterrey,Full Stack Developer,Junior,2024,4.2,3.6,4.6,4.2,4.0,Tal vez,Mejor salario
+ENC001021,EMP07143,E09,Deintec,Backend Developer,Junior,2024,3.9,3.9,3.9,3.6,4.4,No,Trabajo remoto
+ENC001022,EMP05572,E06,BairesDev,Full Stack Developer,Mid,2023,5.0,5.0,4.9,5.0,4.9,No,Crecimiento profesional
+ENC001023,EMP05572,E06,BairesDev,Full Stack Developer,Mid,2024,4.8,5.0,4.9,4.4,4.3,No,N/A
+ENC001024,EMP03606,E03,Neoris,Software Developer,Mid,2023,4.1,3.9,4.1,4.0,4.5,No,Crecimiento profesional
+ENC001025,EMP03606,E03,Neoris,Software Developer,Mid,2024,4.8,4.8,5.0,4.9,4.5,No,Mejor salario
+ENC001026,EMP06731,E08,AZKA IT Consulting,Frontend Developer,Junior,2023,4.3,3.7,4.4,4.4,4.1,Sí,N/A
+ENC001027,EMP06731,E08,AZKA IT Consulting,Frontend Developer,Junior,2024,4.4,4.2,4.7,4.7,4.3,No,Crecimiento profesional
+ENC001028,EMP01635,E01,Accenture Monterrey,Software Developer,Senior,2023,4.2,4.2,4.3,4.7,4.4,No,Mejor salario
+ENC001029,EMP01635,E01,Accenture Monterrey,Software Developer,Senior,2024,4.9,4.7,4.8,5.0,4.9,Tal vez,Trabajo remoto
+ENC001030,EMP02127,E02,Tata Consultancy Services,Scrum Master,Senior,2023,4.3,4.6,4.2,4.6,4.3,No,Cambio de ciudad
+ENC001031,EMP02127,E02,Tata Consultancy Services,Scrum Master,Senior,2024,3.5,3.3,4.0,3.0,3.3,Sí,Crecimiento profesional
+ENC001032,EMP02448,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.5,4.4,4.5,3.9,4.3,Sí,Mejor salario
+ENC001033,EMP07785,E12,TI Monterrey,Backend Developer,Junior,2023,4.2,4.3,4.1,4.2,4.5,No,Crecimiento profesional
+ENC001034,EMP07785,E12,TI Monterrey,Backend Developer,Junior,2024,3.5,3.4,3.9,3.7,3.6,Tal vez,Crecimiento profesional
+ENC001035,EMP02819,E02,Tata Consultancy Services,Software Developer,Mid,2023,4.9,4.6,5.0,4.6,5.0,No,Trabajo remoto
+ENC001036,EMP02819,E02,Tata Consultancy Services,Software Developer,Mid,2024,4.5,4.2,4.5,4.8,4.5,Sí,N/A
+ENC001037,EMP03197,E03,Neoris,Software Developer,Junior,2024,3.5,3.6,3.7,3.5,3.6,No,Cambio de ciudad
+ENC001038,EMP07052,E09,Deintec,Backend Developer,Mid,2023,4.0,3.6,3.9,3.9,3.8,No,Crecimiento profesional
+ENC001039,EMP07052,E09,Deintec,Backend Developer,Mid,2024,3.1,2.7,3.2,2.9,3.2,Tal vez,Trabajo remoto
+ENC001040,EMP02374,E02,Tata Consultancy Services,Data Analyst,Junior,2023,3.8,3.8,4.0,3.7,3.9,No,N/A
+ENC001041,EMP02374,E02,Tata Consultancy Services,Data Analyst,Junior,2024,4.2,3.5,4.4,4.5,4.9,No,Trabajo remoto
+ENC001042,EMP04232,E04,Infosys Monterrey,Frontend Developer,Senior,2023,4.7,4.6,4.9,4.5,4.9,Sí,Mejor salario
+ENC001043,EMP01560,E01,Accenture Monterrey,Software Developer,Mid,2023,3.7,3.4,3.7,3.5,3.6,No,Cambio de ciudad
+ENC001044,EMP01560,E01,Accenture Monterrey,Software Developer,Mid,2024,3.3,3.3,3.2,3.0,3.0,No,Mejor salario
+ENC001045,EMP06061,E07,Hexaware Technologies,Scrum Master,Mid,2023,3.4,3.6,3.5,3.1,3.4,Tal vez,Crecimiento profesional
+ENC001046,EMP01927,E02,Tata Consultancy Services,DevOps Engineer,Senior,2023,3.3,3.1,3.6,3.0,3.6,No,Cambio de ciudad
+ENC001047,EMP01927,E02,Tata Consultancy Services,DevOps Engineer,Senior,2024,4.2,4.1,4.4,4.5,4.5,Tal vez,N/A
+ENC001048,EMP05007,E05,Globant Monterrey,Full Stack Developer,Mid,2023,4.1,4.3,4.0,4.0,4.2,Tal vez,Mejor salario
+ENC001049,EMP05007,E05,Globant Monterrey,Full Stack Developer,Mid,2024,4.9,4.4,5.0,5.0,4.7,Tal vez,Mejor salario
+ENC001050,EMP04857,E05,Globant Monterrey,Full Stack Developer,Junior,2023,3.7,3.4,3.7,3.2,3.6,Tal vez,N/A
+ENC001051,EMP04857,E05,Globant Monterrey,Full Stack Developer,Junior,2024,3.7,3.6,4.0,3.4,3.5,Tal vez,Cambio de ciudad
+ENC001052,EMP07398,E10,Axsis Tecnología,Backend Developer,Mid,2023,4.9,4.2,5.0,5.0,5.0,Tal vez,Trabajo remoto
+ENC001053,EMP07398,E10,Axsis Tecnología,Backend Developer,Mid,2024,4.5,4.2,4.8,4.4,4.5,No,Startup propia
+ENC001054,EMP03182,E03,Neoris,Data Analyst,Mid,2023,5.0,4.8,5.0,4.7,5.0,Tal vez,Crecimiento profesional
+ENC001055,EMP03182,E03,Neoris,Data Analyst,Mid,2024,3.8,3.3,3.7,3.6,3.8,Tal vez,Crecimiento profesional
+ENC001056,EMP02535,E02,Tata Consultancy Services,Frontend Developer,Junior,2023,3.4,3.1,3.8,2.9,3.2,No,Mejor salario
+ENC001057,EMP02535,E02,Tata Consultancy Services,Frontend Developer,Junior,2024,4.0,4.3,4.5,3.5,4.1,No,Mejor salario
+ENC001058,EMP07605,E11,Skye Group,Data Analyst,Mid,2024,4.0,3.4,3.6,4.1,4.3,No,N/A
+ENC001059,EMP03827,E03,Neoris,DevOps Engineer,Mid,2023,4.3,4.4,4.5,3.7,4.5,No,Crecimiento profesional
+ENC001060,EMP03827,E03,Neoris,DevOps Engineer,Mid,2024,4.6,4.4,4.8,4.0,4.6,No,Mejor salario
+ENC001061,EMP00983,E01,Accenture Monterrey,Frontend Developer,Mid,2023,3.4,3.2,3.6,3.8,3.6,No,Crecimiento profesional
+ENC001062,EMP05023,E05,Globant Monterrey,DevOps Engineer,Senior,2024,5.0,4.7,5.0,4.5,5.0,Tal vez,N/A
+ENC001063,EMP03908,E03,Neoris,Full Stack Developer,Mid,2023,4.1,3.7,4.3,3.9,4.4,Sí,Mejor salario
+ENC001064,EMP03908,E03,Neoris,Full Stack Developer,Mid,2024,3.8,3.9,3.9,3.5,3.5,Tal vez,N/A
+ENC001065,EMP04928,E05,Globant Monterrey,Software Developer,Junior,2023,3.9,3.8,4.0,3.7,4.2,Tal vez,Mejor salario
+ENC001066,EMP04928,E05,Globant Monterrey,Software Developer,Junior,2024,4.8,4.6,5.0,4.7,5.0,Sí,Startup propia
+ENC001067,EMP05297,E05,Globant Monterrey,Scrum Master,Mid,2023,3.6,3.7,3.6,3.7,4.0,No,Crecimiento profesional
+ENC001068,EMP05297,E05,Globant Monterrey,Scrum Master,Mid,2024,3.3,2.6,3.4,3.4,2.9,No,Trabajo remoto
+ENC001069,EMP03754,E03,Neoris,Project Manager,Mid,2023,3.8,3.8,3.9,3.4,3.8,Sí,N/A
+ENC001070,EMP03754,E03,Neoris,Project Manager,Mid,2024,3.9,4.2,4.1,3.5,4.2,Sí,Crecimiento profesional
+ENC001071,EMP03723,E03,Neoris,Cybersecurity Analyst,Mid,2023,4.8,4.5,4.8,4.5,4.6,Sí,Trabajo remoto
+ENC001072,EMP03723,E03,Neoris,Cybersecurity Analyst,Mid,2024,4.1,3.6,4.3,4.0,4.1,No,Mejor salario
+ENC001073,EMP06900,E09,Deintec,Project Manager,Senior,2023,4.3,4.4,4.3,3.7,4.3,Tal vez,N/A
+ENC001074,EMP06900,E09,Deintec,Project Manager,Senior,2024,5.0,4.8,5.0,4.8,5.0,Tal vez,Trabajo remoto
+ENC001075,EMP01594,E01,Accenture Monterrey,Backend Developer,Mid,2023,4.7,4.8,4.8,5.0,4.6,No,Mejor salario
+ENC001076,EMP01594,E01,Accenture Monterrey,Backend Developer,Mid,2024,5.0,4.7,5.0,4.9,4.7,No,Trabajo remoto
+ENC001077,EMP00051,E01,Accenture Monterrey,Software Developer,Mid,2023,3.5,3.1,3.6,3.0,3.6,No,Mejor salario
+ENC001078,EMP05439,E05,Globant Monterrey,Backend Developer,Senior,2023,3.6,3.1,3.4,3.7,4.1,Tal vez,N/A
+ENC001079,EMP05439,E05,Globant Monterrey,Backend Developer,Senior,2024,3.7,3.3,3.8,3.6,3.6,No,Crecimiento profesional
+ENC001080,EMP04216,E04,Infosys Monterrey,Data Analyst,Junior,2023,3.8,3.3,3.9,4.2,3.3,No,Mejor salario
+ENC001081,EMP04216,E04,Infosys Monterrey,Data Analyst,Junior,2024,4.4,4.0,4.4,4.0,4.2,Sí,Startup propia
+ENC001082,EMP03890,E03,Neoris,Data Analyst,Senior,2023,4.7,4.2,4.8,5.0,4.4,No,Crecimiento profesional
+ENC001083,EMP03211,E03,Neoris,Frontend Developer,Senior,2023,5.0,5.0,5.0,4.6,4.8,No,Trabajo remoto
+ENC001084,EMP03211,E03,Neoris,Frontend Developer,Senior,2024,4.8,4.3,4.6,4.8,4.7,Sí,Mejor salario
+ENC001085,EMP04864,E05,Globant Monterrey,Backend Developer,Mid,2024,3.7,4.1,3.6,3.7,3.9,Tal vez,Mejor salario
+ENC001086,EMP04128,E04,Infosys Monterrey,Software Developer,Junior,2023,3.5,3.0,3.4,3.5,3.4,Tal vez,Trabajo remoto
+ENC001087,EMP04128,E04,Infosys Monterrey,Software Developer,Junior,2024,4.5,4.4,4.4,4.2,4.5,No,Trabajo remoto
+ENC001088,EMP06068,E07,Hexaware Technologies,Software Developer,Mid,2023,3.5,4.1,3.7,3.1,3.6,Tal vez,N/A
+ENC001089,EMP06068,E07,Hexaware Technologies,Software Developer,Mid,2024,4.5,4.2,4.5,4.1,4.4,Sí,Crecimiento profesional
+ENC001090,EMP06632,E08,AZKA IT Consulting,Frontend Developer,Mid,2023,3.8,3.7,4.1,3.5,3.6,No,Mejor salario
+ENC001091,EMP06632,E08,AZKA IT Consulting,Frontend Developer,Mid,2024,4.1,4.0,4.2,3.9,3.9,Tal vez,Crecimiento profesional
+ENC001092,EMP05231,E05,Globant Monterrey,Scrum Master,Mid,2024,4.5,4.4,4.7,4.6,4.2,No,Mejor salario
+ENC001093,EMP03609,E03,Neoris,Frontend Developer,Junior,2023,3.3,2.7,3.3,3.2,3.2,Sí,Crecimiento profesional
+ENC001094,EMP03609,E03,Neoris,Frontend Developer,Junior,2024,4.1,4.0,4.0,3.9,3.9,No,Crecimiento profesional
+ENC001095,EMP07618,E11,Skye Group,DevOps Engineer,Mid,2023,4.2,4.0,4.3,4.7,3.9,No,N/A
+ENC001096,EMP07618,E11,Skye Group,DevOps Engineer,Mid,2024,5.0,4.9,5.0,5.0,5.0,Sí,Mejor salario
+ENC001097,EMP01129,E01,Accenture Monterrey,DevOps Engineer,Senior,2023,3.8,4.2,3.7,3.6,3.5,Tal vez,Crecimiento profesional
+ENC001098,EMP01129,E01,Accenture Monterrey,DevOps Engineer,Senior,2024,4.3,3.9,4.6,4.4,4.3,Tal vez,Startup propia
+ENC001099,EMP02865,E02,Tata Consultancy Services,Cybersecurity Analyst,Senior,2023,4.9,4.3,5.0,4.8,5.0,No,Trabajo remoto
+ENC001100,EMP01840,E02,Tata Consultancy Services,Scrum Master,Senior,2024,4.3,4.4,4.2,3.9,4.1,Sí,Mejor salario
+ENC001101,EMP05838,E06,BairesDev,Backend Developer,Senior,2024,4.4,4.3,4.4,4.4,4.7,Tal vez,Mejor salario
+ENC001102,EMP01003,E01,Accenture Monterrey,Project Manager,Senior,2023,4.4,4.5,4.5,4.2,4.1,Tal vez,Crecimiento profesional
+ENC001103,EMP07270,E10,Axsis Tecnología,Cloud Architect,Senior,2024,4.2,3.9,4.5,4.0,4.1,Tal vez,Trabajo remoto
+ENC001104,EMP04315,E04,Infosys Monterrey,Software Developer,Senior,2023,4.7,4.6,4.7,4.0,4.1,No,Mejor salario
+ENC001105,EMP07789,E12,TI Monterrey,Backend Developer,Junior,2023,4.2,3.9,4.3,4.2,3.9,No,Trabajo remoto
+ENC001106,EMP07789,E12,TI Monterrey,Backend Developer,Junior,2024,3.8,3.7,3.6,3.9,4.0,Sí,Mejor salario
+ENC001107,EMP07623,E11,Skye Group,Software Developer,Junior,2023,4.3,4.5,4.3,3.5,4.6,No,Crecimiento profesional
+ENC001108,EMP07623,E11,Skye Group,Software Developer,Junior,2024,3.6,3.0,3.4,3.4,3.7,Tal vez,Mejor salario
+ENC001109,EMP03429,E03,Neoris,Backend Developer,Junior,2023,3.5,3.1,3.5,3.2,3.3,No,Trabajo remoto
+ENC001110,EMP03429,E03,Neoris,Backend Developer,Junior,2024,4.1,3.5,4.1,3.9,3.8,Sí,Crecimiento profesional
+ENC001111,EMP01624,E01,Accenture Monterrey,Frontend Developer,Senior,2023,4.3,4.3,4.3,4.2,4.1,No,Mejor salario
+ENC001112,EMP01624,E01,Accenture Monterrey,Frontend Developer,Senior,2024,4.0,4.2,4.3,4.0,4.2,Sí,Startup propia
+ENC001113,EMP07792,E12,TI Monterrey,DevOps Engineer,Mid,2023,4.4,4.1,4.6,4.3,4.5,No,N/A
+ENC001114,EMP07792,E12,TI Monterrey,DevOps Engineer,Mid,2024,3.8,3.6,3.9,3.3,3.7,No,Startup propia
+ENC001115,EMP06156,E07,Hexaware Technologies,Backend Developer,Mid,2023,4.0,4.1,3.9,4.2,3.8,Tal vez,Trabajo remoto
+ENC001116,EMP05293,E05,Globant Monterrey,Software Developer,Mid,2024,3.8,3.8,3.9,3.8,4.5,No,Crecimiento profesional
+ENC001117,EMP02284,E02,Tata Consultancy Services,Data Analyst,Mid,2024,4.3,4.1,4.0,4.1,5.0,No,N/A
+ENC001118,EMP06509,E08,AZKA IT Consulting,Frontend Developer,Junior,2023,3.0,2.8,3.5,2.4,2.7,No,Crecimiento profesional
+ENC001119,EMP06509,E08,AZKA IT Consulting,Frontend Developer,Junior,2024,3.9,3.8,3.8,4.0,3.2,No,Cambio de ciudad
+ENC001120,EMP07723,E11,Skye Group,Data Analyst,Mid,2024,3.7,3.6,3.9,3.0,3.7,No,Trabajo remoto
+ENC001121,EMP03456,E03,Neoris,Project Manager,Mid,2024,3.9,3.9,3.9,3.9,3.7,No,Trabajo remoto
+ENC001122,EMP05830,E06,BairesDev,Backend Developer,Mid,2023,3.9,3.9,4.0,3.7,4.0,No,Crecimiento profesional
+ENC001123,EMP05830,E06,BairesDev,Backend Developer,Mid,2024,4.8,5.0,4.9,4.8,4.9,No,Crecimiento profesional
+ENC001124,EMP06681,E08,AZKA IT Consulting,Data Analyst,Junior,2023,4.4,3.8,4.7,4.4,4.6,No,Trabajo remoto
+ENC001125,EMP06681,E08,AZKA IT Consulting,Data Analyst,Junior,2024,3.5,3.1,3.7,3.4,3.9,No,Trabajo remoto
+ENC001126,EMP00867,E01,Accenture Monterrey,Backend Developer,Junior,2023,3.4,3.4,3.5,3.1,3.8,Tal vez,Trabajo remoto
+ENC001127,EMP05588,E06,BairesDev,Software Developer,Junior,2024,4.0,4.0,3.9,3.7,4.1,No,Startup propia
+ENC001128,EMP02699,E02,Tata Consultancy Services,Software Developer,Mid,2023,5.0,5.0,4.8,4.8,4.9,No,Crecimiento profesional
+ENC001129,EMP02250,E02,Tata Consultancy Services,Cybersecurity Analyst,Mid,2023,4.1,4.1,4.5,4.2,4.0,No,Mejor salario
+ENC001130,EMP02250,E02,Tata Consultancy Services,Cybersecurity Analyst,Mid,2024,3.8,3.9,4.0,3.9,4.0,No,Mejor salario
+ENC001131,EMP05477,E05,Globant Monterrey,DevOps Engineer,Mid,2023,4.2,4.4,4.3,4.3,4.5,Sí,Mejor salario
+ENC001132,EMP05477,E05,Globant Monterrey,DevOps Engineer,Mid,2024,4.2,4.5,4.7,4.5,4.1,No,Mejor salario
+ENC001133,EMP01955,E02,Tata Consultancy Services,Backend Developer,Junior,2023,4.1,3.6,4.6,4.2,4.3,Tal vez,Crecimiento profesional
+ENC001134,EMP01955,E02,Tata Consultancy Services,Backend Developer,Junior,2024,3.9,3.7,3.9,4.4,3.9,No,Crecimiento profesional
+ENC001135,EMP01719,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.2,3.9,4.3,4.5,4.1,Tal vez,Mejor salario
+ENC001136,EMP01719,E01,Accenture Monterrey,Scrum Master,Mid,2024,3.7,3.6,4.0,3.8,4.3,No,Crecimiento profesional
+ENC001137,EMP02458,E02,Tata Consultancy Services,Backend Developer,Mid,2023,4.0,3.8,4.3,3.6,3.8,No,Crecimiento profesional
+ENC001138,EMP02458,E02,Tata Consultancy Services,Backend Developer,Mid,2024,3.9,3.2,3.9,4.3,3.9,Tal vez,Mejor salario
+ENC001139,EMP01427,E01,Accenture Monterrey,Project Manager,Mid,2023,3.7,3.6,4.0,4.1,3.6,No,Trabajo remoto
+ENC001140,EMP01427,E01,Accenture Monterrey,Project Manager,Mid,2024,3.6,3.5,3.4,3.5,3.5,No,Mejor salario
+ENC001141,EMP03785,E03,Neoris,Full Stack Developer,Junior,2023,3.5,2.9,3.3,3.7,3.5,No,Startup propia
+ENC001142,EMP07842,E12,TI Monterrey,Backend Developer,Mid,2023,3.1,3.2,3.1,3.4,3.1,Sí,Mejor salario
+ENC001143,EMP07842,E12,TI Monterrey,Backend Developer,Mid,2024,4.1,4.0,4.1,4.0,4.1,No,Crecimiento profesional
+ENC001144,EMP01054,E01,Accenture Monterrey,Backend Developer,Mid,2023,3.8,3.7,3.5,3.6,4.2,Sí,Crecimiento profesional
+ENC001145,EMP06353,E07,Hexaware Technologies,Frontend Developer,Junior,2023,3.2,2.4,3.4,2.9,3.1,Tal vez,Mejor salario
+ENC001146,EMP05058,E05,Globant Monterrey,Full Stack Developer,Mid,2024,3.9,3.7,4.0,3.8,4.1,Tal vez,Trabajo remoto
+ENC001147,EMP01164,E01,Accenture Monterrey,Data Analyst,Mid,2023,4.5,4.2,4.4,4.3,4.6,Sí,Crecimiento profesional
+ENC001148,EMP02863,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.0,3.7,4.3,4.4,4.4,Tal vez,Mejor salario
+ENC001149,EMP00436,E01,Accenture Monterrey,Full Stack Developer,Junior,2023,4.3,4.0,4.1,4.2,4.7,Tal vez,Cambio de ciudad
+ENC001150,EMP06593,E08,AZKA IT Consulting,Software Developer,Junior,2023,4.2,4.0,4.4,4.9,3.9,No,Mejor salario
+ENC001151,EMP06593,E08,AZKA IT Consulting,Software Developer,Junior,2024,3.9,4.0,4.4,3.7,3.9,Tal vez,Trabajo remoto
+ENC001152,EMP03353,E03,Neoris,Frontend Developer,Mid,2023,3.6,3.6,3.7,3.6,3.6,Sí,Startup propia
+ENC001153,EMP05738,E06,BairesDev,Data Analyst,Mid,2024,4.1,4.0,4.3,4.6,4.3,No,Mejor salario
+ENC001154,EMP05565,E06,BairesDev,Data Analyst,Mid,2023,4.8,5.0,4.7,4.3,4.7,Tal vez,Mejor salario
+ENC001155,EMP05565,E06,BairesDev,Data Analyst,Mid,2024,3.6,3.4,3.3,3.7,3.9,Sí,Trabajo remoto
+ENC001156,EMP02184,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.0,3.4,4.1,4.5,3.9,No,Cambio de ciudad
+ENC001157,EMP02184,E02,Tata Consultancy Services,Software Developer,Junior,2024,3.5,3.2,3.8,3.0,4.1,No,N/A
+ENC001158,EMP02900,E02,Tata Consultancy Services,Software Developer,Senior,2023,3.8,4.1,4.2,3.3,3.4,No,Crecimiento profesional
+ENC001159,EMP02900,E02,Tata Consultancy Services,Software Developer,Senior,2024,4.1,3.7,4.2,4.4,4.1,No,Mejor salario
+ENC001160,EMP00909,E01,Accenture Monterrey,DevOps Engineer,Mid,2023,3.9,3.9,4.1,3.8,4.1,Tal vez,Crecimiento profesional
+ENC001161,EMP00909,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,4.6,4.1,4.8,4.5,4.8,Tal vez,Crecimiento profesional
+ENC001162,EMP02657,E02,Tata Consultancy Services,Software Developer,Mid,2023,4.2,4.1,4.1,4.6,4.2,No,Crecimiento profesional
+ENC001163,EMP02657,E02,Tata Consultancy Services,Software Developer,Mid,2024,3.9,3.5,4.5,4.3,3.8,Tal vez,N/A
+ENC001164,EMP07149,E09,Deintec,Project Manager,Mid,2024,4.6,4.6,5.0,4.6,4.9,No,Mejor salario
+ENC001165,EMP07266,E10,Axsis Tecnología,Scrum Master,Mid,2023,3.9,4.1,3.9,3.7,3.9,No,Mejor salario
+ENC001166,EMP01088,E01,Accenture Monterrey,Backend Developer,Mid,2023,4.4,4.7,4.6,4.1,4.3,No,Trabajo remoto
+ENC001167,EMP05757,E06,BairesDev,Full Stack Developer,Mid,2024,5.0,4.8,5.0,4.9,5.0,No,N/A
+ENC001168,EMP07563,E11,Skye Group,Backend Developer,Mid,2023,3.8,3.7,3.9,3.4,4.1,No,Crecimiento profesional
+ENC001169,EMP07563,E11,Skye Group,Backend Developer,Mid,2024,3.8,3.5,4.1,3.9,3.6,Tal vez,N/A
+ENC001170,EMP01243,E01,Accenture Monterrey,Backend Developer,Mid,2024,4.3,4.2,4.4,4.1,4.1,No,Crecimiento profesional
+ENC001171,EMP00487,E01,Accenture Monterrey,Scrum Master,Senior,2023,3.8,3.5,4.2,3.4,3.7,No,Mejor salario
+ENC001172,EMP00487,E01,Accenture Monterrey,Scrum Master,Senior,2024,4.8,4.5,4.8,4.8,4.8,Tal vez,Cambio de ciudad
+ENC001173,EMP06779,E08,AZKA IT Consulting,Software Developer,Mid,2023,4.5,4.1,4.6,4.7,4.5,Tal vez,Trabajo remoto
+ENC001174,EMP06779,E08,AZKA IT Consulting,Software Developer,Mid,2024,5.0,5.0,4.8,4.9,5.0,No,Trabajo remoto
+ENC001175,EMP00200,E01,Accenture Monterrey,Backend Developer,Mid,2023,4.8,4.7,4.6,5.0,4.3,No,N/A
+ENC001176,EMP00200,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.9,3.8,4.4,3.6,3.6,No,Cambio de ciudad
+ENC001177,EMP03290,E03,Neoris,Project Manager,Mid,2023,3.8,3.9,3.9,3.3,3.7,No,Cambio de ciudad
+ENC001178,EMP03290,E03,Neoris,Project Manager,Mid,2024,3.8,3.7,3.8,3.7,3.4,Tal vez,Mejor salario
+ENC001179,EMP07538,E11,Skye Group,Software Developer,Junior,2023,3.1,3.1,3.0,2.7,2.7,No,Crecimiento profesional
+ENC001180,EMP07538,E11,Skye Group,Software Developer,Junior,2024,3.5,3.6,3.3,3.7,3.2,No,Mejor salario
+ENC001181,EMP06720,E08,AZKA IT Consulting,Project Manager,Mid,2024,3.3,3.7,3.1,2.9,3.5,Tal vez,Crecimiento profesional
+ENC001182,EMP04462,E04,Infosys Monterrey,Cloud Architect,Mid,2023,4.2,4.3,4.4,3.9,4.0,No,Trabajo remoto
+ENC001183,EMP04462,E04,Infosys Monterrey,Cloud Architect,Mid,2024,4.3,3.6,4.5,4.1,4.1,Tal vez,Cambio de ciudad
+ENC001184,EMP03593,E03,Neoris,Frontend Developer,Senior,2023,4.5,4.4,4.3,4.5,4.2,No,Trabajo remoto
+ENC001185,EMP03593,E03,Neoris,Frontend Developer,Senior,2024,4.8,4.9,4.8,4.8,5.0,No,Trabajo remoto
+ENC001186,EMP01011,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.3,3.8,4.2,4.2,4.2,Tal vez,Crecimiento profesional
+ENC001187,EMP01011,E01,Accenture Monterrey,Scrum Master,Mid,2024,4.4,3.9,4.5,4.3,4.2,Tal vez,Mejor salario
+ENC001188,EMP06344,E07,Hexaware Technologies,DevOps Engineer,Mid,2024,4.2,4.4,4.2,4.0,3.9,Tal vez,Cambio de ciudad
+ENC001189,EMP05104,E05,Globant Monterrey,Scrum Master,Mid,2024,4.4,4.1,4.5,4.1,4.4,Sí,Crecimiento profesional
+ENC001190,EMP05024,E05,Globant Monterrey,Data Analyst,Senior,2023,3.5,3.2,3.6,3.4,3.2,No,N/A
+ENC001191,EMP05024,E05,Globant Monterrey,Data Analyst,Senior,2024,4.9,4.9,5.0,4.8,5.0,Sí,Crecimiento profesional
+ENC001192,EMP02550,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.9,5.0,4.9,5.0,4.6,No,Mejor salario
+ENC001193,EMP02550,E02,Tata Consultancy Services,Software Developer,Junior,2024,3.6,3.6,3.4,3.1,3.8,No,Cambio de ciudad
+ENC001194,EMP06363,E07,Hexaware Technologies,DevOps Engineer,Mid,2023,4.3,4.2,4.2,3.6,4.3,Tal vez,Mejor salario
+ENC001195,EMP03143,E03,Neoris,Cybersecurity Analyst,Junior,2023,3.9,3.4,3.9,4.2,4.0,No,Trabajo remoto
+ENC001196,EMP03143,E03,Neoris,Cybersecurity Analyst,Junior,2024,3.8,3.8,3.9,3.6,4.0,No,Crecimiento profesional
+ENC001197,EMP01303,E01,Accenture Monterrey,DevOps Engineer,Mid,2023,4.9,4.5,5.0,4.5,4.9,Sí,Startup propia
+ENC001198,EMP01303,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,4.5,4.2,4.4,4.9,4.8,Tal vez,Crecimiento profesional
+ENC001199,EMP00712,E01,Accenture Monterrey,Software Developer,Junior,2024,3.2,3.4,3.5,3.1,3.3,Tal vez,Trabajo remoto
+ENC001200,EMP00355,E01,Accenture Monterrey,Software Developer,Mid,2023,4.5,4.3,4.5,4.6,4.4,Tal vez,Mejor salario
+ENC001201,EMP00355,E01,Accenture Monterrey,Software Developer,Mid,2024,4.1,3.9,4.0,4.3,3.9,No,Cambio de ciudad
+ENC001202,EMP06504,E08,AZKA IT Consulting,Cybersecurity Analyst,Senior,2023,4.7,4.7,4.9,4.7,4.5,Tal vez,Cambio de ciudad
+ENC001203,EMP06504,E08,AZKA IT Consulting,Cybersecurity Analyst,Senior,2024,4.6,4.2,4.6,4.9,4.4,Tal vez,Crecimiento profesional
+ENC001204,EMP03822,E03,Neoris,Backend Developer,Junior,2023,3.5,3.1,4.0,3.7,3.6,No,Startup propia
+ENC001205,EMP00049,E01,Accenture Monterrey,Full Stack Developer,Mid,2023,3.6,3.5,3.8,3.2,4.1,Sí,Trabajo remoto
+ENC001206,EMP00049,E01,Accenture Monterrey,Full Stack Developer,Mid,2024,4.8,4.6,5.0,5.0,4.8,Tal vez,Trabajo remoto
+ENC001207,EMP00643,E01,Accenture Monterrey,Software Developer,Mid,2023,3.7,3.1,3.5,3.8,3.4,No,Mejor salario
+ENC001208,EMP00643,E01,Accenture Monterrey,Software Developer,Mid,2024,3.7,4.0,3.9,3.6,3.8,Tal vez,Trabajo remoto
+ENC001209,EMP04271,E04,Infosys Monterrey,Scrum Master,Mid,2023,4.2,4.3,4.4,4.3,4.4,Sí,Cambio de ciudad
+ENC001210,EMP04271,E04,Infosys Monterrey,Scrum Master,Mid,2024,4.5,3.8,4.6,4.5,4.4,Sí,Startup propia
+ENC001211,EMP00177,E01,Accenture Monterrey,Software Developer,Senior,2024,4.6,5.0,4.9,4.1,4.5,Tal vez,Mejor salario
+ENC001212,EMP01490,E01,Accenture Monterrey,Backend Developer,Junior,2023,3.5,3.4,3.6,3.8,3.6,No,Cambio de ciudad
+ENC001213,EMP03834,E03,Neoris,Data Analyst,Senior,2023,4.5,4.0,5.0,4.4,4.7,No,Cambio de ciudad
+ENC001214,EMP03834,E03,Neoris,Data Analyst,Senior,2024,4.0,3.9,4.0,4.5,4.3,Tal vez,Cambio de ciudad
+ENC001215,EMP00787,E01,Accenture Monterrey,Full Stack Developer,Junior,2023,4.8,4.9,4.9,4.7,4.6,No,Trabajo remoto
+ENC001216,EMP00787,E01,Accenture Monterrey,Full Stack Developer,Junior,2024,2.8,3.0,2.9,2.4,3.2,No,Trabajo remoto
+ENC001217,EMP02288,E02,Tata Consultancy Services,Scrum Master,Senior,2024,4.9,3.9,5.0,5.0,4.8,No,Trabajo remoto
+ENC001218,EMP04886,E05,Globant Monterrey,Project Manager,Senior,2024,4.8,5.0,4.8,4.6,4.8,Tal vez,Crecimiento profesional
+ENC001219,EMP07084,E09,Deintec,Project Manager,Mid,2023,4.2,3.3,4.3,3.6,4.3,Tal vez,N/A
+ENC001220,EMP07084,E09,Deintec,Project Manager,Mid,2024,3.6,3.6,3.6,3.4,3.9,No,Mejor salario
+ENC001221,EMP07766,E12,TI Monterrey,Full Stack Developer,Mid,2023,4.3,4.3,4.2,3.8,4.3,Tal vez,Crecimiento profesional
+ENC001222,EMP07766,E12,TI Monterrey,Full Stack Developer,Mid,2024,3.7,2.9,4.0,4.0,4.0,Tal vez,Crecimiento profesional
+ENC001223,EMP05715,E06,BairesDev,Software Developer,Senior,2023,5.0,4.6,5.0,5.0,5.0,No,Crecimiento profesional
+ENC001224,EMP05715,E06,BairesDev,Software Developer,Senior,2024,4.7,4.5,5.0,5.0,4.7,No,Cambio de ciudad
+ENC001225,EMP05609,E06,BairesDev,Cybersecurity Analyst,Junior,2023,3.6,3.6,4.0,3.6,3.7,No,Trabajo remoto
+ENC001226,EMP00092,E01,Accenture Monterrey,Scrum Master,Mid,2023,4.7,4.5,5.0,4.7,4.1,No,Mejor salario
+ENC001227,EMP00092,E01,Accenture Monterrey,Scrum Master,Mid,2024,4.5,4.1,4.8,4.9,4.7,Tal vez,N/A
+ENC001228,EMP05573,E06,BairesDev,Software Developer,Mid,2023,4.2,3.8,4.0,3.9,3.8,Tal vez,Cambio de ciudad
+ENC001229,EMP05573,E06,BairesDev,Software Developer,Mid,2024,4.4,4.2,4.5,4.5,4.4,No,Mejor salario
+ENC001230,EMP01386,E01,Accenture Monterrey,Full Stack Developer,Junior,2024,4.4,4.3,4.6,4.3,4.2,Sí,Mejor salario
+ENC001231,EMP07865,E12,TI Monterrey,Backend Developer,Junior,2023,4.7,4.5,4.9,4.6,5.0,No,Trabajo remoto
+ENC001232,EMP07865,E12,TI Monterrey,Backend Developer,Junior,2024,3.4,3.3,3.4,3.9,2.9,No,N/A
+ENC001233,EMP05922,E06,BairesDev,Cybersecurity Analyst,Junior,2023,3.8,3.7,3.9,3.7,3.8,No,Trabajo remoto
+ENC001234,EMP05922,E06,BairesDev,Cybersecurity Analyst,Junior,2024,3.7,3.7,3.7,4.0,3.9,No,Crecimiento profesional
+ENC001235,EMP05923,E06,BairesDev,Data Analyst,Junior,2023,3.9,3.7,4.0,3.6,4.0,Sí,Cambio de ciudad
+ENC001236,EMP00531,E01,Accenture Monterrey,Cybersecurity Analyst,Mid,2023,3.5,3.7,3.9,3.7,3.2,Tal vez,Trabajo remoto
+ENC001237,EMP01181,E01,Accenture Monterrey,Cloud Architect,Senior,2023,4.0,3.8,4.0,3.8,4.1,No,N/A
+ENC001238,EMP01181,E01,Accenture Monterrey,Cloud Architect,Senior,2024,3.6,3.9,3.6,3.2,3.1,Tal vez,Crecimiento profesional
+ENC001239,EMP05607,E06,BairesDev,DevOps Engineer,Mid,2023,3.9,3.8,4.5,3.6,4.1,Sí,Mejor salario
+ENC001240,EMP05607,E06,BairesDev,DevOps Engineer,Mid,2024,4.6,4.8,4.6,4.9,4.3,Tal vez,Mejor salario
+ENC001241,EMP07509,E11,Skye Group,Backend Developer,Junior,2024,3.7,3.6,3.8,3.7,3.9,No,Mejor salario
+ENC001242,EMP05748,E06,BairesDev,Cloud Architect,Mid,2023,4.2,4.6,4.4,4.4,3.9,Tal vez,Trabajo remoto
+ENC001243,EMP05748,E06,BairesDev,Cloud Architect,Mid,2024,3.5,3.6,4.0,3.2,3.5,Sí,Cambio de ciudad
+ENC001244,EMP04797,E04,Infosys Monterrey,Frontend Developer,Senior,2023,4.0,3.8,3.9,3.8,4.3,Tal vez,N/A
+ENC001245,EMP03407,E03,Neoris,DevOps Engineer,Mid,2024,4.0,3.6,4.2,3.9,4.6,Sí,Crecimiento profesional
+ENC001246,EMP07782,E12,TI Monterrey,Project Manager,Mid,2023,4.8,4.5,4.8,4.7,4.6,No,Mejor salario
+ENC001247,EMP07782,E12,TI Monterrey,Project Manager,Mid,2024,4.8,4.5,4.5,4.8,4.9,Sí,Mejor salario
+ENC001248,EMP06075,E07,Hexaware Technologies,Data Analyst,Senior,2024,4.8,4.4,4.9,4.9,4.9,No,Crecimiento profesional
+ENC001249,EMP03716,E03,Neoris,Scrum Master,Mid,2023,3.3,3.1,3.4,3.6,3.4,No,Mejor salario
+ENC001250,EMP03716,E03,Neoris,Scrum Master,Mid,2024,4.9,4.5,5.0,4.7,4.7,No,Mejor salario
+ENC001251,EMP00132,E01,Accenture Monterrey,DevOps Engineer,Mid,2023,3.7,3.4,3.8,3.2,3.8,No,Crecimiento profesional
+ENC001252,EMP00132,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,4.4,3.8,4.3,4.6,4.3,No,Mejor salario
+ENC001253,EMP03568,E03,Neoris,Software Developer,Mid,2023,3.7,3.3,3.6,3.5,3.9,No,Trabajo remoto
+ENC001254,EMP03568,E03,Neoris,Software Developer,Mid,2024,4.4,4.4,4.5,4.3,4.8,Sí,Trabajo remoto
+ENC001255,EMP06784,E08,AZKA IT Consulting,Project Manager,Mid,2023,3.8,3.7,4.1,3.4,3.9,Tal vez,Crecimiento profesional
+ENC001256,EMP06784,E08,AZKA IT Consulting,Project Manager,Mid,2024,4.4,4.2,4.8,4.3,4.0,Tal vez,Mejor salario
+ENC001257,EMP06658,E08,AZKA IT Consulting,Software Developer,Junior,2024,4.3,4.0,4.1,4.5,4.7,No,Crecimiento profesional
+ENC001258,EMP01336,E01,Accenture Monterrey,Data Analyst,Mid,2023,4.8,4.4,4.9,4.5,4.8,Tal vez,Cambio de ciudad
+ENC001259,EMP01336,E01,Accenture Monterrey,Data Analyst,Mid,2024,4.0,3.6,4.3,3.8,4.3,Tal vez,Trabajo remoto
+ENC001260,EMP04349,E04,Infosys Monterrey,Data Analyst,Mid,2023,3.4,3.4,3.6,3.3,3.7,Sí,Trabajo remoto
+ENC001261,EMP04349,E04,Infosys Monterrey,Data Analyst,Mid,2024,3.4,3.6,3.4,3.2,3.1,No,Crecimiento profesional
+ENC001262,EMP03007,E02,Tata Consultancy Services,Backend Developer,Junior,2023,3.4,3.0,3.3,3.3,3.0,Tal vez,Crecimiento profesional
+ENC001263,EMP03007,E02,Tata Consultancy Services,Backend Developer,Junior,2024,3.6,3.8,3.7,3.8,3.6,No,Startup propia
+ENC001264,EMP05342,E05,Globant Monterrey,Cloud Architect,Mid,2024,4.3,4.1,4.8,4.1,4.6,No,N/A
+ENC001265,EMP01979,E02,Tata Consultancy Services,Full Stack Developer,Senior,2023,3.7,3.1,3.9,3.5,3.1,No,Mejor salario
+ENC001266,EMP04562,E04,Infosys Monterrey,Software Developer,Junior,2023,4.0,3.5,4.4,3.5,3.4,No,Crecimiento profesional
+ENC001267,EMP04562,E04,Infosys Monterrey,Software Developer,Junior,2024,3.6,3.1,3.6,3.1,3.7,Tal vez,Trabajo remoto
+ENC001268,EMP04673,E04,Infosys Monterrey,Backend Developer,Junior,2023,2.9,2.7,2.8,2.7,3.0,No,Mejor salario
+ENC001269,EMP04673,E04,Infosys Monterrey,Backend Developer,Junior,2024,3.7,3.6,3.9,3.4,3.5,No,Startup propia
+ENC001270,EMP06413,E07,Hexaware Technologies,Software Developer,Senior,2023,5.0,4.7,5.0,4.4,5.0,No,Startup propia
+ENC001271,EMP06413,E07,Hexaware Technologies,Software Developer,Senior,2024,4.5,4.7,4.7,4.9,4.8,No,Crecimiento profesional
+ENC001272,EMP07713,E11,Skye Group,Frontend Developer,Mid,2024,3.6,3.5,3.5,3.5,3.5,Tal vez,Crecimiento profesional
+ENC001273,EMP01346,E01,Accenture Monterrey,Software Developer,Junior,2023,4.3,4.4,4.6,4.3,4.1,No,Crecimiento profesional
+ENC001274,EMP01346,E01,Accenture Monterrey,Software Developer,Junior,2024,3.7,3.0,3.7,3.6,4.0,No,N/A
+ENC001275,EMP01035,E01,Accenture Monterrey,Backend Developer,Mid,2024,3.5,3.2,3.5,3.1,3.6,No,Crecimiento profesional
+ENC001276,EMP05680,E06,BairesDev,Software Developer,Mid,2024,3.1,2.7,3.3,3.0,3.3,No,Mejor salario
+ENC001277,EMP00695,E01,Accenture Monterrey,Full Stack Developer,Mid,2023,4.1,3.7,4.1,3.8,4.2,No,Startup propia
+ENC001278,EMP07698,E11,Skye Group,Data Analyst,Junior,2023,4.1,3.5,4.3,4.2,3.9,No,Mejor salario
+ENC001279,EMP00168,E01,Accenture Monterrey,DevOps Engineer,Mid,2024,4.5,4.8,4.7,4.8,4.0,No,Trabajo remoto
+ENC001280,EMP00094,E01,Accenture Monterrey,Data Analyst,Mid,2024,4.6,4.6,4.5,4.1,4.7,No,N/A
+ENC001281,EMP00368,E01,Accenture Monterrey,Project Manager,Mid,2023,4.6,4.0,4.9,4.1,4.4,Sí,Crecimiento profesional
+ENC001282,EMP00368,E01,Accenture Monterrey,Project Manager,Mid,2024,4.0,3.7,4.0,3.5,4.3,No,N/A
+ENC001283,EMP05392,E05,Globant Monterrey,Software Developer,Senior,2023,4.8,4.6,5.0,4.5,4.6,No,Crecimiento profesional
+ENC001284,EMP06373,E07,Hexaware Technologies,Backend Developer,Junior,2023,3.4,3.3,3.5,3.7,3.3,No,Crecimiento profesional
+ENC001285,EMP04592,E04,Infosys Monterrey,Software Developer,Mid,2023,3.4,3.2,3.5,3.1,3.3,No,Trabajo remoto
+ENC001286,EMP04639,E04,Infosys Monterrey,Data Analyst,Senior,2023,4.0,4.1,4.1,4.2,4.1,Sí,Trabajo remoto
+ENC001287,EMP04639,E04,Infosys Monterrey,Data Analyst,Senior,2024,4.7,4.4,5.0,4.7,5.0,No,Crecimiento profesional
+ENC001288,EMP00836,E01,Accenture Monterrey,Software Developer,Mid,2024,4.6,4.1,4.6,4.5,4.3,No,Crecimiento profesional
+ENC001289,EMP01408,E01,Accenture Monterrey,Data Analyst,Mid,2024,3.8,3.2,3.7,3.6,3.8,No,Trabajo remoto
+ENC001290,EMP02551,E02,Tata Consultancy Services,Full Stack Developer,Mid,2023,4.2,4.2,4.4,3.8,3.9,Tal vez,Cambio de ciudad
+ENC001291,EMP01298,E01,Accenture Monterrey,Backend Developer,Senior,2024,4.3,4.3,4.3,4.2,3.9,No,Mejor salario
+ENC001292,EMP02944,E02,Tata Consultancy Services,Frontend Developer,Senior,2023,3.9,4.6,4.1,3.9,3.7,Sí,Startup propia
+ENC001293,EMP02690,E02,Tata Consultancy Services,Full Stack Developer,Mid,2024,4.5,4.1,4.5,4.7,4.1,Tal vez,Mejor salario
+ENC001294,EMP05273,E05,Globant Monterrey,DevOps Engineer,Senior,2024,4.4,4.1,4.4,4.5,4.5,Tal vez,Crecimiento profesional
+ENC001295,EMP01766,E01,Accenture Monterrey,Software Developer,Mid,2023,3.5,3.7,3.6,3.1,3.5,Sí,Mejor salario
+ENC001296,EMP01766,E01,Accenture Monterrey,Software Developer,Mid,2024,3.8,3.3,3.9,4.2,3.8,No,Mejor salario
+ENC001297,EMP07418,E10,Axsis Tecnología,Data Analyst,Mid,2023,4.4,4.6,4.7,3.8,4.6,No,Crecimiento profesional
+ENC001298,EMP07418,E10,Axsis Tecnología,Data Analyst,Mid,2024,4.0,3.9,4.1,4.2,3.8,No,Trabajo remoto
+ENC001299,EMP06487,E07,Hexaware Technologies,Software Developer,Mid,2023,3.5,3.2,3.9,3.7,3.6,Tal vez,Trabajo remoto
+ENC001300,EMP06487,E07,Hexaware Technologies,Software Developer,Mid,2024,4.5,5.0,4.8,4.3,4.8,No,N/A
+ENC001301,EMP07432,E10,Axsis Tecnología,Data Analyst,Junior,2023,3.1,3.6,3.0,2.4,2.7,Tal vez,Mejor salario
+ENC001302,EMP07432,E10,Axsis Tecnología,Data Analyst,Junior,2024,4.2,4.0,4.1,3.5,4.3,No,Trabajo remoto
+ENC001303,EMP03127,E03,Neoris,Full Stack Developer,Mid,2023,3.4,3.1,3.8,3.2,3.5,Tal vez,Mejor salario
+ENC001304,EMP01576,E01,Accenture Monterrey,Frontend Developer,Senior,2023,3.9,3.5,4.2,3.9,3.9,No,Startup propia
+ENC001305,EMP02358,E02,Tata Consultancy Services,Software Developer,Junior,2023,4.1,3.8,4.3,4.2,3.7,No,Cambio de ciudad
+ENC001306,EMP02358,E02,Tata Consultancy Services,Software Developer,Junior,2024,4.4,4.4,4.6,3.8,4.2,No,N/A
+ENC001307,EMP05819,E06,BairesDev,Full Stack Developer,Senior,2023,4.2,4.2,3.9,4.7,4.3,No,Mejor salario
+ENC001308,EMP05819,E06,BairesDev,Full Stack Developer,Senior,2024,4.7,4.9,5.0,4.9,4.7,Sí,Mejor salario
+ENC001309,EMP01721,E01,Accenture Monterrey,Cybersecurity Analyst,Mid,2023,4.0,4.0,4.4,3.3,3.8,Tal vez,Trabajo remoto
+ENC001310,EMP05465,E05,Globant Monterrey,Data Analyst,Junior,2023,3.1,2.9,2.9,3.7,3.1,No,Mejor salario
+ENC001311,EMP05465,E05,Globant Monterrey,Data Analyst,Junior,2024,4.5,3.8,4.4,4.7,4.6,Tal vez,Mejor salario
+ENC001312,EMP05013,E05,Globant Monterrey,DevOps Engineer,Mid,2023,3.8,3.1,4.0,3.7,3.8,Tal vez,Trabajo remoto
+ENC001313,EMP05013,E05,Globant Monterrey,DevOps Engineer,Mid,2024,4.4,4.2,4.4,4.5,4.2,No,Mejor salario
+ENC001314,EMP00933,E01,Accenture Monterrey,Full Stack Developer,Junior,2023,3.9,4.1,4.4,3.7,3.9,Tal vez,Trabajo remoto
+ENC001315,EMP00933,E01,Accenture Monterrey,Full Stack Developer,Junior,2024,4.3,4.7,4.1,4.0,4.1,Sí,Mejor salario
+ENC001316,EMP05121,E05,Globant Monterrey,Backend Developer,Junior,2023,3.5,2.9,3.2,3.3,3.5,No,Trabajo remoto
+ENC001317,EMP05121,E05,Globant Monterrey,Backend Developer,Junior,2024,3.7,3.7,3.6,3.7,3.7,No,Crecimiento profesional
