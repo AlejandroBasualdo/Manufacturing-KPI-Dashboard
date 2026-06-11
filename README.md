@@ -141,10 +141,6 @@ Los salarios, volúmenes de contratación y métricas de negocio están basados 
 
 ---
 
-## 📸 Screenshots del Dashboard
-
-> *(Agregar capturas después de construir el dashboard en Power BI)*
-
 | Vista | Descripción |
 |-------|-------------|
 | `screenshots/01_revenue_overview.png` | Ingresos y margen por empresa |
